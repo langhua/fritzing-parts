@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+
+<svg
+   id="svg31497"
+   viewBox="0 0 87.307032 167.24444"
+   height="59mm"
+   width="30.799999mm"
+   y="0in"
+   x="0in"
+   version="1.2"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs31501">
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DimmArrow_Start_n00001"
+       style="overflow:visible">
+      <path
+         d="M 0,0 -10,1.76327 V -1.76327 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-opacity:1"
+         transform="rotate(180,-5,0)"
+         id="path42439" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DimmArrow_End_n00001"
+       style="overflow:visible">
+      <path
+         d="M 0,0 -10,1.76327 V -1.76327 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-opacity:1"
+         transform="translate(10)"
+         id="path42442" />
+    </marker>
+  </defs>
+  <g
+     id="copper0">
+    <g
+       id="copper1">
+      <ellipse
+         cy="38.0089"
+         stroke-width="0.919538"
+         gorn="0.1.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.7"
+         stroke="#ffbf00"
+         fill="none"
+         id="connector0pad"
+         cx="83.794113"
+         rx="1.2634668"
+         ry="1.2652637" />
+      <ellipse
+         cy="45.197899"
+         stroke-width="0.919538"
+         gorn="0.1.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.6"
+         stroke="#ffbf00"
+         fill="none"
+         id="connector1pad"
+         cx="83.794113"
+         rx="1.2634668"
+         ry="1.2652637" />
+      <ellipse
+         cy="52.386898"
+         stroke-width="0.919538"
+         gorn="0.1.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.0"
+         stroke="#ffbf00"
+         fill="none"
+         id="connector2pad"
+         cx="83.794113"
+         rx="1.2634668"
+         ry="1.2652637" />
+      <ellipse
+         cy="59.575897"
+         stroke-width="0.919538"
+         gorn="0.1.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.8"
+         stroke="#ffbf00"
+         fill="none"
+         id="connector3pad"
+         cx="83.794113"
+         rx="1.2634668"
+         ry="1.2652637" />
+      <ellipse
+         cy="66.764893"
+         stroke-width="0.919538"
+         gorn="0.1.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.27"
+         stroke="#ffbf00"
+         fill="none"
+         id="connector4pad"
+         cx="83.794113"
+         rx="1.2634668"
+         ry="1.2652637" />
+      <ellipse
+         cy="73.953896"
+         stroke-width="0.919538"
+         gorn="0.1.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.28"
+         stroke="#ffbf00"
+         fill="none"
+         id="connector5pad"
+         cx="83.794113"
+         rx="1.2634668"
+         ry="1.2652637" />
+      <ellipse
+         cy="81.142891"
+         stroke-width="0.919538"
+         gorn="0.1.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.29"
+         stroke="#ffbf00"
+         fill="none"
+         id="connector6pad"
+         cx="83.794113"
+         rx="1.2634668"
+         ry="1.2652637" />
+      <ellipse
+         cy="88.331894"
+         stroke-width="0.919538"
+         gorn="0.1.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.19"
+         stroke="#ffbf00"
+         fill="none"
+         id="connector7pad"
+         cx="83.794113"
+         rx="1.2634668"
+         ry="1.2652637" />
+      <ellipse
+         cy="95.520889"
+         stroke-width="0.919538"
+         gorn="0.1.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.20"
+         stroke="#ffbf00"
+         fill="none"
+         id="connector8pad"
+         cx="83.794113"
+         rx="1.2634668"
+         ry="1.2652637" />
+      <ellipse
+         cy="102.70989"
+         stroke-width="0.919538"
+         gorn="0.1.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.21"
+         stroke="#ffbf00"
+         fill="none"
+         id="connector9pad"
+         cx="83.794113"
+         rx="1.2634668"
+         ry="1.2652637" />
+      <ellipse
+         cy="109.89889"
+         stroke-width="0.919538"
+         gorn="0.1.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.22"
+         stroke="#ffbf00"
+         fill="none"
+         id="connector10pad"
+         cx="83.794113"
+         rx="1.2634668"
+         ry="1.2652637" />
+      <ellipse
+         cy="117.08788"
+         stroke-width="0.919538"
+         gorn="0.1.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.23"
+         stroke="#ffbf00"
+         fill="none"
+         id="connector11pad"
+         cx="83.794113"
+         rx="1.2634668"
+         ry="1.2652637" />
+      <ellipse
+         cy="124.27688"
+         stroke-width="0.919538"
+         gorn="0.1.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.24"
+         stroke="#ffbf00"
+         fill="none"
+         id="connector12pad"
+         cx="83.794113"
+         rx="1.2634668"
+         ry="1.2652637" />
+      <ellipse
+         cy="131.46587"
+         stroke-width="0.919538"
+         gorn="0.1.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.25"
+         stroke="#ffbf00"
+         fill="none"
+         id="connector13pad"
+         cx="83.794113"
+         rx="1.2634668"
+         ry="1.2652637" />
+      <ellipse
+         cy="138.65508"
+         stroke-width="0.919538"
+         gorn="0.1.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.26"
+         stroke="#ffbf00"
+         fill="none"
+         id="connector14pad"
+         cx="83.794113"
+         rx="1.2634668"
+         ry="1.2652637" />
+      <ellipse
+         cy="138.65508"
+         stroke-width="0.919538"
+         gorn="0.1.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.18"
+         stroke="#ffbf00"
+         fill="none"
+         id="connector15pad"
+         cx="3.4806218"
+         rx="1.2634668"
+         ry="1.2652637" />
+      <ellipse
+         cy="131.46587"
+         stroke-width="0.919538"
+         gorn="0.1.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.17"
+         stroke="#ffbf00"
+         fill="none"
+         id="connector16pad"
+         cx="3.4806218"
+         rx="1.2634668"
+         ry="1.2652637" />
+      <ellipse
+         cy="124.27688"
+         stroke-width="0.919538"
+         gorn="0.1.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.16"
+         stroke="#ffbf00"
+         fill="none"
+         id="connector17pad"
+         cx="3.4806218"
+         rx="1.2634668"
+         ry="1.2652637" />
+      <ellipse
+         cy="117.08788"
+         stroke-width="0.919538"
+         gorn="0.1.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.15"
+         stroke="#ffbf00"
+         fill="none"
+         id="connector18pad"
+         cx="3.4806218"
+         rx="1.2634668"
+         ry="1.2652637" />
+      <ellipse
+         cy="109.89889"
+         stroke-width="0.919538"
+         gorn="0.1.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.14"
+         stroke="#ffbf00"
+         fill="none"
+         id="connector19pad"
+         cx="3.4806218"
+         rx="1.2634668"
+         ry="1.2652637" />
+      <ellipse
+         cy="38.0089"
+         stroke-width="0.919538"
+         gorn="0.1.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.1"
+         stroke="#ffbf00"
+         fill="none"
+         id="connector42pin"
+         cx="3.4806218"
+         rx="1.2634668"
+         ry="1.2652637" />
+      <ellipse
+         cy="45.197899"
+         stroke-width="0.919538"
+         gorn="0.1.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.2"
+         stroke="#ffbf00"
+         fill="none"
+         id="connector41pin"
+         cx="3.4806218"
+         rx="1.2634668"
+         ry="1.2652637" />
+      <ellipse
+         cy="52.386898"
+         stroke-width="0.919538"
+         gorn="0.1.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.3"
+         stroke="#ffbf00"
+         fill="none"
+         id="connector40pin"
+         cx="3.4806218"
+         rx="1.2634668"
+         ry="1.2652637" />
+      <ellipse
+         cy="59.575897"
+         stroke-width="0.919538"
+         gorn="0.1.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.4"
+         stroke="#ffbf00"
+         fill="none"
+         id="connector39pin"
+         cx="3.4806218"
+         rx="1.2634668"
+         ry="1.2652637" />
+      <ellipse
+         cy="66.764893"
+         stroke-width="0.919538"
+         gorn="0.1.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.5"
+         stroke="#ffbf00"
+         fill="none"
+         id="connector38pin"
+         cx="3.4806218"
+         rx="1.2634668"
+         ry="1.2652637" />
+      <ellipse
+         cy="73.953896"
+         stroke-width="0.919538"
+         gorn="0.1.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.9"
+         stroke="#ffbf00"
+         fill="none"
+         id="connector37pin"
+         cx="3.4806218"
+         rx="1.2634668"
+         ry="1.2652637" />
+      <ellipse
+         cy="81.142891"
+         stroke-width="0.919538"
+         gorn="0.1.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.10"
+         stroke="#ffbf00"
+         fill="none"
+         id="connector36pin"
+         cx="3.4806218"
+         rx="1.2634668"
+         ry="1.2652637" />
+      <ellipse
+         cy="88.331894"
+         stroke-width="0.919538"
+         gorn="0.1.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.11"
+         stroke="#ffbf00"
+         fill="none"
+         id="connector35pin"
+         cx="3.4806218"
+         rx="1.2634668"
+         ry="1.2652637" />
+      <ellipse
+         cy="95.520889"
+         stroke-width="0.919538"
+         gorn="0.1.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.12"
+         stroke="#ffbf00"
+         fill="none"
+         id="connector34pin"
+         cx="3.4806218"
+         rx="1.2634668"
+         ry="1.2652637" />
+      <ellipse
+         cy="102.70989"
+         stroke-width="0.919538"
+         gorn="0.1.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.13"
+         stroke="#ffbf00"
+         fill="none"
+         id="connector33pin"
+         cx="3.4806218"
+         rx="1.2634668"
+         ry="1.2652637" />
+    </g>
+  </g>
+  <g
+     id="silkscreen"
+     transform="matrix(1.007372,0,0,0.99999259,-0.45953747,6.2113088e-4)">
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.336813;stroke-dasharray:none;paint-order:stroke fill markers"
+       id="rect35519"
+       width="86.632652"
+       height="166.95743"
+       x="0.41887879"
+       y="0.28978086" />
+  </g>
+</svg>
