@@ -1,0 +1,247 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" height="17.6mm"  gorn="0" viewBox="0 0 49.212039 69.290085" id="svg1932" width="12.5mm">
+    <desc >
+        <referenceFile >PB86-A0-PCB.svg</referenceFile>
+    </desc>
+    <defs  id="defs1936"/>
+    <title  id="title1896"/>
+    <style  type="text/css" id="style1898">
+*[layerid="1"] {stroke:#000000;fill:#000000;}
+*[layerid="2"] {stroke:#000000;fill:#000000;}
+*[layerid="3"] {stroke:#000000;fill:#000000;}
+*[layerid="4"] {stroke:#000000;fill:#000000;}
+*[layerid="5"] {stroke:#000000;fill:#000000;}
+*[layerid="6"] {stroke:#000000;fill:#000000;}
+*[layerid="7"] {stroke:#000000;fill:#000000;}
+*[layerid="8"] {stroke:#000000;fill:#000000;}
+*[layerid="9"] {stroke:#000000;fill:#000000;}
+*[layerid="10"] {stroke:#000000;fill:#000000;}
+*[layerid="11"] {stroke:#000000;fill:#000000;}
+*[layerid="12"] {stroke:#000000;fill:#000000;}
+*[layerid="13"] {stroke:#000000;fill:#000000;}
+*[layerid="14"] {stroke:#000000;fill:#000000;}
+*[layerid="15"] {stroke:#000000;fill:#000000;}
+*[layerid="19"] {stroke:#000000;fill:#000000;}
+*[layerid="21"] {stroke:#000000;fill:#000000;}
+*[layerid="22"] {stroke:#000000;fill:#000000;}
+*[layerid="23"] {stroke:#000000;fill:#000000;}
+*[layerid="24"] {stroke:#000000;fill:#000000;}
+*[layerid="25"] {stroke:#000000;fill:#000000;}
+*[layerid="26"] {stroke:#000000;fill:#000000;}
+*[layerid="27"] {stroke:#000000;fill:#000000;}
+*[layerid="28"] {stroke:#000000;fill:#000000;}
+*[layerid="29"] {stroke:#000000;fill:#000000;}
+*[layerid="30"] {stroke:#000000;fill:#000000;}
+*[layerid="31"] {stroke:#000000;fill:#000000;}
+*[layerid="32"] {stroke:#000000;fill:#000000;}
+*[layerid="33"] {stroke:#000000;fill:#000000;}
+*[layerid="34"] {stroke:#000000;fill:#000000;}
+*[layerid="35"] {stroke:#000000;fill:#000000;}
+*[layerid="36"] {stroke:#000000;fill:#000000;}
+*[layerid="37"] {stroke:#000000;fill:#000000;}
+*[layerid="38"] {stroke:#000000;fill:#000000;}
+*[layerid="39"] {stroke:#000000;fill:#000000;}
+*[layerid="40"] {stroke:#000000;fill:#000000;}
+*[layerid="41"] {stroke:#000000;fill:#000000;}
+*[layerid="42"] {stroke:#000000;fill:#000000;}
+*[layerid="43"] {stroke:#000000;fill:#000000;}
+*[layerid="44"] {stroke:#000000;fill:#000000;}
+*[layerid="45"] {stroke:#000000;fill:#000000;}
+*[layerid="46"] {stroke:#000000;fill:#000000;}
+*[layerid="47"] {stroke:#000000;fill:#000000;}
+*[layerid="48"] {stroke:#000000;fill:#000000;}
+*[layerid="49"] {stroke:#000000;fill:#000000;}
+*[layerid="50"] {stroke:#000000;fill:#000000;}
+*[layerid="51"] {stroke:#000000;fill:#000000;}
+*[layerid="52"] {stroke:#000000;fill:#000000;}
+*[layerid="99"] {stroke:#000000;fill:#000000;}
+*[layerid="100"] {stroke:#000000;fill:#000000;}
+*[layerid="101"] {stroke:#000000;fill:#000000;}
+*[layerid="Hole"] {stroke:#000000;fill:#000000;}
+*[layerid="DRCError"] {stroke:#000000;fill:#000000;}
+*[fill="none"] {fill: none;}
+*[stroke="none"] {stroke: none;}
+path, polyline, polygon, line {stroke-linecap:round;}
+g[c_partid="part_pad"][layerid="1"] ellipse:not([c_etype="pad_outer"]) {fill:#000000;}
+g[c_partid="part_pad"][layerid="1"] polygon:not([c_etype="pad_outer"]) {fill:#000000;}
+g[c_partid="part_pad"][layerid="1"] polyline:not([c_etype="pad_outer"]) {stroke:#000000;}
+g[c_partid="part_pad"][layerid="2"] ellipse:not([c_etype="pad_outer"]) {fill:#000000;}
+g[c_partid="part_pad"][layerid="2"] polygon:not([c_etype="pad_outer"]) {fill:#000000;}
+g[c_partid="part_pad"][layerid="2"] polyline:not([c_etype="pad_outer"]) {stroke:#000000;}
+g[c_partid="part_pad"][layerid="11"] ellipse:not([c_etype="pad_outer"]) {fill:#000000;}
+g[c_partid="part_pad"][layerid="11"] polygon:not([c_etype="pad_outer"]) {fill:#000000;}
+g[c_partid="part_pad"][layerid="11"] polyline:not([c_etype="pad_outer"]) {stroke:#000000;}
+g[c_partid="part_pad"][layerid="11"] circle {fill:#FFFFFF;}
+g[c_partid="part_pad"][layerid="11"] > polyline:nth-of-type(2) {stroke:#FFFFFF;}
+g[c_partid="part_pad"][layerid="11"][c_shape="ELLIPSE"]  polyline:nth-last-of-type(1) {stroke:#FFFFFF;}
+g[c_partid="part_pad"][layerid="11"][c_shape="RECT"]  polyline:nth-last-of-type(1) {stroke:#FFFFFF;}
+g[c_partid="part_pad"][layerid="11"][c_shape="POLYGON"]  polyline:nth-last-of-type(1) {stroke:#FFFFFF;}
+g[c_partid="part_via"] > * + circle, #gCurParts g[c_partid="part_via"] > * + circle {fill:#FFFFFF;}
+g[c_partid="part_pad"] > polygon[c_etype="pad_outer"], #gCurParts g[c_partid="part_pad"] > polygon[c_etype="pad_outer"] {stroke-linejoin: round;stroke-miterlimit: 100;}
+g[c_partid="part_hole"] > circle {fill: #FFFFFF;}path, polyline, polygon {stroke-linejoin:round;}
+rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges;}
+</style>
+    <g  transform="translate(-4004.0355,-2927.8671)">
+        <g >
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g  gorn="0.4.0.0.0.0.0.0.0" id="copper1">
+                                    <g  gorn="0.4.0.0.0.0.0.0.0.0" id="copper0">
+                                        <g  transform="translate(-0.18930312,0.18930312)">
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <g >
+                                                                <g >
+                                                                    <g gorn="0.4.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0" solderexpansion="0.1575"  title="N.O." stroke="none" fill="none" c_etype="pinpart" id="connector3pin" c_width="7.0866" c_height="7.0866" locked="0" plated="Y" c_partid="part_pad" pasteexpansion="0" c_rotation="0" net="" number="2" layerid="11" c_origin="4014.5,2981.98" c_shape="ELLIPSE">
+                                                                        <path style="stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges" fill="#000000"  stroke-width="0" d="m 4018.0433,2981.98 a 3.5432999,3.5432999 0 0 1 -3.5433,3.5433 3.5432999,3.5432999 0 0 1 -3.5433,-3.5433 3.5432999,3.5432999 0 0 1 3.5433,-3.5433 3.5432999,3.5432999 0 0 1 3.5433,3.5433 z" gorn="0.4.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0" id="ellipse1912"/>
+                                                                        <path style="stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges" fill="#ffffff"  stroke-width="0" d="m 4016.4685,2981.98 a 1.9685,1.9685 0 0 1 -1.9685,1.9685 1.9685,1.9685 0 0 1 -1.9685,-1.9685 1.9685,1.9685 0 0 1 1.9685,-1.9685 1.9685,1.9685 0 0 1 1.9685,1.9685 z" gorn="0.4.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1" id="circle1914"/>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <g  transform="translate(-0.18930312,0.18930312)">
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <g >
+                                                                <g >
+                                                                    <g gorn="0.4.0.0.0.0.0.0.0.0.1.0.0.0.0.0.0.0" solderexpansion="0.1575"  title="" stroke="#000000" fill="#000000" c_etype="pinpart" id="connector2pin" c_width="7.0866" c_height="7.0866" locked="0" plated="Y" stroke-width="1" c_partid="part_pad" pasteexpansion="0" c_rotation="0" net="" number="1." layerid="11" c_origin="4044.5,2961.98" c_shape="RECT">
+                                                                        <path style="stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"  stroke-width="0" d="m 4040.9567,2965.5233 v -7.0866 h 7.0866 v 7.0866 z" gorn="0.4.0.0.0.0.0.0.0.0.1.0.0.0.0.0.0.0.0" id="polygon1907"/>
+                                                                        <path style="stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges" fill="#ffffff"  stroke-width="0" d="m 4046.4685,2961.98 a 1.9685,1.9685 0 0 1 -1.9685,1.9685 1.9685,1.9685 0 0 1 -1.9685,-1.9685 1.9685,1.9685 0 0 1 1.9685,-1.9685 1.9685,1.9685 0 0 1 1.9685,1.9685 z" gorn="0.4.0.0.0.0.0.0.0.0.1.0.0.0.0.0.0.0.1" id="circle1909"/>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <g  transform="translate(-0.18930312,0.18930312)">
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <g >
+                                                                <g >
+                                                                    <g gorn="0.4.0.0.0.0.0.0.0.0.2.0.0.0.0.0.0.0" solderexpansion="0.1575"  title="" stroke="#000000" fill="#000000" c_etype="pinpart" id="connector1pin" c_width="7.0866" c_height="7.0866" locked="0" plated="Y" stroke-width="1" c_partid="part_pad" pasteexpansion="0" c_rotation="0" net="" number="1" layerid="11" c_origin="4014.5,2961.98" c_shape="RECT">
+                                                                        <path style="stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"  stroke-width="0" d="m 4010.9567,2965.5233 v -7.0866 h 7.0866 v 7.0866 z" gorn="0.4.0.0.0.0.0.0.0.0.2.0.0.0.0.0.0.0.0" id="polygon1902"/>
+                                                                        <path style="stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges" fill="#ffffff"  stroke-width="0" d="m 4016.4685,2961.98 a 1.9685,1.9685 0 0 1 -1.9685,1.9685 1.9685,1.9685 0 0 1 -1.9685,-1.9685 1.9685,1.9685 0 0 1 1.9685,-1.9685 1.9685,1.9685 0 0 1 1.9685,1.9685 z" gorn="0.4.0.0.0.0.0.0.0.0.2.0.0.0.0.0.0.0.1" id="circle1904"/>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <g  transform="translate(-0.18930312,0.18930312)">
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <g >
+                                                                <g >
+                                                                    <g gorn="0.4.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0" solderexpansion="0.1575"  title="NC" stroke="none" fill="none" c_etype="pinpart" id="connector4pin" c_width="7.0866" c_height="7.0866" locked="0" plated="Y" c_partid="part_pad" pasteexpansion="0" c_rotation="0" net="" number="3" layerid="11" c_origin="4044.5,2981.98" c_shape="ELLIPSE">
+                                                                        <path style="stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges" fill="#000000"  stroke-width="0" d="m 4048.0433,2981.98 a 3.5432999,3.5432999 0 0 1 -3.5433,3.5433 3.5432999,3.5432999 0 0 1 -3.5433,-3.5433 3.5432999,3.5432999 0 0 1 3.5433,-3.5433 3.5432999,3.5432999 0 0 1 3.5433,3.5433 z" gorn="0.4.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0" id="ellipse1917"/>
+                                                                        <path style="stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges" fill="#ffffff"  stroke-width="0" d="m 4046.4685,2981.98 a 1.9685,1.9685 0 0 1 -1.9685,1.9685 1.9685,1.9685 0 0 1 -1.9685,-1.9685 1.9685,1.9685 0 0 1 1.9685,-1.9685 1.9685,1.9685 0 0 1 1.9685,1.9685 z" gorn="0.4.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.1" id="circle1919"/>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-3994.381,-2918.7805)">
+        <g >
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g  gorn="0.5.0.0.0.0.0.0.0" id="silkscreen">
+                                    <rect style="fill-rule:evenodd;stroke-dasharray:none;paint-order:stroke fill markers;shape-rendering:crispEdges" y="2919.1184" fill="none" stroke="#000000" height="68.811684"  stroke-width="0.590544" gorn="0.5.0.0.0.0.0.0.0.0" x="3994.5505" id="rect34334" width="49.408115"/>
+                                    <g  transform="translate(-9.6836031,-8.1905734)">
+                                        <g >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <g >
+                                                                <g fill="#000000" stroke="#000000"  stroke-width="1" gorn="0.5.0.0.0.0.0.0.0.1.0.0.0.0.0.0.0" c_shapetype="group" layerid="11" c_etype="pinpart" c_origin="4014.5,2992" c_partid="part_hole" id="gge271" locked="0">
+                                                                    <path fill-opacity="0" style="stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges" fill="#ffffff"  d="m 4016.8622,2992 a 2.3622,2.3622 0 0 1 -2.3622,2.3622 2.3622,2.3622 0 0 1 -2.3622,-2.3622 2.3622,2.3622 0 0 1 2.3622,-2.3622 2.3622,2.3622 0 0 1 2.3622,2.3622 z" gorn="0.5.0.0.0.0.0.0.0.1.0.0.0.0.0.0.0.0" id="circle1925"/>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g  transform="translate(-9.7782547,-9.0424374)">
+                                        <g >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <g >
+                                                                <g fill="#000000" stroke="#000000"  stroke-width="1" gorn="0.5.0.0.0.0.0.0.0.2.0.0.0.0.0.0.0" c_shapetype="group" layerid="11" c_etype="pinpart" c_origin="4044.5,2931.96" c_partid="part_hole" id="gge256" locked="0">
+                                                                    <path fill-opacity="0" style="stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges" fill="#ffffff"  d="m 4046.8622,2931.96 a 2.3622,2.3622 0 0 1 -2.3622,2.3622 2.3622,2.3622 0 0 1 -2.3622,-2.3622 2.3622,2.3622 0 0 1 2.3622,-2.3622 2.3622,2.3622 0 0 1 2.3622,2.3622 z" gorn="0.5.0.0.0.0.0.0.0.2.0.0.0.0.0.0.0.0" id="circle1922"/>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g style="-inkscape-font-specification:'sans-serif, Normal';fill-rule:evenodd;paint-order:stroke fill markers" fill="none" stroke="#000000"  stroke-width="0.590544" gorn="0.5.0.0.0.0.0.0.0.3" aria-label="COM" id="text31164" font-size="3.85793">
+                                        <path style="stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"  d="m 4032.7778,2947.7534 q -0.093,0.041 -0.1695,0.076 -0.075,0.036 -0.1967,0.075 -0.1034,0.032 -0.2255,0.054 -0.1204,0.024 -0.2662,0.024 -0.2746,0 -0.5001,-0.076 -0.2238,-0.078 -0.39,-0.2424 -0.1627,-0.1611 -0.2543,-0.4086 -0.091,-0.2493 -0.091,-0.5782 0,-0.3119 0.088,-0.5577 0.088,-0.2459 0.2544,-0.4154 0.161,-0.1645 0.3882,-0.2509 0.2289,-0.086 0.5069,-0.086 0.2035,0 0.4052,0.049 0.2035,0.049 0.451,0.1729 v 0.3984 h -0.025 q -0.2086,-0.1746 -0.4137,-0.2543 -0.2051,-0.08 -0.4391,-0.08 -0.1916,0 -0.3459,0.063 -0.1526,0.061 -0.2729,0.1916 -0.117,0.1272 -0.1831,0.3222 -0.064,0.1932 -0.064,0.4475 0,0.2662 0.071,0.4578 0.073,0.1916 0.1865,0.312 0.1187,0.1254 0.2764,0.1864 0.1594,0.059 0.3357,0.059 0.2424,0 0.4543,-0.083 0.212,-0.083 0.3968,-0.2492 h 0.024 z" gorn="0.5.0.0.0.0.0.0.0.3.0" id="path33842"/>
+                                        <path style="stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"  d="m 4035.1344,2945.702 q 0.1543,0.1695 0.2357,0.4154 0.083,0.2458 0.083,0.5577 0,0.312 -0.085,0.5595 -0.083,0.2459 -0.234,0.4103 -0.156,0.1713 -0.3696,0.2577 -0.2119,0.086 -0.4849,0.086 -0.2661,0 -0.4849,-0.088 -0.217,-0.088 -0.3696,-0.256 -0.1525,-0.1678 -0.2356,-0.412 -0.081,-0.2441 -0.081,-0.5578 0,-0.3085 0.081,-0.5527 0.081,-0.2458 0.2373,-0.4204 0.1492,-0.1662 0.3696,-0.2543 0.2221,-0.088 0.4832,-0.088 0.2713,0 0.4866,0.09 0.217,0.088 0.3679,0.2526 z m -0.03,0.9731 q 0,-0.4916 -0.2204,-0.7578 -0.2204,-0.2679 -0.6019,-0.2679 -0.3848,0 -0.6052,0.2679 -0.2187,0.2662 -0.2187,0.7578 0,0.4968 0.2238,0.7613 0.2237,0.2628 0.6001,0.2628 0.3764,0 0.5985,-0.2628 0.2238,-0.2645 0.2238,-0.7613 z" gorn="0.5.0.0.0.0.0.0.0.3.1" id="path33844"/>
+                                        <path style="stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"  d="m 4038.2336,2947.9365 h -0.3357 v -2.1752 l -0.7019,1.4801 h -0.2 l -0.6968,-1.4801 v 2.1752 h -0.3137 v -2.5244 h 0.4578 l 0.673,1.4055 0.6511,-1.4055 h 0.4662 z" gorn="0.5.0.0.0.0.0.0.0.3.2" id="path33846"/>
+                                    </g>
+                                    <g style="-inkscape-font-specification:'sans-serif, Normal';fill-rule:evenodd;paint-order:stroke fill markers" fill="none" stroke="#000000"  stroke-width="0.590544" gorn="0.5.0.0.0.0.0.0.0.4" aria-label="N.C." id="text31163" font-size="3.85793">
+                                        <path style="stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"  d="m 4033.1327,2968.4758 h -0.4153 l -1.197,-2.2582 v 2.2582 h -0.3136 v -2.5244 h 0.5204 l 1.0919,2.0616 v -2.0616 h 0.3136 z" gorn="0.5.0.0.0.0.0.0.0.4.0" id="path33849"/>
+                                        <path style="stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"  d="m 4034.2992,2968.4758 h -0.4052 v -0.4832 h 0.4052 z" gorn="0.5.0.0.0.0.0.0.0.4.1" id="path33851"/>
+                                        <path style="stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"  d="m 4037.0169,2968.2927 q -0.093,0.041 -0.1695,0.076 -0.075,0.036 -0.1967,0.075 -0.1034,0.032 -0.2255,0.054 -0.1204,0.024 -0.2662,0.024 -0.2746,0 -0.5001,-0.076 -0.2238,-0.078 -0.39,-0.2424 -0.1627,-0.1611 -0.2543,-0.4086 -0.091,-0.2492 -0.091,-0.5782 0,-0.3119 0.088,-0.5577 0.088,-0.2459 0.2543,-0.4154 0.1611,-0.1645 0.3883,-0.2509 0.2289,-0.086 0.5069,-0.086 0.2035,0 0.4052,0.049 0.2035,0.049 0.451,0.1729 v 0.3984 h -0.025 q -0.2086,-0.1746 -0.4137,-0.2543 -0.2052,-0.08 -0.4391,-0.08 -0.1916,0 -0.3459,0.063 -0.1526,0.061 -0.2729,0.1915 -0.117,0.1272 -0.1831,0.3222 -0.064,0.1932 -0.064,0.4475 0,0.2662 0.071,0.4578 0.073,0.1916 0.1865,0.312 0.1187,0.1254 0.2764,0.1865 0.1593,0.059 0.3357,0.059 0.2424,0 0.4543,-0.083 0.212,-0.083 0.3968,-0.2492 h 0.024 z" gorn="0.5.0.0.0.0.0.0.0.4.2" id="path33853"/>
+                                        <path style="stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"  d="m 4037.9867,2968.4758 h -0.4052 v -0.4832 h 0.4052 z" gorn="0.5.0.0.0.0.0.0.0.4.3" id="path33855"/>
+                                    </g>
+                                    <g style="-inkscape-font-specification:'sans-serif, Normal';fill-rule:evenodd;paint-order:stroke fill markers" fill="none" stroke="#000000"  stroke-width="0.590544" gorn="0.5.0.0.0.0.0.0.0.5" aria-label="COM" id="text31162" font-size="3.85793">
+                                        <path style="stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"  d="m 4002.8681,2948.1321 q -0.093,0.041 -0.1695,0.076 -0.075,0.036 -0.1967,0.075 -0.1034,0.032 -0.2255,0.054 -0.1203,0.024 -0.2661,0.024 -0.2747,0 -0.5002,-0.076 -0.2238,-0.078 -0.3899,-0.2425 -0.1628,-0.161 -0.2543,-0.4086 -0.092,-0.2492 -0.092,-0.5781 0,-0.312 0.088,-0.5578 0.088,-0.2458 0.2543,-0.4154 0.1611,-0.1644 0.3882,-0.2509 0.2289,-0.086 0.507,-0.086 0.2034,0 0.4052,0.049 0.2034,0.049 0.4509,0.173 v 0.3984 h -0.025 q -0.2085,-0.1747 -0.4137,-0.2543 -0.2051,-0.08 -0.4391,-0.08 -0.1916,0 -0.3458,0.063 -0.1526,0.061 -0.273,0.1916 -0.117,0.1271 -0.1831,0.3221 -0.064,0.1933 -0.064,0.4476 0,0.2662 0.071,0.4578 0.073,0.1915 0.1865,0.3119 0.1186,0.1255 0.2763,0.1865 0.1594,0.059 0.3357,0.059 0.2425,0 0.4544,-0.083 0.2119,-0.083 0.3967,-0.2493 h 0.024 z" gorn="0.5.0.0.0.0.0.0.0.5.0" id="path33835"/>
+                                        <path style="stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"  d="m 4005.2247,2946.0806 q 0.1543,0.1696 0.2357,0.4154 0.083,0.2459 0.083,0.5578 0,0.312 -0.085,0.5595 -0.083,0.2458 -0.234,0.4103 -0.1559,0.1712 -0.3696,0.2577 -0.2119,0.086 -0.4848,0.086 -0.2662,0 -0.4849,-0.088 -0.217,-0.088 -0.3696,-0.256 -0.1526,-0.1679 -0.2357,-0.412 -0.081,-0.2441 -0.081,-0.5578 0,-0.3086 0.081,-0.5527 0.081,-0.2458 0.2374,-0.4205 0.1492,-0.1661 0.3696,-0.2543 0.2221,-0.088 0.4832,-0.088 0.2712,0 0.4865,0.09 0.2171,0.088 0.3679,0.2526 z m -0.031,0.9732 q 0,-0.4917 -0.2204,-0.7578 -0.2204,-0.2679 -0.6018,-0.2679 -0.3849,0 -0.6053,0.2679 -0.2187,0.2661 -0.2187,0.7578 0,0.4968 0.2238,0.7612 0.2238,0.2628 0.6002,0.2628 0.3763,0 0.5984,-0.2628 0.2238,-0.2644 0.2238,-0.7612 z" gorn="0.5.0.0.0.0.0.0.0.5.1" id="path33837"/>
+                                        <path style="stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"  d="m 4008.3239,2948.3152 h -0.3357 v -2.1752 l -0.7019,1.4801 h -0.2 l -0.6968,-1.4801 v 2.1752 h -0.3137 v -2.5245 h 0.4578 l 0.6731,1.4055 0.651,-1.4055 h 0.4662 z" gorn="0.5.0.0.0.0.0.0.0.5.2" id="path33839"/>
+                                    </g>
+                                    <g style="-inkscape-font-specification:'sans-serif, Normal';fill-rule:evenodd;paint-order:stroke fill markers" fill="none" stroke="#000000"  stroke-width="0.590544" gorn="0.5.0.0.0.0.0.0.0.6" aria-label="N.O." id="text31161" font-size="3.85793">
+                                        <path style="stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"  d="m 4003.1281,2968.4761 h -0.4154 l -1.1969,-2.2583 v 2.2583 h -0.3137 v -2.5245 h 0.5205 l 1.0918,2.0616 v -2.0616 h 0.3137 z" gorn="0.5.0.0.0.0.0.0.0.6.0" id="path33826"/>
+                                        <path style="stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"  d="m 4004.2945,2968.4761 h -0.4052 v -0.4832 h 0.4052 z" gorn="0.5.0.0.0.0.0.0.0.6.1" id="path33828"/>
+                                        <path style="stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"  d="m 4006.9444,2966.2415 q 0.1543,0.1696 0.2357,0.4154 0.083,0.2458 0.083,0.5578 0,0.312 -0.085,0.5595 -0.083,0.2458 -0.234,0.4103 -0.1559,0.1712 -0.3696,0.2577 -0.2119,0.086 -0.4848,0.086 -0.2662,0 -0.4849,-0.088 -0.217,-0.088 -0.3696,-0.256 -0.1526,-0.1679 -0.2357,-0.412 -0.081,-0.2442 -0.081,-0.5578 0,-0.3086 0.081,-0.5527 0.081,-0.2458 0.2374,-0.4205 0.1492,-0.1661 0.3696,-0.2543 0.2221,-0.088 0.4832,-0.088 0.2712,0 0.4865,0.09 0.217,0.088 0.3679,0.2526 z m -0.03,0.9732 q 0,-0.4917 -0.2204,-0.7578 -0.2204,-0.2679 -0.6018,-0.2679 -0.3849,0 -0.6053,0.2679 -0.2187,0.2661 -0.2187,0.7578 0,0.4967 0.2238,0.7612 0.2238,0.2628 0.6002,0.2628 0.3763,0 0.5984,-0.2628 0.2238,-0.2645 0.2238,-0.7612 z" gorn="0.5.0.0.0.0.0.0.0.6.2" id="path33830"/>
+                                        <path style="stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"  d="m 4008.2397,2968.4761 h -0.4052 v -0.4832 h 0.4052 z" gorn="0.5.0.0.0.0.0.0.0.6.3" id="path33832"/>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

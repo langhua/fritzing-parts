@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<module moduleId="PB86-A0" referenceFile="" fritzingVersion="0.9.3">
+ <version>4</version>
+ <title>PB86-A0-RED</title>
+ <label>PB86-A0/</label>
+ <date>周三 9月 18 2024</date>
+ <tags>
+  <tag>Pushbutton</tag>
+  <tag>fritzing parts</tag>
+  <tag>button</tag>
+  <tag>sandflower</tag>
+  <tag>PB86</tag>
+ </tags>
+ <properties>
+  <property name="family">PB86-A0 Switch</property>
+  <property name="variant">Red</property>
+  <property name="layer"></property>
+  <property name="part number"></property>
+  <property name="package">[sandflower]</property>
+ </properties>
+ <description>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+&lt;html>&lt;head>&lt;meta name="qrichtext" content="1" />&lt;style type="text/css">
+p, li { white-space: pre-wrap; }
+&lt;/style>&lt;/head>&lt;body style=" font-family:'SimSun'; font-size:9pt; font-weight:400; font-style:normal;">
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">A PB86-A0 push button.&lt;/p>&lt;/body>&lt;/html></description>
+ <views>
+  <iconView>
+   <layers image="icon/PB86-A0_7072363ba1b31d70136d785d0604754f_2_icon.svg">
+    <layer layerId="icon"/>
+   </layers>
+  </iconView>
+  <breadboardView>
+   <layers image="breadboard/PB86-A0_7072363ba1b31d70136d785d0604754f_2_breadboard.svg">
+    <layer layerId="breadboard"/>
+   </layers>
+  </breadboardView>
+  <schematicView fliphorizontal="true" flipvertical="true">
+   <layers image="schematic/PB86-A0_7072363ba1b31d70136d785d0604754f_2_schematic.svg">
+    <layer layerId="schematic"/>
+   </layers>
+  </schematicView>
+  <pcbView>
+   <layers image="pcb/PB86-A0_7072363ba1b31d70136d785d0604754f_2_pcb.svg">
+    <layer layerId="keepout"/>
+    <layer layerId="soldermask"/>
+    <layer layerId="silkscreen"/>
+    <layer layerId="outline"/>
+    <layer layerId="copper0"/>
+    <layer layerId="copper1"/>
+   </layers>
+  </pcbView>
+ </views>
+ <connectors>
+  <connector name="COM" id="connector1" type="male">
+   <description>common</description>
+   <views>
+    <breadboardView>
+     <p layer="breadboard" svgId="connector1pin"/>
+    </breadboardView>
+    <schematicView>
+     <p layer="schematic" svgId="connector1pin"/>
+    </schematicView>
+    <pcbView>
+     <p layer="copper0" svgId="connector1pin"/>
+     <p layer="copper1" svgId="connector1pin"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector name="COM" id="connector2" type="male">
+   <description>common</description>
+   <views>
+    <breadboardView>
+     <p layer="breadboard" svgId="connector2pin"/>
+    </breadboardView>
+    <schematicView>
+     <p layer="schematic" svgId="connector2pin"/>
+    </schematicView>
+    <pcbView>
+     <p layer="copper0" svgId="connector2pin"/>
+     <p layer="copper1" svgId="connector2pin"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector name="N.O." id="connector3" type="male">
+   <description>normally open</description>
+   <views>
+    <breadboardView>
+     <p layer="breadboard" svgId="connector3pin"/>
+    </breadboardView>
+    <schematicView>
+     <p layer="schematic" svgId="connector3pin"/>
+    </schematicView>
+    <pcbView>
+     <p layer="copper0" svgId="connector3pin"/>
+     <p layer="copper1" svgId="connector3pin"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector name="N.C." id="connector4" type="male">
+   <description>normally close</description>
+   <views>
+    <breadboardView>
+     <p layer="breadboard" svgId="connector4pin"/>
+    </breadboardView>
+    <schematicView>
+     <p layer="schematic" svgId="connector4pin"/>
+    </schematicView>
+    <pcbView>
+     <p layer="copper0" svgId="connector4pin"/>
+     <p layer="copper1" svgId="connector4pin"/>
+    </pcbView>
+   </views>
+  </connector>
+ </connectors>
+ <buses>
+  <bus id="COM">
+   <nodeMember connectorId="connector1"/>
+   <nodeMember connectorId="connector2"/>
+  </bus>
+ </buses>
+ <author>shi.jinghai</author>
+</module>
