@@ -5,54 +5,27 @@
    viewBox="0 0 49.212039 69.290085"
    version="1.1"
    id="svg1932"
-   sodipodi:docname="svg.breadboard.PB86-A0_7072363ba1b31d70136d785d0604754f_2_breadboard.svg"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview104"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="mm"
-     showgrid="false"
-     inkscape:zoom="21.834098"
-     inkscape:cx="1.5113975"
-     inkscape:cy="26.472356"
-     inkscape:window-width="3840"
-     inkscape:window-height="2036"
-     inkscape:window-x="-12"
-     inkscape:window-y="-12"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="breadboard" />
   <defs
      id="defs1936">
     <linearGradient
-       id="linearGradient22913"
-       inkscape:swatch="solid">
+       id="linearGradient22913">
       <stop
          style="stop-color:#000000;stop-opacity:1;"
          offset="0"
          id="stop22911" />
     </linearGradient>
     <linearGradient
-       id="linearGradient21303"
-       inkscape:swatch="solid">
+       id="linearGradient21303">
       <stop
          style="stop-color:#000000;stop-opacity:1;"
          offset="0"
          id="stop21301" />
     </linearGradient>
     <linearGradient
-       id="linearGradient1177"
-       inkscape:swatch="solid">
+       id="linearGradient1177">
       <stop
          style="stop-color:#000000;stop-opacity:1;"
          offset="0"
@@ -509,16 +482,16 @@ g[c_partid=&quot;part_hole&quot;] &gt; circle {fill: #FFFFFF;}path, polyline, po
 rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges;}
 </style>
   <rect
-     style="opacity:1;fill:none;fill-rule:evenodd;stroke:#aa0000;stroke-width:0.312654"
+     style="opacity:1;fill:none;fill-rule:evenodd;stroke:#aa0000;stroke-width:0.981938;stroke-dasharray:none"
      id="rect146868"
-     width="49.404026"
-     height="69.05442"
-     x="-0.14870544"
-     y="0.083611578" />
+     width="48.140179"
+     height="68.330322"
+     x="0.58442092"
+     y="0.54686236" />
   <g
      id="connectors"
-     transform="translate(-4004.2326,-2927.8824)"
-     style="opacity:0.19">
+     transform="matrix(0.98378779,0,0,0.98332753,-3938.5164,-2878.5861)"
+     style="opacity:0.19;stroke-width:1.001;stroke-dasharray:none">
     <g
        c_partid="part_pad"
        c_etype="pinpart"
@@ -536,26 +509,26 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        c_shape="ELLIPSE"
        pasteexpansion="0"
        solderexpansion="0.1575"
-       style="opacity:1;fill:none;stroke:none;stroke-width:0.999989;stroke-dasharray:none"
+       style="opacity:1;fill:none;stroke:none;stroke-width:1.001;stroke-dasharray:none"
        transform="translate(-0.18930312,0.18930312)">
       <text
          xml:space="preserve"
-         style="font-size:2.5611px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';opacity:1;fill:#1a1a1a;fill-rule:evenodd;stroke:none;stroke-width:0.999989;stroke-dasharray:none;paint-order:stroke fill markers"
+         style="font-size:2.5611px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';opacity:1;fill:#1a1a1a;fill-rule:evenodd;stroke:none;stroke-width:1.001;stroke-dasharray:none;paint-order:stroke fill markers"
          x="3811.0176"
          y="3145.3987"
          id="text75490"
          transform="scale(1.0526911,0.94994629)"><tspan
            id="tspan75488"
-           style="stroke-width:0.999989;stroke-dasharray:none"
+           style="stroke-width:1.001;stroke-dasharray:none"
            x="3811.0176"
            y="3145.3987">N.O.</tspan></text>
       <path
          id="ellipse1912"
-         style="fill:#000000;stroke-width:0.999989;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;shape-rendering:crispEdges"
+         style="fill:#000000;stroke-width:1.001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;shape-rendering:crispEdges"
          d="m 4018.0433,2981.98 a 3.5432999,3.5432999 0 0 1 -3.5433,3.5433 3.5432999,3.5432999 0 0 1 -3.5433,-3.5433 3.5432999,3.5432999 0 0 1 3.5433,-3.5433 3.5432999,3.5432999 0 0 1 3.5433,3.5433 z" />
       <path
          id="connector3pin"
-         style="fill:#aa8800;stroke-width:0.999989;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;shape-rendering:crispEdges"
+         style="fill:#aa8800;stroke-width:1.001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;shape-rendering:crispEdges"
          d="m 4016.4685,2981.98 a 1.9685,1.9685 0 0 1 -1.9685,1.9685 1.9685,1.9685 0 0 1 -1.9685,-1.9685 1.9685,1.9685 0 0 1 1.9685,-1.9685 1.9685,1.9685 0 0 1 1.9685,1.9685 z" />
     </g>
     <g
@@ -576,25 +549,25 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        pasteexpansion="0"
        solderexpansion="0.1575"
        transform="translate(-0.18930312,0.18930312)"
-       style="opacity:1;fill:#000000;stroke:#000000;stroke-width:0.999989;stroke-dasharray:none">
+       style="opacity:1;fill:#000000;stroke:#000000;stroke-width:1.001;stroke-dasharray:none">
       <text
          xml:space="preserve"
-         style="font-size:2.5611px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#1a1a1a;fill-rule:evenodd;stroke:none;stroke-width:0.999989;stroke-dasharray:none;paint-order:stroke fill markers"
+         style="font-size:2.5611px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#1a1a1a;fill-rule:evenodd;stroke:none;stroke-width:1.001;stroke-dasharray:none;paint-order:stroke fill markers"
          x="3839.3967"
          y="3124.6233"
          id="text75490-0-8"
          transform="scale(1.0526911,0.94994629)"><tspan
            id="tspan75488-4-6"
-           style="stroke-width:0.999989;stroke-dasharray:none"
+           style="stroke-width:1.001;stroke-dasharray:none"
            x="3839.3967"
            y="3124.6233">COM</tspan></text>
       <path
          id="polygon1907"
-         style="stroke-width:0.999989;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;shape-rendering:crispEdges"
+         style="stroke-width:1.001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;shape-rendering:crispEdges"
          d="m 4040.9567,2965.5233 v -7.0866 h 7.0866 v 7.0866 z" />
       <path
          id="connector2pin"
-         style="fill:#aa8800;stroke:none;stroke-width:0.999989;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;shape-rendering:crispEdges"
+         style="fill:#aa8800;stroke:none;stroke-width:1.001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;shape-rendering:crispEdges"
          d="m 4046.4685,2961.98 a 1.9685,1.9685 0 0 1 -1.9685,1.9685 1.9685,1.9685 0 0 1 -1.9685,-1.9685 1.9685,1.9685 0 0 1 1.9685,-1.9685 1.9685,1.9685 0 0 1 1.9685,1.9685 z" />
     </g>
     <g
@@ -615,25 +588,25 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        pasteexpansion="0"
        solderexpansion="0.1575"
        transform="translate(-0.18930312,0.18930312)"
-       style="opacity:1;fill:#000000;stroke:#000000;stroke-width:0.999989;stroke-dasharray:none">
+       style="opacity:1;fill:#000000;stroke:#000000;stroke-width:1.001;stroke-dasharray:none">
       <text
          xml:space="preserve"
-         style="font-size:2.5611px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#1a1a1a;fill-rule:evenodd;stroke:none;stroke-width:0.999989;stroke-dasharray:none;paint-order:stroke fill markers"
+         style="font-size:2.5611px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#1a1a1a;fill-rule:evenodd;stroke:none;stroke-width:1.001;stroke-dasharray:none;paint-order:stroke fill markers"
          x="3810.707"
          y="3124.5239"
          id="text75490-0"
          transform="scale(1.0526911,0.94994629)"><tspan
            id="tspan75488-4"
-           style="stroke-width:0.999989;stroke-dasharray:none"
+           style="stroke-width:1.001;stroke-dasharray:none"
            x="3810.707"
            y="3124.5239">COM</tspan></text>
       <path
          id="polygon1902"
-         style="stroke-width:0.999989;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;shape-rendering:crispEdges"
+         style="stroke-width:1.001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;shape-rendering:crispEdges"
          d="m 4010.9567,2965.5233 v -7.0866 h 7.0866 v 7.0866 z" />
       <path
          id="connector1pin"
-         style="fill:#aa8800;stroke-width:1.39818;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;shape-rendering:crispEdges"
+         style="fill:#aa8800;stroke-width:1.001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;shape-rendering:crispEdges"
          d="m 4017.3669,2962.0274 a 2.8387615,2.6685903 0 0 1 -2.8387,2.6686 2.8387615,2.6685903 0 0 1 -2.8388,-2.6686 2.8387615,2.6685903 0 0 1 2.8388,-2.6686 2.8387615,2.6685903 0 0 1 2.8387,2.6686 z" />
     </g>
     <g
@@ -653,91 +626,87 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        c_shape="ELLIPSE"
        pasteexpansion="0"
        solderexpansion="0.1575"
-       style="opacity:1;fill:none;stroke:none;stroke-width:0.999989;stroke-dasharray:none"
+       style="opacity:1;fill:none;stroke:none;stroke-width:1.001;stroke-dasharray:none"
        transform="translate(-0.18930312,0.18930312)">
       <text
          xml:space="preserve"
-         style="font-size:2.5611px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#1a1a1a;fill-rule:evenodd;stroke:none;stroke-width:0.999989;stroke-dasharray:none;paint-order:stroke fill markers"
+         style="font-size:2.5611px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#1a1a1a;fill-rule:evenodd;stroke:none;stroke-width:1.001;stroke-dasharray:none;paint-order:stroke fill markers"
          x="3839.7493"
          y="3145.2488"
          id="text75490-2"
          transform="scale(1.0526911,0.94994629)"><tspan
            id="tspan75488-9"
-           style="stroke-width:0.999989;stroke-dasharray:none"
+           style="stroke-width:1.001;stroke-dasharray:none"
            x="3839.7493"
            y="3145.2488">N.C.</tspan></text>
       <path
          id="ellipse1917"
-         style="fill:#000000;stroke-width:0.999989;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;shape-rendering:crispEdges"
+         style="fill:#000000;stroke-width:1.001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;shape-rendering:crispEdges"
          d="m 4048.0433,2981.98 a 3.5432999,3.5432999 0 0 1 -3.5433,3.5433 3.5432999,3.5432999 0 0 1 -3.5433,-3.5433 3.5432999,3.5432999 0 0 1 3.5433,-3.5433 3.5432999,3.5432999 0 0 1 3.5433,3.5433 z" />
       <path
          id="connector4pin"
-         style="fill:#aa8800;stroke-width:0.999989;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;shape-rendering:crispEdges"
+         style="fill:#aa8800;stroke-width:1.001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;shape-rendering:crispEdges"
          d="m 4046.4685,2981.98 a 1.9685,1.9685 0 0 1 -1.9685,1.9685 1.9685,1.9685 0 0 1 -1.9685,-1.9685 1.9685,1.9685 0 0 1 1.9685,-1.9685 1.9685,1.9685 0 0 1 1.9685,1.9685 z" />
     </g>
   </g>
   <g
-     id="breadboard"
-     transform="translate(-3994.6556,-2918.8838)"
-     style="opacity:0.4;fill:#d40000;stroke:none">
-    <g
-       id="g48533"
-       transform="translate(-3994.6638,-2914.9366)"
-       style="opacity:0.2;mix-blend-mode:color-burn;fill:#d40000;fill-opacity:1;stroke:none;stroke-width:0.999989;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
-    <rect
-       style="fill:#d40000;fill-rule:evenodd;stroke:none;stroke-width:0.590544;stroke-dasharray:none;paint-order:stroke fill markers;shape-rendering:crispEdges"
-       id="rect34334"
-       width="49.408115"
-       height="68.811684"
-       x="3994.5505"
-       y="2919.1184" />
-    <circle
-       id="path166726"
-       cx="4522.6309"
-       cy="2117.8723"
-       style="mix-blend-mode:normal;fill:#000000;stroke-width:1.66521"
-       transform="rotate(11.592174)"
-       r="1.9684815" />
-    <circle
-       style="opacity:1;fill:#000000;stroke:none;stroke-width:14.7699"
-       id="circle175387"
-       cx="4540.0054"
-       cy="2052.8787"
-       transform="rotate(11.592175)"
-       r="1.9684815" />
-  </g>
+     id="g48533"
+     transform="translate(-7989.3194,-5833.8204)"
+     style="opacity:0.12;mix-blend-mode:color-burn;fill:#d40000;fill-opacity:1;stroke:none;stroke-width:7.69283;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+  <rect
+     style="opacity:0.6;fill:#d40000;fill-rule:evenodd;stroke:none;stroke-width:7.66652;stroke-dasharray:none;paint-order:stroke fill markers;shape-rendering:crispEdges"
+     id="rect34334"
+     width="49.07077"
+     height="68.811684"
+     x="0.09745077"
+     y="0.099714018" />
+  <ellipse
+     id="path166726"
+     cx="23.135408"
+     cy="61.127922"
+     style="opacity:0.6;mix-blend-mode:normal;fill:#000000;stroke:none;stroke-width:7.66167;stroke-dasharray:none"
+     transform="matrix(0.97927076,0.20255564,-0.19934435,0.9799295,0,0)"
+     rx="1.9530202"
+     ry="1.9680264" />
+  <circle
+     style="opacity:0.6;fill:#000000;stroke:none;stroke-width:7.69283;stroke-dasharray:none"
+     id="circle175387"
+     cx="40.297375"
+     cy="-3.7651231"
+     transform="rotate(11.592175)"
+     r="1.9684815" />
   <g
      id="g48533-6"
-     transform="translate(-3994.6513,-2914.6901)"
-     style="opacity:1;mix-blend-mode:color-burn;fill:none;fill-opacity:1;stroke:#aa0000;stroke-width:0.999989;stroke-dasharray:none;stroke-opacity:1;paint-order:normal">
+     transform="matrix(0.97447642,0,0,0.98344432,-3891.8987,-2865.96)"
+     style="opacity:1;mix-blend-mode:color-burn;fill:none;fill-opacity:1;stroke:#aa0000;stroke-width:1.00099;stroke-dasharray:none;stroke-opacity:1;paint-order:normal">
     <rect
-       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#aa0000;stroke-width:0.302878;stroke-dasharray:none;stroke-opacity:1;paint-order:normal;shape-rendering:crispEdges"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#aa0000;stroke-width:1.00099;stroke-dasharray:none;stroke-opacity:1;paint-order:normal;shape-rendering:crispEdges"
        id="rect43665-9"
        width="49.403275"
        height="39.466808"
        x="3994.4836"
        y="2944.0574" />
     <rect
-       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#aa0000;stroke-width:0.299989;stroke-dasharray:none;stroke-opacity:1;paint-order:normal;shape-rendering:crispEdges"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#aa0000;stroke-width:1.00099;stroke-dasharray:none;stroke-opacity:1;paint-order:normal;shape-rendering:crispEdges"
        id="rect43665-7-4"
        width="40.626122"
        height="30.498398"
        x="3999.2908"
        y="2948.7783" />
     <path
-       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#aa0000;stroke-width:0.345618;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal;shape-rendering:crispEdges"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#aa0000;stroke-width:1.00099;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal;shape-rendering:crispEdges"
        d="m 3994.7881,2944.1638 4.3752,4.5896"
        id="path46107-9" />
     <path
-       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#aa0000;stroke-width:0.350898;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal;shape-rendering:crispEdges"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#aa0000;stroke-width:1.00099;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal;shape-rendering:crispEdges"
        d="m 3999.1168,2979.3818 -4.2437,3.8473"
        id="path46229-4" />
     <path
-       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#aa0000;stroke-width:0.328517;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal;shape-rendering:crispEdges"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#aa0000;stroke-width:1.00099;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal;shape-rendering:crispEdges"
        d="m 4039.9689,2979.3369 3.7049,3.9797"
        id="path46351-7" />
     <path
-       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#aa0000;stroke-width:0.337635;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal;shape-rendering:crispEdges"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#aa0000;stroke-width:1.00099;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal;shape-rendering:crispEdges"
        d="m 4043.7564,2944.3153 -3.7835,4.4542"
        id="path46473-0" />
   </g>
