@@ -277,25 +277,25 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
          cy="2982.0686"
          r="2.899967" />
       <circle
-         stroke-width="0.8"
+         stroke-width="0.944871"
          stroke="#ffbf00"
          fill="none"
          id="hole1"
          gorn="0.2.0.2"
-         cx="4014.4915"
-         cy="2992.0059"
-         r="2"
-         style="fill:none;shape-rendering:crispEdges;stroke:#000000" />
+         cx="4014.3252"
+         cy="2992.3005"
+         style="fill:#000000;stroke:none;shape-rendering:crispEdges"
+         r="2.3621778" />
       <circle
-         stroke-width="0.8"
+         stroke-width="0.944871"
          stroke="#ffbf00"
          fill="none"
          id="hole2"
          gorn="0.2.0.2"
-         cx="4044.313"
-         cy="2932.0652"
-         r="2"
-         style="fill:none;stroke:#000000;shape-rendering:crispEdges" />
+         cx="4043.9807"
+         cy="2932.0264"
+         style="fill:#000000;stroke:none;shape-rendering:crispEdges"
+         r="2.3621778" />
       <circle
          stroke-width="1.99998"
          stroke="#ffbf00"
