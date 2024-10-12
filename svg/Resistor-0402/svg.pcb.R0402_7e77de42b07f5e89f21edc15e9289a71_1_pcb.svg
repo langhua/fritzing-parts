@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--	
+	The pad size of this SMD -1206- refers to document number 28745 from www.vishay.com.
+	The silkscreen outlines have a thickness of 0.1 mm.
+	The space between silkscreen and pads is also 0.1 mm thick.
+	From this follows that there is a keepout array of 0.2 mm around the depth (X) and the length (Y)
+	(see doc# 28745 from www.vishay.com).
+-->
+
+<svg
+   gorn="0"
+   height="0.60000008mm"
+   id="svg2"
+   version="1.1"
+   viewBox="0 0 145 60.000012"
+   width="1.45mm"
+   sodipodi:docname="svg.pcb.R0402_7e77de42b07f5e89f21edc15e9289a71_1_pcb.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview12"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="97.045389"
+     inkscape:cx="6.4196765"
+     inkscape:cy="5.2861863"
+     inkscape:window-width="3840"
+     inkscape:window-height="2036"
+     inkscape:window-x="-12"
+     inkscape:window-y="-12"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <desc
+     id="desc2">
+    <referenceFile>R1210_2f4ee44f5bc1b113b67cafb2c6858e2f_1_pcb.svg</referenceFile>
+  </desc>
+  <defs
+     id="defs13" />
+  <g
+     gorn="0.1.0"
+     id="copper1"
+     transform="matrix(0.46666667,0,0,0.20000001,-4.3333173,2.9999954)">
+    <rect
+       gorn="0.1.0.0"
+       height="250"
+       id="connector0pad"
+       style="fill:#f7bf13;fill-opacity:1;stroke:none;stroke-width:0"
+       width="96.428574"
+       x="20"
+       y="10" />
+    <rect
+       gorn="0.1.0.1"
+       height="250"
+       id="connector1pad"
+       style="fill:#f7bf13;fill-opacity:1;stroke:none;stroke-width:0"
+       width="96.428574"
+       x="212.85712"
+       y="10" />
+  </g>
+  <rect
+     gorn="0.2"
+     height="57.278137"
+     id="silkscreen"
+     style="fill:none;stroke:#ffffff;stroke-width:2.72187;stroke-opacity:1"
+     width="142.27814"
+     x="1.360935"
+     y="1.360935" />
+</svg>

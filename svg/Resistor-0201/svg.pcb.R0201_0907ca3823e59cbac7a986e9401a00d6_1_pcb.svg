@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--	
+	The pad size of this SMD -1206- refers to document number 28745 from www.vishay.com.
+	The silkscreen outlines have a thickness of 0.1 mm.
+	The space between silkscreen and pads is also 0.1 mm thick.
+	From this follows that there is a keepout array of 0.2 mm around the depth (X) and the length (Y)
+	(see doc# 28745 from www.vishay.com).
+-->
+
+<svg
+   gorn="0"
+   height="0.49999994mm"
+   id="svg2"
+   version="1.1"
+   viewBox="0 0 104.99999 49.999997"
+   width="1.05mm"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <desc
+     id="desc1022">
+    <referenceFile>R1210_2f4ee44f5bc1b113b67cafb2c6858e2f_1_pcb.svg</referenceFile>
+  </desc>
+  <defs
+     id="defs13" />
+  <g
+     gorn="0.1.0"
+     id="copper1"
+     transform="translate(9.5367432e-6,-1.1444092e-5)">
+    <rect
+       gorn="0.1.0.0"
+       height="40"
+       id="connector0pad"
+       style="fill:#f7bf13;fill-opacity:1;stroke:none;stroke-width:0"
+       width="35"
+       x="5"
+       y="5" />
+    <rect
+       gorn="0.1.0.1"
+       height="40"
+       id="connector1pad"
+       style="fill:#f7bf13;fill-opacity:1;stroke:none;stroke-width:0"
+       width="35"
+       x="65"
+       y="5" />
+  </g>
+  <rect
+     gorn="0.2"
+     height="47.883736"
+     id="silkscreen"
+     style="fill:none;stroke:#ffffff;stroke-width:2.11626;stroke-opacity:1"
+     width="102.88374"
+     x="1.05813"
+     y="1.05813" />
+</svg>

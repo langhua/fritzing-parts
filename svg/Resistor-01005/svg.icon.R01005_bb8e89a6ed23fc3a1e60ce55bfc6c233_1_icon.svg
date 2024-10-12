@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- This xml file is generated through a template. Please don't edit it directly -->
+
+<svg
+   gorn="0"
+   height="0.23999999"
+   id="Layer_1"
+   version="1.1"
+   viewBox="0 0 0.43000001 0.24"
+   width="0.43000001"
+   x="0px"
+   xml:space="preserve"
+   y="0px"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+    <defs
+   id="defs435" />
+    <desc
+   id="desc417">
+        <referenceFile>resistor_icon_220.svg</referenceFile>
+    </desc>
+    <rect
+   gorn="0.2"
+   height="0.2"
+   id="connector0pad"
+   style="fill:#e3e2db;fill-opacity:1;stroke:none;stroke-width:0"
+   width="0.1"
+   x="0.02"
+   y="0.02" />
+    <rect
+   gorn="0.3"
+   height="0.2"
+   id="connector1pad"
+   style="fill:#e3e2db;fill-opacity:1;stroke:none;stroke-width:0"
+   width="0.1"
+   x="0.31999999"
+   y="0.02" />
+    
+    <rect
+   gorn="0.5"
+   height="0.2"
+   id="rect787"
+   style="opacity:0.75;fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:0.0224811"
+   width="0.2"
+   x="0.12"
+   y="0.02" />
+    
+</svg>
