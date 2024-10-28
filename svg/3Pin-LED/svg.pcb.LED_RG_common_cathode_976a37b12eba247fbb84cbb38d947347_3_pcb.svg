@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xml:space="preserve"
+   viewBox="0 0 18.809996 21.050003"
+   id="svg2"
+   y="0px"
+   version="1.2"
+   width="0.26124984in"
+   gorn="0"
+   x="0px"
+   height="0.29236093in"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+     id="defs14" /><g
+     id="copper1"
+     gorn="0.0"
+     transform="translate(0.28224501,-0.19805599)"><g
+       id="copper0"
+       gorn="0.0.0"
+       transform="translate(-0.19720363)"><circle
+         cy="10.467985"
+         stroke="#ff9400"
+         stroke-width="1.01939"
+         cx="2.1259856"
+         id="connector0pad"
+         gorn="0.0.0.0"
+         fill="none"
+         r="1.6162926" /><circle
+         cy="10.467985"
+         stroke="#ff9400"
+         stroke-width="1.01939"
+         cx="9.3259897"
+         id="connector1pad"
+         gorn="0.0.0.1"
+         fill="none"
+         r="1.6162926" /><circle
+         cy="10.467985"
+         stroke="#ff9400"
+         stroke-width="1.01939"
+         cx="16.525993"
+         id="connector4pad"
+         gorn="0.0.0.2"
+         fill="none"
+         r="1.6162926" /></g></g><g
+     id="silkscreen"
+     gorn="0.1"
+     transform="translate(-1.325,0.30000001)"><path
+       stroke="#ffffff"
+       stroke-width="0.6"
+       d="M 19.85,7.025 C 18.508,2.942 14.656,0 10.125,0 6.577,0 3.458,1.805 1.625,4.55 v 2.475 m 0,6.4 v 2.449 c 1.833,2.746 4.952,4.576 8.5,4.576 4.531,0 8.383,-2.943 9.725,-7.025"
+       id="path3607"
+       gorn="0.1.0"
+       fill="none" /></g></svg>
