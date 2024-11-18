@@ -1,0 +1,186 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<module fritzingVersion="1.0.3" moduleId="CH340X_ad06d7c23acb066920f45661ff7d5ca4_1">
+ <version>4</version>
+ <date>周日 11月 17 2024</date>
+ <label>CH340X</label>
+ <author>Shi Jinghai</author>
+ <title>CH340X</title>
+ <tags>
+  <tag>CH340X</tag>
+  <tag>SOP-10</tag>
+ </tags>
+ <properties>
+  <property name="package">sop-10</property>
+  <property name="family">usb ic</property>
+  <property name="chip">CH340X</property>
+  <property name="technology">Type-B/Type-C</property>
+  <property name="part number"></property>
+  <property name="layer"></property>
+ </properties>
+ <views>
+  <breadboardView>
+   <layers image="breadboard/CH340X_ad06d7c23acb066920f45661ff7d5ca4_1_breadboard.svg">
+    <layer layerId="breadboard"/>
+   </layers>
+  </breadboardView>
+  <schematicView>
+   <layers image="schematic/CH340X_ad06d7c23acb066920f45661ff7d5ca4_1_schematic.svg">
+    <layer layerId="schematic"/>
+   </layers>
+  </schematicView>
+  <pcbView>
+   <layers image="pcb/CH340X_ad06d7c23acb066920f45661ff7d5ca4_1_pcb.svg">
+    <layer layerId="copper1"/>
+    <layer layerId="silkscreen"/>
+   </layers>
+  </pcbView>
+  <iconView>
+   <layers image="icon/CH340X_ad06d7c23acb066920f45661ff7d5ca4_1_icon.svg">
+    <layer layerId="icon"/>
+   </layers>
+  </iconView>
+ </views>
+ <connectors>
+  <connector id="connector5" name="TNOW/DTR" type="male">
+   <description>TNOW/DTR</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector5pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector5pin" layer="schematic" terminalId="connector5terminal"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector5pad" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector2" name="GND" type="male">
+   <description>GND</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector2pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector2pin" layer="schematic" terminalId="connector2terminal"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector2pad" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector3" name="RTS#" type="male">
+   <description>RTS#</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector3pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector3pin" layer="schematic" terminalId="connector3terminal"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector3pad" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector7" name="TXD" type="male">
+   <description>TXD</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector7pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector7pin" layer="schematic" terminalId="connector7terminal"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector7pad" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector8" name="RXD" type="male">
+   <description>RXD</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector8pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector8pin" layer="schematic" terminalId="connector8terminal"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector8pad" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector9" name="V3.3" type="male">
+   <description>V3.3</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector9pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector9pin" layer="schematic" terminalId="connector9terminal"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector9pad" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector0" name="UD+" type="male">
+   <description>UD+</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector0pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector0pin" layer="schematic" terminalId="connector0terminal"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector0pad" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector1" name="UD-" type="male">
+   <description>UD-</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector1pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector1pin" layer="schematic" terminalId="connector1terminal"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector1pad" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector4" name="CTS#" type="male">
+   <description>CTS#</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector4pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector4pin" layer="schematic" terminalId="connector4terminal"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector4pad" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector6" name="VCC" type="male">
+   <description>VCC</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector6pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector6pin" layer="schematic" terminalId="connector6terminal"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector6pad" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+ </connectors>
+ <buses/>
+</module>
