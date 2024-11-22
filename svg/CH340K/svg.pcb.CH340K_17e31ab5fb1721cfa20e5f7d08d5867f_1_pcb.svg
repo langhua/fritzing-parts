@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+
+<svg
+   gorn="0"
+   height="6.5499997mm"
+   id="svg23"
+   version="1.2"
+   viewBox="0 0 4.8994132 6.5500114"
+   width="4.899404mm"
+   x="0in"
+   y="0in"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <desc
+     id="desc2">
+    <referenceFile>CH340X_ad06d7c23acb066920f45661ff7d5ca4_1_pcb.svg</referenceFile>
+  </desc>
+  <defs
+     id="defs27" />
+  <g
+     gorn="0.1"
+     id="copper1"
+     transform="matrix(1.8785757,0,0,1.2550316,-0.75568128,0)">
+    <rect
+       connectorname="8"
+       fill="#f7bd13"
+       gorn="0.1.0"
+       height="1.0000019"
+       id="connector7pad"
+       stroke="none"
+       stroke-linecap="round"
+       stroke-width="0"
+       width="0.28897229"
+       x="1.5618"
+       y="0" />
+    <rect
+       connectorname="7"
+       fill="#f7bd13"
+       gorn="0.1.1"
+       height="1.0000019"
+       id="connector6pad"
+       stroke="none"
+       stroke-linecap="round"
+       stroke-width="0"
+       width="0.28897229"
+       x="2.0618"
+       y="0" />
+    <rect
+       connectorname="6"
+       fill="#f7bd13"
+       gorn="0.1.2"
+       height="1.0000019"
+       id="connector5pad"
+       stroke="none"
+       stroke-linecap="round"
+       stroke-width="0"
+       width="0.28897229"
+       x="2.5618"
+       y="0" />
+    <rect
+       connectorname="9"
+       fill="#f7bd13"
+       gorn="0.1.3"
+       height="1.0000019"
+       id="connector8pad"
+       stroke="none"
+       stroke-linecap="round"
+       stroke-width="0"
+       width="0.28897229"
+       x="1.0618"
+       y="0" />
+    <rect
+       connectorname="10"
+       fill="#f7bd13"
+       gorn="0.1.4"
+       height="1.0000019"
+       id="connector9pad"
+       stroke="none"
+       stroke-linecap="round"
+       stroke-width="0"
+       width="0.28897229"
+       x="0.5618"
+       y="0" />
+    <rect
+       connectorname="3"
+       fill="#f7bd13"
+       gorn="0.1.5"
+       height="1.0000019"
+       id="connector2pad"
+       stroke="none"
+       stroke-linecap="round"
+       stroke-width="0"
+       width="0.28897229"
+       x="1.5618"
+       y="4.2189999" />
+    <rect
+       connectorname="4"
+       fill="#f7bd13"
+       gorn="0.1.6"
+       height="1.0000019"
+       id="connector3pad"
+       stroke="none"
+       stroke-linecap="round"
+       stroke-width="0"
+       width="0.28897229"
+       x="2.0618"
+       y="4.2189999" />
+    <rect
+       connectorname="5"
+       fill="#f7bd13"
+       gorn="0.1.7"
+       height="1.0000019"
+       id="connector4pad"
+       stroke="none"
+       stroke-linecap="round"
+       stroke-width="0"
+       width="0.28897229"
+       x="2.5618"
+       y="4.2189999" />
+    <rect
+       connectorname="2"
+       fill="#f7bd13"
+       gorn="0.1.8"
+       height="1.0000019"
+       id="connector1pad"
+       stroke="none"
+       stroke-linecap="round"
+       stroke-width="0"
+       width="0.28897229"
+       x="1.0618"
+       y="4.2189999" />
+    <rect
+       connectorname="1"
+       fill="#f7bd13"
+       gorn="0.1.9"
+       height="1.0000019"
+       id="connector0pad"
+       stroke="none"
+       stroke-linecap="round"
+       stroke-width="0"
+       width="0.28897229"
+       x="0.5618"
+       y="4.2189999" />
+    <g
+       gorn="0.1.10"
+       id="copper0" />
+  </g>
+  <g
+     gorn="0.2"
+     id="silkscreen"
+     transform="matrix(1.4289836,0,0,0.99190631,0,0.71699068)">
+    <line
+       class="other"
+       gorn="0.2.0"
+       id="line16"
+       stroke="#f0f0f0"
+       stroke-linecap="round"
+       stroke-width="0.127"
+       x1="0.063500002"
+       x2="0.063500002"
+       y1="1.054"
+       y2="4.0539999" />
+    <line
+       class="other"
+       gorn="0.2.1"
+       id="line18"
+       stroke="#f0f0f0"
+       stroke-linecap="round"
+       stroke-width="0.127"
+       x1="3.3650999"
+       x2="3.3650999"
+       y1="1.054"
+       y2="4.0539999" />
+    <ellipse
+       class="other"
+       cx="0.67325544"
+       cy="3.6884911"
+       fill="none"
+       gorn="0.2.2"
+       id="circle20"
+       stroke="#f0f0f0"
+       stroke-width="0.110498"
+       rx="0.035105336"
+       ry="0.069325119" />
+  </g>
+</svg>
