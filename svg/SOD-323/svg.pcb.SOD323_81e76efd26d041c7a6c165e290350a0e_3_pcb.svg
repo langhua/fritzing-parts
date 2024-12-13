@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   gorn="0"
+   height="0.90080112mm"
+   id="svg2"
+   version="1.1"
+   viewBox="0 0 305.10001 90.080115"
+   width="3.0510001mm"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs13" />
+  <g
+     transform="translate(-9.3866118,-10.347002)"
+     id="copper0">
+    <g
+       gorn="0.1.0"
+       id="copper1">
+      <rect
+         gorn="0.1.0.0"
+         height="70"
+         id="connector0pin"
+         style="fill:#f7bf13;fill-opacity:1;stroke:none;stroke-width:0.347833"
+         width="70"
+         x="19.660221"
+         y="20.102654" />
+      <rect
+         gorn="0.1.0.1"
+         height="70"
+         id="connector1pin"
+         style="fill:#f7bf13;fill-opacity:1;stroke:none;stroke-width:0.347833"
+         width="70"
+         x="234.66022"
+         y="20.102654" />
+    </g>
+  </g>
+  <g
+     transform="matrix(0.44076926,0,0,0.29059692,0.00374796,-0.00246462)"
+     id="g19">
+    <g
+       gorn="0.2.0"
+       id="silkscreen"
+       transform="matrix(1.0033421,0,0,0.99994526,-0.00849942,0.00848503)">
+      <g
+         transform="matrix(28.222222,0,0,28.222222,-238.10304,3.6027585)"
+         id="g12">
+        <g
+           gorn="0.2.0.0.0"
+           id="g11">
+          <rect
+             gorn="0.2.0.0.0.0"
+             height="9.5669289"
+             id="rect3601"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0"
+             width="1.7716535"
+             x="16.037304"
+             y="0.68746716" />
+        </g>
+      </g>
+      <g
+         transform="scale(28.222222)"
+         id="g16">
+        <g
+           gorn="0.2.0.1.0"
+           id="g14">
+          <rect
+             gorn="0.2.0.1.0.0"
+             height="10.629921"
+             id="rect3603"
+             style="fill:none;stroke:#ffffff;stroke-width:0.354331;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             width="24.094488"
+             x="0.17716536"
+             y="0.17716536" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
