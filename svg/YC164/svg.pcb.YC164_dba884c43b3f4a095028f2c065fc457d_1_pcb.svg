@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+
+<svg
+   gorn="0"
+   height="3.12006mm"
+   id="svg23"
+   version="1.2"
+   viewBox="0 0 3.9402842 3.1200655"
+   width="3.9402769mm"
+   x="0in"
+   y="0in"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs27" />
+  <g
+     gorn="0.2.0"
+     id="copper1"
+     transform="translate(-5.5364968,-2.8342785)">
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       layerid="1"
+       number="1"
+       net=""
+       plated="Y"
+       id="gge159"
+       locked="0"
+       c_rotation="0"
+       c_width="2.7559"
+       c_height="3.1496"
+       title=""
+       c_shape="RECT"
+       pasteexpansion="0"
+       solderexpansion="0.2"
+       style="fill:#f7bd13;fill-opacity:1;stroke:none"
+       transform="matrix(0.25400047,0,0,0.25400047,-1008.095,-756.08415)">
+      <polygon
+         c_etype="pad_shell"
+         points="3992.0273,2995.6182 3994.7833,2995.6182 3994.7833,2998.7678 3992.0273,2998.7678 "
+         layerid="1"
+         stroke-width="0"
+         id="connector0pad"
+         style="fill:#f7bd13;fill-opacity:1;stroke:none;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges" />
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="3993.405,2990.894"
+       layerid="1"
+       number="8"
+       net=""
+       plated="Y"
+       id="gge160"
+       locked="0"
+       c_rotation="0"
+       c_width="2.7559"
+       c_height="3.1496"
+       title=""
+       c_shape="RECT"
+       pasteexpansion="0"
+       solderexpansion="0.2"
+       style="fill:#f7bd13;fill-opacity:1;stroke:none"
+       transform="matrix(0.25400047,0,0,0.25400047,-1008.095,-756.08415)">
+      <polygon
+         c_etype="pad_shell"
+         points="3992.0273,2989.3192 3994.7833,2989.3192 3994.7833,2992.4688 3992.0273,2992.4688 "
+         layerid="1"
+         stroke-width="0"
+         id="connector7pad"
+         style="fill:#f7bd13;fill-opacity:1;stroke:none;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges" />
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="3996.85,2997.193"
+       layerid="1"
+       number="2"
+       net=""
+       plated="Y"
+       id="gge161"
+       locked="0"
+       c_rotation="0"
+       c_width="2.0472"
+       c_height="3.1496"
+       title=""
+       c_shape="RECT"
+       pasteexpansion="0"
+       solderexpansion="0.2"
+       style="fill:#000000;stroke:#000000"
+       transform="matrix(0.25400047,0,0,0.25400047,-1008.095,-756.08415)">
+      <polygon
+         c_etype="pad_shell"
+         points="3995.8264,2995.6185 3997.8736,2995.6185 3997.8736,2998.7681 3995.8264,2998.7681 "
+         layerid="1"
+         stroke-width="0"
+         id="connector1pad"
+         style="fill:#f7bd13;fill-opacity:1;stroke:none;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges" />
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4000,2997.193"
+       layerid="1"
+       number="3"
+       net=""
+       plated="Y"
+       id="gge163"
+       locked="0"
+       c_rotation="0"
+       c_width="2.0472"
+       c_height="3.1496"
+       title=""
+       c_shape="RECT"
+       pasteexpansion="0"
+       solderexpansion="0.2"
+       style="fill:#f7bd13;fill-opacity:1;stroke:none"
+       transform="matrix(0.25400047,0,0,0.25400047,-1008.095,-756.08415)">
+      <polygon
+         c_etype="pad_shell"
+         points="3998.9764,2995.6185 4001.0236,2995.6185 4001.0236,2998.7681 3998.9764,2998.7681 "
+         layerid="1"
+         stroke-width="0"
+         id="connector2pad"
+         style="fill:#f7bd13;fill-opacity:1;stroke:none;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges" />
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4003.445,2997.193"
+       layerid="1"
+       number="4"
+       net=""
+       plated="Y"
+       id="gge165"
+       locked="0"
+       c_rotation="0"
+       c_width="2.7559"
+       c_height="3.1496"
+       title=""
+       c_shape="RECT"
+       pasteexpansion="0"
+       solderexpansion="0.2"
+       style="fill:#f7bd13;fill-opacity:1;stroke:none"
+       transform="matrix(0.25400047,0,0,0.25400047,-1008.095,-756.08415)">
+      <polygon
+         c_etype="pad_shell"
+         points="4002.0667,2995.6185 4004.8227,2995.6185 4004.8227,2998.7681 4002.0667,2998.7681 "
+         layerid="1"
+         stroke-width="0"
+         id="connector3pad"
+         style="fill:#f7bd13;fill-opacity:1;stroke:none;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges" />
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4003.445,2990.894"
+       layerid="1"
+       number="5"
+       net=""
+       plated="Y"
+       id="gge166"
+       locked="0"
+       c_rotation="0"
+       c_width="2.7559"
+       c_height="3.1496"
+       title=""
+       c_shape="RECT"
+       pasteexpansion="0"
+       solderexpansion="0.2"
+       style="fill:#f7bd13;fill-opacity:1;stroke:none"
+       transform="matrix(0.25400047,0,0,0.25400047,-1008.095,-756.08415)">
+      <polygon
+         c_etype="pad_shell"
+         points="4002.0667,2989.3189 4004.8227,2989.3189 4004.8227,2992.4685 4002.0667,2992.4685 "
+         layerid="1"
+         stroke-width="0"
+         id="connector4pad"
+         style="fill:#f7bd13;fill-opacity:1;stroke:none;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges" />
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4000,2990.894"
+       layerid="1"
+       number="6"
+       net=""
+       plated="Y"
+       id="gge164"
+       locked="0"
+       c_rotation="0"
+       c_width="2.0472"
+       c_height="3.1496"
+       title=""
+       c_shape="RECT"
+       pasteexpansion="0"
+       solderexpansion="0.2"
+       style="fill:#f7bd13;fill-opacity:1;stroke:none"
+       transform="matrix(0.25400047,0,0,0.25400047,-1008.095,-756.08415)">
+      <polygon
+         c_etype="pad_shell"
+         points="3998.9764,2989.3189 4001.0236,2989.3189 4001.0236,2992.4685 3998.9764,2992.4685 "
+         layerid="1"
+         stroke-width="0"
+         id="connector5pad"
+         style="fill:#f7bd13;fill-opacity:1;stroke:none;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges" />
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="3996.85,2990.894"
+       layerid="1"
+       number="7"
+       net=""
+       plated="Y"
+       id="gge162"
+       locked="0"
+       c_rotation="0"
+       c_width="2.0472"
+       c_height="3.1496"
+       title=""
+       c_shape="RECT"
+       pasteexpansion="0"
+       solderexpansion="0.2"
+       style="fill:#f7bd13;fill-opacity:1;stroke:none"
+       transform="matrix(0.25400047,0,0,0.25400047,-1008.095,-756.08415)">
+      <polygon
+         c_etype="pad_shell"
+         points="3995.8264,2989.3189 3997.8736,2989.3189 3997.8736,2992.4685 3995.8264,2992.4685 "
+         layerid="1"
+         stroke-width="0"
+         id="connector6pad"
+         style="fill:#f7bd13;fill-opacity:1;stroke:none;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges" />
+    </g>
+  </g>
+  <g
+     gorn="0.3.0"
+     id="silkscreen"
+     transform="translate(-5.5364968,-2.8342785)">
+    <polyline
+       points="4005.7855 2995.8152 4005.7855 2999.7513 3991.0615 2999.7523 3991.0615 2995.6573"
+       stroke-width="0.7874"
+       stroke-linecap="round"
+       fill="none"
+       layerid="3"
+       net=""
+       id="gge168"
+       locked="0"
+       style="fill:none;stroke:#e6e6e6;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"
+       transform="matrix(0.25400047,0,0,0.25400047,-1008.095,-756.08415)" />
+    <polyline
+       points="3991.063 2992.272 3991.063 2988.257 4005.787 2988.256 4005.787 2992.3517"
+       stroke-width="0.7874"
+       stroke-linecap="round"
+       fill="none"
+       layerid="3"
+       net=""
+       id="gge167"
+       locked="0"
+       style="fill:none;stroke:#e6e6e6;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"
+       transform="matrix(0.25400047,0,0,0.25400047,-1008.095,-756.08415)" />
+  </g>
+</svg>

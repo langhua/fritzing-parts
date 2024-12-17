@@ -1,0 +1,1426 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+
+<svg
+   gorn="0"
+   height="0.6in"
+   id="svg301"
+   version="1.2"
+   viewBox="0 0 500 600"
+   width="0.5in"
+   x="0in"
+   y="0in"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs305" />
+  <g
+     gorn="0.1"
+     id="breadboard">
+    <g
+       gorn="0.1.0"
+       id="icon">
+      <path
+         d="M0,0L0,270A30,30 0 0 1 0,330L0,600L500,600L500,0L0,0z"
+         fill="#1F7A34"
+         gorn="0.1.0.0"
+         id="path6"
+         stroke="none"
+         stroke-width="0" />
+      <g
+         transform="translate(163.5,526.05)"
+         id="g80">
+        <g
+           transform="rotate(-90)"
+           id="g74">
+          <text
+             fill="white"
+             font-family="OCRA"
+             font-size="45"
+             gorn="0.1.0.5.0.0.0.0.0.0.0.0"
+             id="text69"
+             stroke="none"
+             stroke-width="0"
+             text-anchor="start"
+             x="0"
+             y="0">1</text>
+        </g>
+      </g>
+      <g
+         transform="translate(163.5,73.95)"
+         id="g94">
+        <g
+           transform="rotate(-90)"
+           id="g87">
+          <text
+             fill="white"
+             font-family="OCRA"
+             font-size="45"
+             gorn="0.1.0.6.0.0.0.0.0.0.0.0"
+             id="text79"
+             stroke="none"
+             stroke-width="0"
+             text-anchor="end"
+             x="0"
+             y="0">8</text>
+        </g>
+      </g>
+      <g
+         transform="translate(263.5,526.05)"
+         id="g108">
+        <g
+           transform="rotate(-90)"
+           id="g102">
+          <text
+             fill="white"
+             font-family="OCRA"
+             font-size="45"
+             gorn="0.1.0.7.0.0.0.0.0.0.0.0"
+             id="text89"
+             stroke="none"
+             stroke-width="0"
+             text-anchor="start"
+             x="0"
+             y="0">2</text>
+        </g>
+      </g>
+      <g
+         transform="translate(263.5,73.95)"
+         id="g120">
+        <g
+           transform="rotate(-90)"
+           id="g114">
+          <text
+             fill="white"
+             font-family="OCRA"
+             font-size="45"
+             gorn="0.1.0.8.0.0.0.0.0.0.0.0"
+             id="text99"
+             stroke="none"
+             stroke-width="0"
+             text-anchor="end"
+             x="0"
+             y="0">7</text>
+        </g>
+      </g>
+      <g
+         transform="translate(363.5,526.05)"
+         id="g132">
+        <g
+           transform="rotate(-90)"
+           id="g126">
+          <text
+             fill="white"
+             font-family="OCRA"
+             font-size="45"
+             gorn="0.1.0.9.0.0.0.0.0.0.0.0"
+             id="text109"
+             stroke="none"
+             stroke-width="0"
+             text-anchor="start"
+             x="0"
+             y="0">3</text>
+        </g>
+      </g>
+      <g
+         transform="translate(363.5,73.95)"
+         id="g144">
+        <g
+           transform="rotate(-90)"
+           id="g139">
+          <text
+             fill="white"
+             font-family="OCRA"
+             font-size="45"
+             gorn="0.1.0.10.0.0.0.0.0.0.0.0"
+             id="text119"
+             stroke="none"
+             stroke-width="0"
+             text-anchor="end"
+             x="0"
+             y="0">6</text>
+        </g>
+      </g>
+      <g
+         transform="translate(463.5,526.05)"
+         id="g156">
+        <g
+           transform="rotate(-90)"
+           id="g150">
+          <text
+             fill="white"
+             font-family="OCRA"
+             font-size="45"
+             gorn="0.1.0.11.0.0.0.0.0.0.0.0"
+             id="text129"
+             stroke="none"
+             stroke-width="0"
+             text-anchor="start"
+             x="0"
+             y="0">4</text>
+        </g>
+      </g>
+      <g
+         transform="translate(463.5,73.95)"
+         id="g168">
+        <g
+           transform="rotate(-90)"
+           id="g162">
+          <g
+             gorn="0.1.0.12.0.0.0.0.0.0.0"
+             id="g141">
+            <text
+               fill="white"
+               font-family="OCRA"
+               font-size="45"
+               gorn="0.1.0.12.0.0.0.0.0.0.0.0"
+               id="text139"
+               stroke="none"
+               stroke-width="0"
+               text-anchor="end"
+               x="0"
+               y="0">5</text>
+          </g>
+        </g>
+      </g>
+      <g
+         c_partid="part_pad"
+         c_etype="pinpart"
+         c_origin="3993.405,2997.193"
+         layerid="1"
+         number="1"
+         net=""
+         plated="Y"
+         id="gge159"
+         locked="0"
+         c_rotation="0"
+         c_width="2.7559"
+         c_height="3.1496"
+         title=""
+         c_shape="RECT"
+         pasteexpansion="0"
+         solderexpansion="0.2"
+         style="fill:#000000;stroke:#000000"
+         transform="matrix(10,0,0,10,-39726.015,-29637.997)">
+        <polygon
+           c_etype="pad_shell"
+           points="3992.0273,2998.7678 3992.0273,2995.6182 3994.7833,2995.6182 3994.7833,2998.7678 "
+           layerid="1"
+           stroke-width="0"
+           id="polygon666"
+           style="fill:#000000;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges" />
+        <circle
+           c_etype="pad_hole"
+           cx="3993.4053"
+           cy="2997.1926"
+           r="0"
+           layerid="1"
+           stroke-width="0"
+           id="circle668"
+           style="fill:#000000;stroke:#000000;shape-rendering:crispEdges" />
+      </g>
+      <g
+         c_partid="part_pad"
+         c_etype="pinpart"
+         c_origin="3993.405,2990.894"
+         layerid="1"
+         number="8"
+         net=""
+         plated="Y"
+         id="gge160"
+         locked="0"
+         c_rotation="0"
+         c_width="2.7559"
+         c_height="3.1496"
+         title=""
+         c_shape="RECT"
+         pasteexpansion="0"
+         solderexpansion="0.2"
+         style="fill:#000000;stroke:#000000"
+         transform="matrix(10,0,0,10,-39726.015,-29637.997)">
+        <polygon
+           c_etype="pad_shell"
+           points="3992.0273,2992.4688 3992.0273,2989.3192 3994.7833,2989.3192 3994.7833,2992.4688 "
+           layerid="1"
+           stroke-width="0"
+           id="polygon671"
+           style="fill:#000000;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges" />
+        <circle
+           c_etype="pad_hole"
+           cx="3993.4055"
+           cy="2990.8936"
+           r="0"
+           layerid="1"
+           stroke-width="0"
+           id="circle673"
+           style="fill:#000000;stroke:#000000;shape-rendering:crispEdges" />
+      </g>
+      <g
+         c_partid="part_pad"
+         c_etype="pinpart"
+         c_origin="3996.85,2997.193"
+         layerid="1"
+         number="2"
+         net=""
+         plated="Y"
+         id="gge161"
+         locked="0"
+         c_rotation="0"
+         c_width="2.0472"
+         c_height="3.1496"
+         title=""
+         c_shape="RECT"
+         pasteexpansion="0"
+         solderexpansion="0.2"
+         style="fill:#000000;stroke:#000000"
+         transform="matrix(10,0,0,10,-39726.015,-29637.997)">
+        <polygon
+           c_etype="pad_shell"
+           points="3995.8264,2998.7681 3995.8264,2995.6185 3997.8736,2995.6185 3997.8736,2998.7681 "
+           layerid="1"
+           stroke-width="0"
+           id="polygon676"
+           style="fill:#000000;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges" />
+        <circle
+           c_etype="pad_hole"
+           cx="3996.8499"
+           cy="2997.1931"
+           r="0"
+           layerid="1"
+           stroke-width="0"
+           id="circle678"
+           style="fill:#000000;stroke:#000000;shape-rendering:crispEdges" />
+      </g>
+      <g
+         c_partid="part_pad"
+         c_etype="pinpart"
+         c_origin="3996.85,2990.894"
+         layerid="1"
+         number="7"
+         net=""
+         plated="Y"
+         id="gge162"
+         locked="0"
+         c_rotation="0"
+         c_width="2.0472"
+         c_height="3.1496"
+         title=""
+         c_shape="RECT"
+         pasteexpansion="0"
+         solderexpansion="0.2"
+         style="fill:#000000;stroke:#000000"
+         transform="matrix(10,0,0,10,-39726.015,-29637.997)">
+        <polygon
+           c_etype="pad_shell"
+           points="3995.8264,2992.4685 3995.8264,2989.3189 3997.8736,2989.3189 3997.8736,2992.4685 "
+           layerid="1"
+           stroke-width="0"
+           id="polygon681"
+           style="fill:#000000;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges" />
+        <circle
+           c_etype="pad_hole"
+           cx="3996.8501"
+           cy="2990.894"
+           r="0"
+           layerid="1"
+           stroke-width="0"
+           id="circle683"
+           style="fill:#000000;stroke:#000000;shape-rendering:crispEdges" />
+      </g>
+      <g
+         c_partid="part_pad"
+         c_etype="pinpart"
+         c_origin="4000,2997.193"
+         layerid="1"
+         number="3"
+         net=""
+         plated="Y"
+         id="gge163"
+         locked="0"
+         c_rotation="0"
+         c_width="2.0472"
+         c_height="3.1496"
+         title=""
+         c_shape="RECT"
+         pasteexpansion="0"
+         solderexpansion="0.2"
+         style="fill:#000000;stroke:#000000"
+         transform="matrix(10,0,0,10,-39726.015,-29637.997)">
+        <polygon
+           c_etype="pad_shell"
+           points="3998.9764,2998.7681 3998.9764,2995.6185 4001.0236,2995.6185 4001.0236,2998.7681 "
+           layerid="1"
+           stroke-width="0"
+           id="polygon686"
+           style="fill:#000000;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges" />
+        <circle
+           c_etype="pad_hole"
+           cx="4000"
+           cy="2997.1931"
+           r="0"
+           layerid="1"
+           stroke-width="0"
+           id="circle688"
+           style="fill:#000000;stroke:#000000;shape-rendering:crispEdges" />
+      </g>
+      <g
+         c_partid="part_pad"
+         c_etype="pinpart"
+         c_origin="4000,2990.894"
+         layerid="1"
+         number="6"
+         net=""
+         plated="Y"
+         id="gge164"
+         locked="0"
+         c_rotation="0"
+         c_width="2.0472"
+         c_height="3.1496"
+         title=""
+         c_shape="RECT"
+         pasteexpansion="0"
+         solderexpansion="0.2"
+         style="fill:#000000;stroke:#000000"
+         transform="matrix(10,0,0,10,-39726.015,-29637.997)">
+        <polygon
+           c_etype="pad_shell"
+           points="3998.9764,2992.4685 3998.9764,2989.3189 4001.0236,2989.3189 4001.0236,2992.4685 "
+           layerid="1"
+           stroke-width="0"
+           id="polygon691"
+           style="fill:#000000;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges" />
+        <circle
+           c_etype="pad_hole"
+           cx="4000"
+           cy="2990.894"
+           r="0"
+           layerid="1"
+           stroke-width="0"
+           id="circle693"
+           style="fill:#000000;stroke:#000000;shape-rendering:crispEdges" />
+      </g>
+      <g
+         c_partid="part_pad"
+         c_etype="pinpart"
+         c_origin="4003.445,2997.193"
+         layerid="1"
+         number="4"
+         net=""
+         plated="Y"
+         id="gge165"
+         locked="0"
+         c_rotation="0"
+         c_width="2.7559"
+         c_height="3.1496"
+         title=""
+         c_shape="RECT"
+         pasteexpansion="0"
+         solderexpansion="0.2"
+         style="fill:#000000;stroke:#000000"
+         transform="matrix(10,0,0,10,-39726.015,-29637.997)">
+        <polygon
+           c_etype="pad_shell"
+           points="4002.0667,2998.7681 4002.0667,2995.6185 4004.8227,2995.6185 4004.8227,2998.7681 "
+           layerid="1"
+           stroke-width="0"
+           id="polygon696"
+           style="fill:#000000;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges" />
+        <circle
+           c_etype="pad_hole"
+           cx="4003.4446"
+           cy="2997.1934"
+           r="0"
+           layerid="1"
+           stroke-width="0"
+           id="circle698"
+           style="fill:#000000;stroke:#000000;shape-rendering:crispEdges" />
+      </g>
+      <g
+         c_partid="part_pad"
+         c_etype="pinpart"
+         c_origin="4003.445,2990.894"
+         layerid="1"
+         number="5"
+         net=""
+         plated="Y"
+         id="gge166"
+         locked="0"
+         c_rotation="0"
+         c_width="2.7559"
+         c_height="3.1496"
+         title=""
+         c_shape="RECT"
+         pasteexpansion="0"
+         solderexpansion="0.2"
+         style="fill:#000000;stroke:#000000"
+         transform="matrix(10,0,0,10,-39726.015,-29637.997)">
+        <polygon
+           c_etype="pad_shell"
+           points="4002.0667,2992.4685 4002.0667,2989.3189 4004.8227,2989.3189 4004.8227,2992.4685 "
+           layerid="1"
+           stroke-width="0"
+           id="polygon701"
+           style="fill:#000000;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges" />
+        <circle
+           c_etype="pad_hole"
+           cx="4003.4448"
+           cy="2990.8943"
+           r="0"
+           layerid="1"
+           stroke-width="0"
+           id="circle703"
+           style="fill:#000000;stroke:#000000;shape-rendering:crispEdges" />
+      </g>
+      <g
+         gorn="0.2"
+         id="breadboard-2"
+         transform="matrix(0,0.16993842,-0.16993842,0,216.05149,266.96278)">
+        <rect
+           fill="none"
+           gorn="0.2.0"
+           height="11.83406"
+           id="connector0pin-6"
+           style="stroke-width:1.16025"
+           width="11.375545"
+           x="3.6244552"
+           y="44.48819" />
+        <rect
+           fill="none"
+           gorn="0.2.1"
+           height="10"
+           id="connector1pin-9"
+           width="10"
+           x="414.17001"
+           y="44.48819" />
+        <path
+           d="M 14.455172,50.45 H 414.81478"
+           fill="none"
+           gorn="0.2.2"
+           id="path1920"
+           stroke="#8c8c8c"
+           stroke-width="29.8344"
+           style="stroke-width:28.9794;stroke-linecap:round;stroke-dasharray:none" />
+        <path
+           d="m 142.33,6.88 c -5,-2.3 -13.6,-4.1 -19.1,-4.1 h -27.6 c -5.5,0 -10,4.5 -10,10 v 74.39 c 0,5.51 4.5,10 10,10 h 27.6 c 5.5,0 14.1,-1.89 19.1,-4.1 l 1,-0.49 c 5,-2.3 13.6,-4.1 19.1,-4.1 h 99.8 c 5.51,0 14.09,1.89 19.09,4.1 l 1.01,0.49 c 5,2.3 13.58,4.1 19.1,4.1 h 27.6 c 5.52,0 10,-4.49 10,-10 V 12.78 c 0,-5.5 -4.48,-10 -10,-10 h -27.6 c -5.52,0 -14.1,1.9 -19.1,4.1 l -1.01,0.5 c -5,2.3 -13.58,4.1 -19.09,4.1 h -99.8 c -5.5,0 -14.1,-1.9 -19.1,-4.1 z"
+           fill="#d9b477"
+           gorn="0.2.3"
+           id="body" />
+        <rect
+           fill="#ad9f4e"
+           gorn="0.2.4"
+           height="94.379997"
+           id="gold_band"
+           width="9.7600002"
+           x="305.82001"
+           y="2.6900001" />
+        <rect
+           fill="#000000"
+           gorn="0.2.5"
+           height="76.900002"
+           id="band_rd_multiplier"
+           width="25.700001"
+           x="224.62"
+           y="11.48" />
+        <rect
+           fill="#8c8c8c"
+           gorn="0.2.6"
+           height="76.900002"
+           id="band_2_nd"
+           width="25.700001"
+           x="173.23"
+           y="11.48" />
+        <path
+           d="m 147.62,8.88 c -1.6,-0.5 -3.1,-1 -4.3,-1.6 l -1,-0.5 c -5,-2.29 -13.6,-4.1 -19.1,-4.1 h -1.2 v 94.39 h 1.2 c 5.5,0 14.1,-1.89 19.1,-4.1 l 1,-0.49 c 1.2,-0.62 2.7,-1.11 4.3,-1.6 z"
+           fill="#0060b6"
+           gorn="0.2.7"
+           id="band_1_st" />
+        <path
+           d="m 329.32,56.8 v 0 c 0,5.27 -1.81,9.71 -4.1,9.71 h -26.7 c -5.28,0 -13.58,-0.78 -18.51,-1.7 L 279,64.59 c -4.79,-0.9 -13.18,-1.7 -18.52,-1.7 H 164 c -5.3,0 -13.6,0.8 -18.5,1.7 l -1,0.21 c -4.8,0.91 -13.1,1.7 -18.5,1.7 h -4.4 -13.9 -4.3 c -5.3,0 -9.7,4.08 -9.7,8.96 v 3.43 2.21 2.4 c 0,5 4.4,8.96 9.7,8.96 h 22.5 c 5.3,0 13.6,-1.7 18.5,-3.71 l 1,-0.39 c 4.8,-1.96 13.2,-3.68 18.5,-3.68 h 96.48 c 5.27,0 13.57,1.72 18.53,3.69 l 1.03,0.39 c 4.79,2.01 13.12,3.71 18.52,3.71 h 30.9 c 5.29,0 9.71,-4.1 9.71,-8.96 V 76 62.49 36.88 c -3.85,1.5 -9.75,5.7 -9.75,19.92 z"
+           gorn="0.2.8"
+           id="Shadow"
+           opacity="0.3" />
+        <rect
+           gorn="0.2.9"
+           height="43.790001"
+           id="ShadowExtra"
+           opacity="0.4"
+           width="9.7600002"
+           x="305.82001"
+           y="48.380001" />
+        <path
+           d="m 274.32,15.08 c 3.19,0 6.82,-1.4 9.2,-2.4 2.8,-1.1 8.01,-2 13.42,-2 h 20.29 c 3.12,0 3.12,3.4 3.12,5.2 0,1.8 -0.21,5.3 -3.12,5.3 h -42.5 c -1.49,0 -3.2,-1.6 -3.2,-3.11 0.09,-1.19 1.09,-2.99 2.79,-2.99 z"
+           fill="#ffffff"
+           gorn="0.2.10"
+           id="ReflexRight"
+           opacity="0.25" />
+        <circle
+           cx="97.220001"
+           cy="15.78"
+           fill="#ffffff"
+           gorn="0.2.11"
+           id="ReflexLeft"
+           opacity="0.35"
+           r="6" />
+        <rect
+           fill="#ffff33"
+           gorn="0.2.12"
+           height="22.5"
+           id="Reflex_gold"
+           opacity="0.5"
+           width="9.7600002"
+           x="305.82001"
+           y="5.8800001" />
+        <rect
+           fill="#ffffff"
+           gorn="0.2.13"
+           height="10.4"
+           id="Reflex_extra"
+           opacity="0.5"
+           width="9.7600002"
+           x="305.82001"
+           y="10.88" />
+      </g>
+      <g
+         gorn="0.2"
+         id="breadboard-2-0"
+         transform="matrix(0,0.16993842,-0.16993842,0,282.48614,267.90698)">
+        <rect
+           fill="none"
+           gorn="0.2.0"
+           height="11.83406"
+           id="connector0pin-6-8"
+           style="stroke-width:1.16025"
+           width="11.375545"
+           x="3.6244552"
+           y="44.48819" />
+        <rect
+           fill="none"
+           gorn="0.2.1"
+           height="10"
+           id="connector1pin-9-6"
+           width="10"
+           x="414.17001"
+           y="44.48819" />
+        <path
+           d="M 14.455172,50.45 H 414.81478"
+           fill="none"
+           gorn="0.2.2"
+           id="path1920-2"
+           stroke="#8c8c8c"
+           stroke-width="29.8344"
+           style="stroke-width:28.9794;stroke-linecap:round;stroke-dasharray:none" />
+        <path
+           d="m 142.33,6.88 c -5,-2.3 -13.6,-4.1 -19.1,-4.1 h -27.6 c -5.5,0 -10,4.5 -10,10 v 74.39 c 0,5.51 4.5,10 10,10 h 27.6 c 5.5,0 14.1,-1.89 19.1,-4.1 l 1,-0.49 c 5,-2.3 13.6,-4.1 19.1,-4.1 h 99.8 c 5.51,0 14.09,1.89 19.09,4.1 l 1.01,0.49 c 5,2.3 13.58,4.1 19.1,4.1 h 27.6 c 5.52,0 10,-4.49 10,-10 V 12.78 c 0,-5.5 -4.48,-10 -10,-10 h -27.6 c -5.52,0 -14.1,1.9 -19.1,4.1 l -1.01,0.5 c -5,2.3 -13.58,4.1 -19.09,4.1 h -99.8 c -5.5,0 -14.1,-1.9 -19.1,-4.1 z"
+           fill="#d9b477"
+           gorn="0.2.3"
+           id="body-5" />
+        <rect
+           fill="#ad9f4e"
+           gorn="0.2.4"
+           height="94.379997"
+           id="gold_band-1"
+           width="9.7600002"
+           x="305.82001"
+           y="2.6900001" />
+        <rect
+           fill="#000000"
+           gorn="0.2.5"
+           height="76.900002"
+           id="band_rd_multiplier-1"
+           width="25.700001"
+           x="224.62"
+           y="11.48" />
+        <rect
+           fill="#8c8c8c"
+           gorn="0.2.6"
+           height="76.900002"
+           id="band_2_nd-4"
+           width="25.700001"
+           x="173.23"
+           y="11.48" />
+        <path
+           d="m 147.62,8.88 c -1.6,-0.5 -3.1,-1 -4.3,-1.6 l -1,-0.5 c -5,-2.29 -13.6,-4.1 -19.1,-4.1 h -1.2 v 94.39 h 1.2 c 5.5,0 14.1,-1.89 19.1,-4.1 l 1,-0.49 c 1.2,-0.62 2.7,-1.11 4.3,-1.6 z"
+           fill="#0060b6"
+           gorn="0.2.7"
+           id="band_1_st-0" />
+        <path
+           d="m 329.32,56.8 v 0 c 0,5.27 -1.81,9.71 -4.1,9.71 h -26.7 c -5.28,0 -13.58,-0.78 -18.51,-1.7 L 279,64.59 c -4.79,-0.9 -13.18,-1.7 -18.52,-1.7 H 164 c -5.3,0 -13.6,0.8 -18.5,1.7 l -1,0.21 c -4.8,0.91 -13.1,1.7 -18.5,1.7 h -4.4 -13.9 -4.3 c -5.3,0 -9.7,4.08 -9.7,8.96 v 3.43 2.21 2.4 c 0,5 4.4,8.96 9.7,8.96 h 22.5 c 5.3,0 13.6,-1.7 18.5,-3.71 l 1,-0.39 c 4.8,-1.96 13.2,-3.68 18.5,-3.68 h 96.48 c 5.27,0 13.57,1.72 18.53,3.69 l 1.03,0.39 c 4.79,2.01 13.12,3.71 18.52,3.71 h 30.9 c 5.29,0 9.71,-4.1 9.71,-8.96 V 76 62.49 36.88 c -3.85,1.5 -9.75,5.7 -9.75,19.92 z"
+           gorn="0.2.8"
+           id="Shadow-1"
+           opacity="0.3" />
+        <rect
+           gorn="0.2.9"
+           height="43.790001"
+           id="ShadowExtra-9"
+           opacity="0.4"
+           width="9.7600002"
+           x="305.82001"
+           y="48.380001" />
+        <path
+           d="m 274.32,15.08 c 3.19,0 6.82,-1.4 9.2,-2.4 2.8,-1.1 8.01,-2 13.42,-2 h 20.29 c 3.12,0 3.12,3.4 3.12,5.2 0,1.8 -0.21,5.3 -3.12,5.3 h -42.5 c -1.49,0 -3.2,-1.6 -3.2,-3.11 0.09,-1.19 1.09,-2.99 2.79,-2.99 z"
+           fill="#ffffff"
+           gorn="0.2.10"
+           id="ReflexRight-0"
+           opacity="0.25" />
+        <circle
+           cx="97.220001"
+           cy="15.78"
+           fill="#ffffff"
+           gorn="0.2.11"
+           id="ReflexLeft-7"
+           opacity="0.35"
+           r="6" />
+        <rect
+           fill="#ffff33"
+           gorn="0.2.12"
+           height="22.5"
+           id="Reflex_gold-3"
+           opacity="0.5"
+           width="9.7600002"
+           x="305.82001"
+           y="5.8800001" />
+        <rect
+           fill="#ffffff"
+           gorn="0.2.13"
+           height="10.4"
+           id="Reflex_extra-3"
+           opacity="0.5"
+           width="9.7600002"
+           x="305.82001"
+           y="10.88" />
+      </g>
+      <g
+         gorn="0.2"
+         id="breadboard-2-2"
+         transform="matrix(0,0.16993842,-0.16993842,0,250.93794,266.73853)">
+        <rect
+           fill="none"
+           gorn="0.2.0"
+           height="11.83406"
+           id="connector0pin-6-1"
+           style="stroke-width:1.16025"
+           width="11.375545"
+           x="3.6244552"
+           y="44.48819" />
+        <rect
+           fill="none"
+           gorn="0.2.1"
+           height="10"
+           id="connector1pin-9-3"
+           width="10"
+           x="414.17001"
+           y="44.48819" />
+        <path
+           d="M 14.455172,50.45 H 414.81478"
+           fill="none"
+           gorn="0.2.2"
+           id="path1920-25"
+           stroke="#8c8c8c"
+           stroke-width="29.8344"
+           style="stroke-width:28.9794;stroke-linecap:round;stroke-dasharray:none" />
+        <path
+           d="m 142.33,6.88 c -5,-2.3 -13.6,-4.1 -19.1,-4.1 h -27.6 c -5.5,0 -10,4.5 -10,10 v 74.39 c 0,5.51 4.5,10 10,10 h 27.6 c 5.5,0 14.1,-1.89 19.1,-4.1 l 1,-0.49 c 5,-2.3 13.6,-4.1 19.1,-4.1 h 99.8 c 5.51,0 14.09,1.89 19.09,4.1 l 1.01,0.49 c 5,2.3 13.58,4.1 19.1,4.1 h 27.6 c 5.52,0 10,-4.49 10,-10 V 12.78 c 0,-5.5 -4.48,-10 -10,-10 h -27.6 c -5.52,0 -14.1,1.9 -19.1,4.1 l -1.01,0.5 c -5,2.3 -13.58,4.1 -19.09,4.1 h -99.8 c -5.5,0 -14.1,-1.9 -19.1,-4.1 z"
+           fill="#d9b477"
+           gorn="0.2.3"
+           id="body-6" />
+        <rect
+           fill="#ad9f4e"
+           gorn="0.2.4"
+           height="94.379997"
+           id="gold_band-4"
+           width="9.7600002"
+           x="305.82001"
+           y="2.6900001" />
+        <rect
+           fill="#000000"
+           gorn="0.2.5"
+           height="76.900002"
+           id="band_rd_multiplier-0"
+           width="25.700001"
+           x="224.62"
+           y="11.48" />
+        <rect
+           fill="#8c8c8c"
+           gorn="0.2.6"
+           height="76.900002"
+           id="band_2_nd-7"
+           width="25.700001"
+           x="173.23"
+           y="11.48" />
+        <path
+           d="m 147.62,8.88 c -1.6,-0.5 -3.1,-1 -4.3,-1.6 l -1,-0.5 c -5,-2.29 -13.6,-4.1 -19.1,-4.1 h -1.2 v 94.39 h 1.2 c 5.5,0 14.1,-1.89 19.1,-4.1 l 1,-0.49 c 1.2,-0.62 2.7,-1.11 4.3,-1.6 z"
+           fill="#0060b6"
+           gorn="0.2.7"
+           id="band_1_st-1" />
+        <path
+           d="m 329.32,56.8 v 0 c 0,5.27 -1.81,9.71 -4.1,9.71 h -26.7 c -5.28,0 -13.58,-0.78 -18.51,-1.7 L 279,64.59 c -4.79,-0.9 -13.18,-1.7 -18.52,-1.7 H 164 c -5.3,0 -13.6,0.8 -18.5,1.7 l -1,0.21 c -4.8,0.91 -13.1,1.7 -18.5,1.7 h -4.4 -13.9 -4.3 c -5.3,0 -9.7,4.08 -9.7,8.96 v 3.43 2.21 2.4 c 0,5 4.4,8.96 9.7,8.96 h 22.5 c 5.3,0 13.6,-1.7 18.5,-3.71 l 1,-0.39 c 4.8,-1.96 13.2,-3.68 18.5,-3.68 h 96.48 c 5.27,0 13.57,1.72 18.53,3.69 l 1.03,0.39 c 4.79,2.01 13.12,3.71 18.52,3.71 h 30.9 c 5.29,0 9.71,-4.1 9.71,-8.96 V 76 62.49 36.88 c -3.85,1.5 -9.75,5.7 -9.75,19.92 z"
+           gorn="0.2.8"
+           id="Shadow-6"
+           opacity="0.3" />
+        <rect
+           gorn="0.2.9"
+           height="43.790001"
+           id="ShadowExtra-0"
+           opacity="0.4"
+           width="9.7600002"
+           x="305.82001"
+           y="48.380001" />
+        <path
+           d="m 274.32,15.08 c 3.19,0 6.82,-1.4 9.2,-2.4 2.8,-1.1 8.01,-2 13.42,-2 h 20.29 c 3.12,0 3.12,3.4 3.12,5.2 0,1.8 -0.21,5.3 -3.12,5.3 h -42.5 c -1.49,0 -3.2,-1.6 -3.2,-3.11 0.09,-1.19 1.09,-2.99 2.79,-2.99 z"
+           fill="#ffffff"
+           gorn="0.2.10"
+           id="ReflexRight-8"
+           opacity="0.25" />
+        <circle
+           cx="97.220001"
+           cy="15.78"
+           fill="#ffffff"
+           gorn="0.2.11"
+           id="ReflexLeft-6"
+           opacity="0.35"
+           r="6" />
+        <rect
+           fill="#ffff33"
+           gorn="0.2.12"
+           height="22.5"
+           id="Reflex_gold-2"
+           opacity="0.5"
+           width="9.7600002"
+           x="305.82001"
+           y="5.8800001" />
+        <rect
+           fill="#ffffff"
+           gorn="0.2.13"
+           height="10.4"
+           id="Reflex_extra-8"
+           opacity="0.5"
+           width="9.7600002"
+           x="305.82001"
+           y="10.88" />
+      </g>
+      <g
+         gorn="0.2"
+         id="breadboard-2-3"
+         transform="matrix(0,0.16993842,-0.16993842,0,316.95546,268.4912)">
+        <rect
+           fill="none"
+           gorn="0.2.0"
+           height="11.83406"
+           id="connector0pin-6-7"
+           style="stroke-width:1.16025"
+           width="11.375545"
+           x="3.6244552"
+           y="44.48819" />
+        <rect
+           fill="none"
+           gorn="0.2.1"
+           height="10"
+           id="connector1pin-9-8"
+           width="10"
+           x="414.17001"
+           y="44.48819" />
+        <path
+           d="M 14.455172,50.45 H 414.81478"
+           fill="none"
+           gorn="0.2.2"
+           id="path1920-9"
+           stroke="#8c8c8c"
+           stroke-width="29.8344"
+           style="stroke-width:28.9794;stroke-linecap:round;stroke-dasharray:none" />
+        <path
+           d="m 142.33,6.88 c -5,-2.3 -13.6,-4.1 -19.1,-4.1 h -27.6 c -5.5,0 -10,4.5 -10,10 v 74.39 c 0,5.51 4.5,10 10,10 h 27.6 c 5.5,0 14.1,-1.89 19.1,-4.1 l 1,-0.49 c 5,-2.3 13.6,-4.1 19.1,-4.1 h 99.8 c 5.51,0 14.09,1.89 19.09,4.1 l 1.01,0.49 c 5,2.3 13.58,4.1 19.1,4.1 h 27.6 c 5.52,0 10,-4.49 10,-10 V 12.78 c 0,-5.5 -4.48,-10 -10,-10 h -27.6 c -5.52,0 -14.1,1.9 -19.1,4.1 l -1.01,0.5 c -5,2.3 -13.58,4.1 -19.09,4.1 h -99.8 c -5.5,0 -14.1,-1.9 -19.1,-4.1 z"
+           fill="#d9b477"
+           gorn="0.2.3"
+           id="body-2" />
+        <rect
+           fill="#ad9f4e"
+           gorn="0.2.4"
+           height="94.379997"
+           id="gold_band-15"
+           width="9.7600002"
+           x="305.82001"
+           y="2.6900001" />
+        <rect
+           fill="#000000"
+           gorn="0.2.5"
+           height="76.900002"
+           id="band_rd_multiplier-3"
+           width="25.700001"
+           x="224.62"
+           y="11.48" />
+        <rect
+           fill="#8c8c8c"
+           gorn="0.2.6"
+           height="76.900002"
+           id="band_2_nd-2"
+           width="25.700001"
+           x="173.23"
+           y="11.48" />
+        <path
+           d="m 147.62,8.88 c -1.6,-0.5 -3.1,-1 -4.3,-1.6 l -1,-0.5 c -5,-2.29 -13.6,-4.1 -19.1,-4.1 h -1.2 v 94.39 h 1.2 c 5.5,0 14.1,-1.89 19.1,-4.1 l 1,-0.49 c 1.2,-0.62 2.7,-1.11 4.3,-1.6 z"
+           fill="#0060b6"
+           gorn="0.2.7"
+           id="band_1_st-16" />
+        <path
+           d="m 329.32,56.8 v 0 c 0,5.27 -1.81,9.71 -4.1,9.71 h -26.7 c -5.28,0 -13.58,-0.78 -18.51,-1.7 L 279,64.59 c -4.79,-0.9 -13.18,-1.7 -18.52,-1.7 H 164 c -5.3,0 -13.6,0.8 -18.5,1.7 l -1,0.21 c -4.8,0.91 -13.1,1.7 -18.5,1.7 h -4.4 -13.9 -4.3 c -5.3,0 -9.7,4.08 -9.7,8.96 v 3.43 2.21 2.4 c 0,5 4.4,8.96 9.7,8.96 h 22.5 c 5.3,0 13.6,-1.7 18.5,-3.71 l 1,-0.39 c 4.8,-1.96 13.2,-3.68 18.5,-3.68 h 96.48 c 5.27,0 13.57,1.72 18.53,3.69 l 1.03,0.39 c 4.79,2.01 13.12,3.71 18.52,3.71 h 30.9 c 5.29,0 9.71,-4.1 9.71,-8.96 V 76 62.49 36.88 c -3.85,1.5 -9.75,5.7 -9.75,19.92 z"
+           gorn="0.2.8"
+           id="Shadow-7"
+           opacity="0.3" />
+        <rect
+           gorn="0.2.9"
+           height="43.790001"
+           id="ShadowExtra-5"
+           opacity="0.4"
+           width="9.7600002"
+           x="305.82001"
+           y="48.380001" />
+        <path
+           d="m 274.32,15.08 c 3.19,0 6.82,-1.4 9.2,-2.4 2.8,-1.1 8.01,-2 13.42,-2 h 20.29 c 3.12,0 3.12,3.4 3.12,5.2 0,1.8 -0.21,5.3 -3.12,5.3 h -42.5 c -1.49,0 -3.2,-1.6 -3.2,-3.11 0.09,-1.19 1.09,-2.99 2.79,-2.99 z"
+           fill="#ffffff"
+           gorn="0.2.10"
+           id="ReflexRight-2"
+           opacity="0.25" />
+        <circle
+           cx="97.220001"
+           cy="15.78"
+           fill="#ffffff"
+           gorn="0.2.11"
+           id="ReflexLeft-2"
+           opacity="0.35"
+           r="6" />
+        <rect
+           fill="#ffff33"
+           gorn="0.2.12"
+           height="22.5"
+           id="Reflex_gold-7"
+           opacity="0.5"
+           width="9.7600002"
+           x="305.82001"
+           y="5.8800001" />
+        <rect
+           fill="#ffffff"
+           gorn="0.2.13"
+           height="10.4"
+           id="Reflex_extra-6"
+           opacity="0.5"
+           width="9.7600002"
+           x="305.82001"
+           y="10.88" />
+      </g>
+    </g>
+    <g
+       transform="translate(34.035,534.05)"
+       id="g181">
+      <rect
+         fill="#8C8663"
+         gorn="0.1.1.0.0.0.1"
+         height="16.4152"
+         id="rect151"
+         width="16.4442"
+         x="7.79153"
+         y="7.73544" />
+      <polygon
+         fill="#B8AF82"
+         gorn="0.1.1.0.0.0.2"
+         id="polygon153"
+         points="0,31.9,7.79153,24.1368,7.79153,6.97162,0,0" />
+      <polygon
+         fill="#80795B"
+         gorn="0.1.1.0.0.0.3"
+         id="polygon155"
+         points="24.2079,7.76321,7.90264,7.76321,0,0,31.93,0" />
+      <polygon
+         fill="#5E5B43"
+         gorn="0.1.1.0.0.0.4"
+         id="polygon157"
+         points="24.2079,24.1368,24.2079,7.76321,31.93,0,31.93,31.9" />
+      <polygon
+         fill="#9A916C"
+         gorn="0.1.1.0.0.0.5"
+         id="polygon159"
+         points="0,31.9,7.87486,24.1368,24.2079,24.1368,31.93,31.9" />
+    </g>
+    <g
+       transform="translate(34.035,34.05)"
+       id="g192">
+      <rect
+         fill="#8C8663"
+         gorn="0.1.2.0.0.0.1"
+         height="16.4152"
+         id="rect166"
+         width="16.4442"
+         x="7.79153"
+         y="7.73544" />
+      <polygon
+         fill="#B8AF82"
+         gorn="0.1.2.0.0.0.2"
+         id="polygon168"
+         points="0,31.9,7.79153,24.1368,7.79153,6.97162,0,0" />
+      <polygon
+         fill="#80795B"
+         gorn="0.1.2.0.0.0.3"
+         id="polygon170"
+         points="24.2079,7.76321,7.90264,7.76321,0,0,31.93,0" />
+      <polygon
+         fill="#5E5B43"
+         gorn="0.1.2.0.0.0.4"
+         id="polygon172"
+         points="24.2079,24.1368,24.2079,7.76321,31.93,0,31.93,31.9" />
+      <polygon
+         fill="#9A916C"
+         gorn="0.1.2.0.0.0.5"
+         id="polygon174"
+         points="0,31.9,7.87486,24.1368,24.2079,24.1368,31.93,31.9" />
+    </g>
+    <g
+       transform="translate(134.035,534.05)"
+       id="g203">
+      <rect
+         fill="#8D8C8C"
+         gorn="0.1.3.0.0.0.0"
+         height="31.9"
+         id="connector0pin"
+         width="31.93"
+         x="0"
+         y="0" />
+      <rect
+         fill="#8C8663"
+         gorn="0.1.3.0.0.0.1"
+         height="16.4152"
+         id="rect181"
+         width="16.4442"
+         x="7.79153"
+         y="7.73544" />
+      <polygon
+         fill="#B8AF82"
+         gorn="0.1.3.0.0.0.2"
+         id="polygon183"
+         points="0,31.9,7.79153,24.1368,7.79153,6.97162,0,0" />
+      <polygon
+         fill="#80795B"
+         gorn="0.1.3.0.0.0.3"
+         id="polygon185"
+         points="24.2079,7.76321,7.90264,7.76321,0,0,31.93,0" />
+      <polygon
+         fill="#5E5B43"
+         gorn="0.1.3.0.0.0.4"
+         id="polygon187"
+         points="24.2079,24.1368,24.2079,7.76321,31.93,0,31.93,31.9" />
+      <polygon
+         fill="#9A916C"
+         gorn="0.1.3.0.0.0.5"
+         id="polygon189"
+         points="0,31.9,7.87486,24.1368,24.2079,24.1368,31.93,31.9" />
+    </g>
+    <g
+       transform="translate(134.035,34.05)"
+       id="g214">
+      <rect
+         fill="#8D8C8C"
+         gorn="0.1.4.0.0.0.0"
+         height="31.9"
+         id="connector7pin"
+         width="31.93"
+         x="0"
+         y="0" />
+      <rect
+         fill="#8C8663"
+         gorn="0.1.4.0.0.0.1"
+         height="16.4152"
+         id="rect196"
+         width="16.4442"
+         x="7.79153"
+         y="7.73544" />
+      <polygon
+         fill="#B8AF82"
+         gorn="0.1.4.0.0.0.2"
+         id="polygon198"
+         points="0,31.9,7.79153,24.1368,7.79153,6.97162,0,0" />
+      <polygon
+         fill="#80795B"
+         gorn="0.1.4.0.0.0.3"
+         id="polygon200"
+         points="24.2079,7.76321,7.90264,7.76321,0,0,31.93,0" />
+      <polygon
+         fill="#5E5B43"
+         gorn="0.1.4.0.0.0.4"
+         id="polygon202"
+         points="24.2079,24.1368,24.2079,7.76321,31.93,0,31.93,31.9" />
+      <polygon
+         fill="#9A916C"
+         gorn="0.1.4.0.0.0.5"
+         id="polygon204"
+         points="0,31.9,7.87486,24.1368,24.2079,24.1368,31.93,31.9" />
+    </g>
+    <g
+       transform="translate(234.035,534.05)"
+       id="g225">
+      <rect
+         fill="#8D8C8C"
+         gorn="0.1.5.0.0.0.0"
+         height="31.9"
+         id="connector1pin"
+         width="31.93"
+         x="0"
+         y="0" />
+      <rect
+         fill="#8C8663"
+         gorn="0.1.5.0.0.0.1"
+         height="16.4152"
+         id="rect211"
+         width="16.4442"
+         x="7.79153"
+         y="7.73544" />
+      <polygon
+         fill="#B8AF82"
+         gorn="0.1.5.0.0.0.2"
+         id="polygon213"
+         points="0,31.9,7.79153,24.1368,7.79153,6.97162,0,0" />
+      <polygon
+         fill="#80795B"
+         gorn="0.1.5.0.0.0.3"
+         id="polygon215"
+         points="24.2079,7.76321,7.90264,7.76321,0,0,31.93,0" />
+      <polygon
+         fill="#5E5B43"
+         gorn="0.1.5.0.0.0.4"
+         id="polygon217"
+         points="24.2079,24.1368,24.2079,7.76321,31.93,0,31.93,31.9" />
+      <polygon
+         fill="#9A916C"
+         gorn="0.1.5.0.0.0.5"
+         id="polygon219"
+         points="0,31.9,7.87486,24.1368,24.2079,24.1368,31.93,31.9" />
+    </g>
+    <g
+       transform="translate(234.035,34.05)"
+       id="g237">
+      <rect
+         fill="#8D8C8C"
+         gorn="0.1.6.0.0.0.0"
+         height="31.9"
+         id="connector6pin"
+         width="31.93"
+         x="0"
+         y="0" />
+      <rect
+         fill="#8C8663"
+         gorn="0.1.6.0.0.0.1"
+         height="16.4152"
+         id="rect226"
+         width="16.4442"
+         x="7.79153"
+         y="7.73544" />
+      <polygon
+         fill="#B8AF82"
+         gorn="0.1.6.0.0.0.2"
+         id="polygon228"
+         points="0,31.9,7.79153,24.1368,7.79153,6.97162,0,0" />
+      <polygon
+         fill="#80795B"
+         gorn="0.1.6.0.0.0.3"
+         id="polygon230"
+         points="24.2079,7.76321,7.90264,7.76321,0,0,31.93,0" />
+      <polygon
+         fill="#5E5B43"
+         gorn="0.1.6.0.0.0.4"
+         id="polygon232"
+         points="24.2079,24.1368,24.2079,7.76321,31.93,0,31.93,31.9" />
+      <polygon
+         fill="#9A916C"
+         gorn="0.1.6.0.0.0.5"
+         id="polygon234"
+         points="0,31.9,7.87486,24.1368,24.2079,24.1368,31.93,31.9" />
+    </g>
+    <g
+       transform="translate(334.035,534.05)"
+       id="g248">
+      <rect
+         fill="#8D8C8C"
+         gorn="0.1.7.0.0.0.0"
+         height="31.9"
+         id="connector2pin"
+         width="31.93"
+         x="0"
+         y="0" />
+      <rect
+         fill="#8C8663"
+         gorn="0.1.7.0.0.0.1"
+         height="16.4152"
+         id="rect241"
+         width="16.4442"
+         x="7.79153"
+         y="7.73544" />
+      <polygon
+         fill="#B8AF82"
+         gorn="0.1.7.0.0.0.2"
+         id="polygon243"
+         points="0,31.9,7.79153,24.1368,7.79153,6.97162,0,0" />
+      <polygon
+         fill="#80795B"
+         gorn="0.1.7.0.0.0.3"
+         id="polygon245"
+         points="24.2079,7.76321,7.90264,7.76321,0,0,31.93,0" />
+      <polygon
+         fill="#5E5B43"
+         gorn="0.1.7.0.0.0.4"
+         id="polygon247"
+         points="24.2079,24.1368,24.2079,7.76321,31.93,0,31.93,31.9" />
+      <polygon
+         fill="#9A916C"
+         gorn="0.1.7.0.0.0.5"
+         id="polygon249"
+         points="0,31.9,7.87486,24.1368,24.2079,24.1368,31.93,31.9" />
+    </g>
+    <g
+       transform="translate(334.035,34.05)"
+       id="g260">
+      <rect
+         fill="#8D8C8C"
+         gorn="0.1.8.0.0.0.0"
+         height="31.9"
+         id="connector5pin"
+         width="31.93"
+         x="0"
+         y="0" />
+      <rect
+         fill="#8C8663"
+         gorn="0.1.8.0.0.0.1"
+         height="16.4152"
+         id="rect256"
+         width="16.4442"
+         x="7.79153"
+         y="7.73544" />
+      <polygon
+         fill="#B8AF82"
+         gorn="0.1.8.0.0.0.2"
+         id="polygon258"
+         points="0,31.9,7.79153,24.1368,7.79153,6.97162,0,0" />
+      <polygon
+         fill="#80795B"
+         gorn="0.1.8.0.0.0.3"
+         id="polygon260"
+         points="24.2079,7.76321,7.90264,7.76321,0,0,31.93,0" />
+      <polygon
+         fill="#5E5B43"
+         gorn="0.1.8.0.0.0.4"
+         id="polygon262"
+         points="24.2079,24.1368,24.2079,7.76321,31.93,0,31.93,31.9" />
+      <polygon
+         fill="#9A916C"
+         gorn="0.1.8.0.0.0.5"
+         id="polygon264"
+         points="0,31.9,7.87486,24.1368,24.2079,24.1368,31.93,31.9" />
+    </g>
+    <g
+       transform="translate(434.035,534.05)"
+       id="g271">
+      <rect
+         fill="#8D8C8C"
+         gorn="0.1.9.0.0.0.0"
+         height="31.9"
+         id="connector3pin"
+         width="31.93"
+         x="0"
+         y="0" />
+      <rect
+         fill="#8C8663"
+         gorn="0.1.9.0.0.0.1"
+         height="16.4152"
+         id="rect271"
+         width="16.4442"
+         x="7.79153"
+         y="7.73544" />
+      <polygon
+         fill="#B8AF82"
+         gorn="0.1.9.0.0.0.2"
+         id="polygon273"
+         points="0,31.9,7.79153,24.1368,7.79153,6.97162,0,0" />
+      <polygon
+         fill="#80795B"
+         gorn="0.1.9.0.0.0.3"
+         id="polygon275"
+         points="24.2079,7.76321,7.90264,7.76321,0,0,31.93,0" />
+      <polygon
+         fill="#5E5B43"
+         gorn="0.1.9.0.0.0.4"
+         id="polygon277"
+         points="24.2079,24.1368,24.2079,7.76321,31.93,0,31.93,31.9" />
+      <polygon
+         fill="#9A916C"
+         gorn="0.1.9.0.0.0.5"
+         id="polygon279"
+         points="0,31.9,7.87486,24.1368,24.2079,24.1368,31.93,31.9" />
+    </g>
+    <g
+       transform="translate(434.035,34.05)"
+       id="g282">
+      <rect
+         fill="#8D8C8C"
+         gorn="0.1.10.0.0.0.0"
+         height="31.9"
+         id="connector4pin"
+         width="31.93"
+         x="0"
+         y="0" />
+      <rect
+         fill="#8C8663"
+         gorn="0.1.10.0.0.0.1"
+         height="16.4152"
+         id="rect286"
+         width="16.4442"
+         x="7.79153"
+         y="7.73544" />
+      <polygon
+         fill="#B8AF82"
+         gorn="0.1.10.0.0.0.2"
+         id="polygon288"
+         points="0,31.9,7.79153,24.1368,7.79153,6.97162,0,0" />
+      <polygon
+         fill="#80795B"
+         gorn="0.1.10.0.0.0.3"
+         id="polygon290"
+         points="24.2079,7.76321,7.90264,7.76321,0,0,31.93,0" />
+      <polygon
+         fill="#5E5B43"
+         gorn="0.1.10.0.0.0.4"
+         id="polygon292"
+         points="24.2079,24.1368,24.2079,7.76321,31.93,0,31.93,31.9" />
+      <polygon
+         fill="#9A916C"
+         gorn="0.1.10.0.0.0.5"
+         id="polygon294"
+         points="0,31.9,7.87486,24.1368,24.2079,24.1368,31.93,31.9" />
+    </g>
+  </g>
+  <g
+     gorn="0.3.0.1.0.0.0.0.0.0"
+     id="g40"
+     transform="matrix(1.3997127,0,0,1,-529.39296,181.11003)">
+    <rect
+       connectorname="3"
+       fill="#8c8c8c"
+       gorn="0.3.0.1.0.0.0.0.0.0.5"
+       height="34.999901"
+       id="rect18"
+       stroke="none"
+       stroke-linecap="round"
+       stroke-width="0"
+       width="12.0079"
+       x="545.49597"
+       y="177.74774" />
+    <rect
+       connectorname="4"
+       fill="#8c8c8c"
+       gorn="0.3.0.1.0.0.0.0.0.0.6"
+       height="34.999901"
+       id="rect20"
+       stroke="none"
+       stroke-linecap="round"
+       stroke-width="0"
+       width="12.0079"
+       x="569.19928"
+       y="177.26251" />
+    <rect
+       connectorname="5"
+       fill="#8c8c8c"
+       gorn="0.3.0.1.0.0.0.0.0.0.7"
+       height="34.999901"
+       id="rect22"
+       stroke="none"
+       stroke-linecap="round"
+       stroke-width="0"
+       width="12.0079"
+       x="593.31146"
+       y="177.2625" />
+    <rect
+       connectorname="2"
+       fill="#8c8c8c"
+       gorn="0.3.0.1.0.0.0.0.0.0.8"
+       height="34.999901"
+       id="rect24"
+       stroke="none"
+       stroke-linecap="round"
+       stroke-width="0"
+       width="12.0079"
+       x="518.93109"
+       y="176.77727" />
+    <rect
+       connectorname="1"
+       fill="#8c8c8c"
+       gorn="0.3.0.1.0.0.0.0.0.0.9"
+       height="34.999901"
+       id="rect26"
+       stroke="none"
+       stroke-linecap="round"
+       stroke-width="0"
+       width="12.0079"
+       x="492.77502"
+       y="176.77727" />
+  </g>
+  <g
+     gorn="0.3.0.1.0.0.0.0.0.0"
+     id="g40-6"
+     transform="matrix(1.3997127,0,0,1,-529.55993,36.006776)">
+    <rect
+       connectorname="3"
+       fill="#8c8c8c"
+       gorn="0.3.0.1.0.0.0.0.0.0.5"
+       height="34.999901"
+       id="rect18-3"
+       stroke="none"
+       stroke-linecap="round"
+       stroke-width="0"
+       width="12.0079"
+       x="545.49597"
+       y="177.74774" />
+    <rect
+       connectorname="4"
+       fill="#8c8c8c"
+       gorn="0.3.0.1.0.0.0.0.0.0.6"
+       height="34.999901"
+       id="rect20-5"
+       stroke="none"
+       stroke-linecap="round"
+       stroke-width="0"
+       width="12.0079"
+       x="569.19928"
+       y="177.26251" />
+    <rect
+       connectorname="5"
+       fill="#8c8c8c"
+       gorn="0.3.0.1.0.0.0.0.0.0.7"
+       height="34.999901"
+       id="rect22-1"
+       stroke="none"
+       stroke-linecap="round"
+       stroke-width="0"
+       width="12.0079"
+       x="593.31146"
+       y="177.2625" />
+    <rect
+       connectorname="2"
+       fill="#8c8c8c"
+       gorn="0.3.0.1.0.0.0.0.0.0.8"
+       height="34.999901"
+       id="rect24-8"
+       stroke="none"
+       stroke-linecap="round"
+       stroke-width="0"
+       width="12.0079"
+       x="518.93109"
+       y="176.77727" />
+    <rect
+       connectorname="1"
+       fill="#8c8c8c"
+       gorn="0.3.0.1.0.0.0.0.0.0.9"
+       height="34.999901"
+       id="rect26-6"
+       stroke="none"
+       stroke-linecap="round"
+       stroke-width="0"
+       width="12.0079"
+       x="492.77502"
+       y="176.77727" />
+  </g>
+</svg>
