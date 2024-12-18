@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+
+<svg
+   gorn="0"
+   height="3.8063776mm"
+   id="svg23"
+   version="1.2"
+   viewBox="0 0 2.9979488 3.8063844"
+   width="2.9979432mm"
+   x="0in"
+   y="0in"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs27" />
+  <g
+     gorn="0.2.0"
+     id="copper1"
+     transform="matrix(1,0,0,0.46352598,-0.31282793,0.00637781)">
+    <rect
+       connectorname="8"
+       fill="#f7bd13"
+       gorn="0.2.0.0"
+       height="2.5888562"
+       id="connector3pad"
+       stroke="none"
+       stroke-linecap="round"
+       stroke-width="0"
+       width="0.6000011"
+       x="2.4618034"
+       y="-0.013759336" />
+    <rect
+       connectorname="10"
+       fill="#f7bd13"
+       gorn="0.2.0.4"
+       height="2.5888562"
+       id="connector4pad"
+       stroke="none"
+       stroke-linecap="round"
+       stroke-width="0"
+       width="0.6000011"
+       x="0.5618"
+       y="-0.013759336" />
+    <rect
+       connectorname="3"
+       fill="#f7bd13"
+       gorn="0.2.0.5"
+       height="2.5888562"
+       id="connector2pad"
+       stroke="none"
+       stroke-linecap="round"
+       stroke-width="0"
+       width="0.6000011"
+       x="2.4618034"
+       y="5.5954294" />
+    <rect
+       connectorname="2"
+       fill="#f7bd13"
+       gorn="0.2.0.8"
+       height="2.5888562"
+       id="connector1pad"
+       stroke="none"
+       stroke-linecap="round"
+       stroke-width="0"
+       width="0.6000011"
+       x="1.5118017"
+       y="5.5954294" />
+    <rect
+       connectorname="1"
+       fill="#f7bd13"
+       gorn="0.2.0.9"
+       height="2.5888562"
+       id="connector0pad"
+       stroke="none"
+       stroke-linecap="round"
+       stroke-width="0"
+       width="0.6000011"
+       x="0.58093345"
+       y="5.6091886" />
+  </g>
+  <g
+     gorn="0.3.0"
+     id="silkscreen"
+     transform="matrix(0.84575186,0,0,0.83208702,0.26639793,-0.22514682)">
+    <line
+       class="other"
+       gorn="0.3.0.0"
+       id="line16"
+       stroke="#f0f0f0"
+       stroke-linecap="round"
+       stroke-width="0.127"
+       x1="-0.25148356"
+       x2="-0.25148356"
+       y1="1.0539675"
+       y2="4.053967" />
+    <line
+       class="other"
+       gorn="0.3.0.1"
+       id="line18"
+       stroke="#f0f0f0"
+       stroke-linecap="round"
+       stroke-width="0.127"
+       x1="3.1662307"
+       x2="3.1662307"
+       y1="1.054"
+       y2="4.0539999" />
+  </g>
+</svg>

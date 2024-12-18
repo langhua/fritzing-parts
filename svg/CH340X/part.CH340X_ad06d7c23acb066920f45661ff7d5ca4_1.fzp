@@ -7,10 +7,10 @@
  <title>CH340X</title>
  <tags>
   <tag>CH340X</tag>
-  <tag>SOP-10</tag>
+  <tag>MSOP-10</tag>
  </tags>
  <properties>
-  <property name="package">sop-10</property>
+  <property name="package">msop-10</property>
   <property name="family">usb ic</property>
   <property name="chip">CH340X</property>
   <property name="technology">Type-B/Type-C</property>
