@@ -3,11 +3,11 @@
 
 <svg
    gorn="0"
-   height="1.11in"
+   height="1.2622871in"
    id="svg68"
    version="1.2"
-   viewBox="0 0 30.7269 28.194"
-   width="1.20972in"
+   viewBox="0 0 30.997299 32.062093"
+   width="1.2203656in"
    x="0in"
    y="0in"
    xmlns="http://www.w3.org/2000/svg"
@@ -15,7 +15,7 @@
   <defs
      id="defs72" />
   <g
-     transform="translate(-0.08235834,0.05490556)"
+     transform="translate(0,3.8363522)"
      id="g53">
     <g
        gorn="0.1.0"
@@ -123,7 +123,7 @@
          text-anchor="middle"
          x="2.66347"
          y="2.2965801"
-         style="-inkscape-font-specification:'Droid Sans, Normal';font-family:'Droid Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:1.05833356px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">1</text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.05833px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">1</text>
       <text
          class="text"
          fill="#787878"
@@ -136,7 +136,20 @@
          text-anchor="start"
          x="5.7105398"
          y="2.8041289"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.05833003px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:start;fill:#787878;stroke:none;stroke-width:0">UD+</text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.05833px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:start;fill:#787878;stroke:none;stroke-width:0">UD+</text>
+      <text
+         class="text"
+         fill="#787878"
+         font-family="'Droid Sans'"
+         font-size="0.348466"
+         gorn="0.1.0.9"
+         id="text19-7"
+         stroke="none"
+         stroke-width="0"
+         text-anchor="start"
+         x="9.2541609"
+         y="1.4473784"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.05833px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:start;fill:#787878;stroke:none;stroke-width:0">GND</text>
       <line
          class="pin"
          connectorname="VDD"
@@ -149,6 +162,67 @@
          x2="5.2034702"
          y1="2.6670001"
          y2="2.6670001" />
+      <line
+         class="pin"
+         connectorname="VDD"
+         gorn="0.1.0.10"
+         id="line284-1"
+         stroke="#787878"
+         stroke-linecap="round"
+         stroke-width="0.173732"
+         x1="10.569322"
+         x2="10.569322"
+         y1="-0.033108428"
+         y2="-2.5474532"
+         style="fill:#808080" />
+      <line
+         class="pin"
+         connectorname="VDD"
+         gorn="0.1.0.6"
+         id="connector10pin"
+         stroke="#787878"
+         stroke-linecap="round"
+         stroke-width="0.24697"
+         x1="0.15041226"
+         x2="10.52872"
+         y1="-2.6520309"
+         y2="-2.6520309" />
+      <rect
+         class="terminal"
+         fill="none"
+         gorn="0.1.0.7"
+         height="4.8958354e-05"
+         id="connector10terminal"
+         stroke="none"
+         stroke-width="0"
+         width="0.00020429745"
+         x="0.15041226"
+         y="-2.6520309" />
+      <text
+         class="text"
+         fill="#8c8c8c"
+         font-family="'Droid Sans'"
+         font-size="0.248904"
+         gorn="0.1.0.8"
+         id="text17-5"
+         stroke="none"
+         stroke-width="0"
+         text-anchor="middle"
+         x="2.6903715"
+         y="-3.0224509"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.05833px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">0</text>
+      <line
+         class="pin"
+         connectorname="VDD"
+         gorn="0.1.0.10"
+         id="line284-8"
+         stroke="#787878"
+         stroke-linecap="round"
+         stroke-width="0"
+         x1="0.15041226"
+         x2="10.52872"
+         y1="-2.6520309"
+         y2="-2.6520309" />
       <rect
          class="terminal"
          fill="none"
@@ -207,7 +281,7 @@
          text-anchor="middle"
          x="2.6909227"
          y="7.9543443"
-         style="-inkscape-font-specification:'Droid Sans, Normal';font-family:'Droid Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:1.05833356px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">2</text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.05833px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">2</text>
       <text
          class="text"
          fill="#787878"
@@ -220,7 +294,7 @@
          text-anchor="start"
          x="5.7105398"
          y="8.5078144"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.05833003px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">UD-</text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.05833px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">UD-</text>
       <line
          class="pin"
          connectorname="~PG"
@@ -256,7 +330,7 @@
          text-anchor="middle"
          x="2.66347"
          y="13.65404"
-         style="-inkscape-font-specification:'Droid Sans, Normal';font-family:'Droid Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:1.05833356px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">3</text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.05833px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">3</text>
       <text
          class="text"
          fill="#787878"
@@ -269,7 +343,7 @@
          text-anchor="start"
          x="5.7485218"
          y="14.227778"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.05833003px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">GND</text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.05833px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">GND</text>
       <line
          class="pin"
          connectorname="VSS"
@@ -305,7 +379,7 @@
          text-anchor="middle"
          x="2.66347"
          y="25.156601"
-         style="-inkscape-font-specification:'Droid Sans, Normal';font-family:'Droid Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:1.05833356px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">5</text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.05833px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">5</text>
       <text
          class="text"
          fill="#787878"
@@ -318,7 +392,7 @@
          text-anchor="start"
          x="5.7485218"
          y="25.664087"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.05833003px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">CTS#</text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.05833px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">CTS#</text>
       <text
          class="text"
          fill="#8c8c8c"
@@ -331,7 +405,7 @@
          text-anchor="middle"
          x="2.5536845"
          y="19.473455"
-         style="-inkscape-font-specification:'Droid Sans, Normal';font-family:'Droid Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:1.05833356px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">4</text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.05833px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">4</text>
       <line
          class="pin"
          connectorname="VDD"
@@ -367,7 +441,7 @@
          text-anchor="middle"
          x="28.333822"
          y="2.3031926"
-         style="-inkscape-font-specification:'Droid Sans, Normal';font-family:'Droid Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:1.05833356px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">10</text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.05833px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">10</text>
       <line
          class="pin"
          connectorname="STAT1"
@@ -403,7 +477,7 @@
          text-anchor="middle"
          x="28.361273"
          y="7.9609561"
-         style="-inkscape-font-specification:'Droid Sans, Normal';font-family:'Droid Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:1.05833356px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">9</text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.05833px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">9</text>
       <line
          class="pin"
          connectorname="STAT2"
@@ -439,7 +513,7 @@
          text-anchor="middle"
          x="28.333822"
          y="13.660653"
-         style="-inkscape-font-specification:'Droid Sans, Normal';font-family:'Droid Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:1.05833356px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">8</text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.05833px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">8</text>
       <line
          class="pin"
          connectorname="VSS"
@@ -475,7 +549,7 @@
          text-anchor="middle"
          x="28.333822"
          y="25.163214"
-         style="-inkscape-font-specification:'Droid Sans, Normal';font-family:'Droid Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:1.05833356px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">6</text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.05833px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">6</text>
       <line
          class="pin"
          connectorname="~PG"
@@ -511,7 +585,7 @@
          text-anchor="middle"
          x="28.224035"
          y="19.480068"
-         style="-inkscape-font-specification:'Droid Sans, Normal';font-family:'Droid Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:1.05833356px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">7</text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.05833px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">7</text>
       <text
          class="text"
          fill="#787878"
@@ -524,7 +598,7 @@
          text-anchor="start"
          x="5.6972761"
          y="19.946535"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.05833003px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">DTR#</text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.05833px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">DTR#</text>
       <text
          class="text"
          fill="#787878"
@@ -537,7 +611,7 @@
          text-anchor="start"
          x="22.364529"
          y="2.8432407"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.05833003px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">V3</text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.05833px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">V3</text>
       <text
          class="text"
          fill="#787878"
@@ -550,7 +624,7 @@
          text-anchor="start"
          x="22.068979"
          y="8.5469265"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.05833003px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">RXD</text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.05833px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">RXD</text>
       <text
          class="text"
          fill="#787878"
@@ -563,7 +637,7 @@
          text-anchor="start"
          x="22.096542"
          y="14.266891"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.05833003px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">TXD</text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.05833px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">TXD</text>
       <text
          class="text"
          fill="#787878"
@@ -576,7 +650,7 @@
          text-anchor="start"
          x="21.863098"
          y="25.703199"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.05833003px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">RTS#</text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.05833px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">RTS#</text>
       <text
          class="text"
          fill="#787878"
@@ -589,7 +663,7 @@
          text-anchor="start"
          x="22.086843"
          y="19.985647"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.05833003px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">VCC</text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.05833px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">VCC</text>
     </g>
   </g>
 </svg>

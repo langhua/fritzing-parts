@@ -141,6 +141,13 @@
     <g
        gorn="0.1.10"
        id="copper0" />
+    <rect
+       style="opacity:1;fill:#f7bd13;fill-opacity:1;fill-rule:evenodd;stroke-width:0.123132;stroke-linejoin:round;stroke-miterlimit:3.9"
+       id="connector10pad"
+       width="1.7566532"
+       height="1.6732676"
+       x="0.83343095"
+       y="1.7583003" />
   </g>
   <g
      gorn="0.2"
@@ -170,8 +177,8 @@
        y2="4.0539999" />
     <ellipse
        class="other"
-       cx="0.67325544"
-       cy="3.6884911"
+       cx="0.49919143"
+       cy="3.8170881"
        fill="none"
        gorn="0.2.2"
        id="circle20"
