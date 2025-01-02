@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+
+<svg
+   gorn="0"
+   height="0.5in"
+   id="svg1116"
+   version="1.2"
+   viewBox="0 0 28.799998 36.000001"
+   width="0.39999998in"
+   x="0in"
+   y="0in"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1120" />
+  <g
+     gorn="0.3"
+     id="g1114"
+     partID="854201440">
+    <g
+       gorn="0.3.0"
+       id="schematic">
+      <rect
+         fill="none"
+         gorn="0.3.0.0"
+         height="35.325447"
+         id="rect1054"
+         stroke="#000000"
+         stroke-width="0.674554"
+         style="stroke-linecap:round;stroke-linejoin:round"
+         width="14.175445"
+         x="14.287276"
+         y="0.33727732" />
+      <line
+         fill="none"
+         gorn="0.3.0.1"
+         id="line1057"
+         stroke="#787878"
+         stroke-width="0.699998"
+         style="stroke-linecap:round;stroke-linejoin:round"
+         x1="0.34999901"
+         x2="14.4"
+         y1="7.1999998"
+         y2="7.1999998" />
+      <rect
+         connectorName="1"
+         fill="none"
+         gorn="0.3.0.2"
+         height="0.69999802"
+         id="connector0pin"
+         stroke-width="0"
+         width="14.4"
+         x="0"
+         y="6.8499999" />
+      <text
+         fill="#8c8c8c"
+         font-size="2.8px"
+         gorn="0.3.0.4"
+         id="label0"
+         stroke="none"
+         style="font-family:'Droid Sans';text-anchor:start"
+         x="15.8"
+         y="7.8999801">VDD</text>
+      <text
+         class="text"
+         fill="#8c8c8c"
+         font-size="2px"
+         gorn="0.3.0.5"
+         id="text1062"
+         stroke="none"
+         stroke-width="0"
+         style="font-family:'Droid Sans';text-anchor:middle"
+         x="7.1999998"
+         y="6.1500001">1</text>
+      <line
+         fill="none"
+         gorn="0.3.0.6"
+         id="line1064"
+         stroke="#787878"
+         stroke-width="0.699998"
+         style="stroke-linecap:round;stroke-linejoin:round"
+         x1="0.34999901"
+         x2="14.4"
+         y1="14.4"
+         y2="14.4" />
+      <rect
+         connectorName="2"
+         fill="none"
+         gorn="0.3.0.7"
+         height="0.69999802"
+         id="connector1pin"
+         stroke-width="0"
+         width="14.4"
+         x="0"
+         y="14.05" />
+      <text
+         fill="#8c8c8c"
+         font-size="2.8px"
+         gorn="0.3.0.9"
+         id="label1"
+         stroke="none"
+         style="font-family:'Droid Sans';text-anchor:start"
+         x="15.8"
+         y="15.1">TX</text>
+      <text
+         class="text"
+         fill="#8c8c8c"
+         font-size="2px"
+         gorn="0.3.0.10"
+         id="text1069"
+         stroke="none"
+         stroke-width="0"
+         style="font-family:'Droid Sans';text-anchor:middle"
+         x="7.1999998"
+         y="13.35">2</text>
+      <line
+         fill="none"
+         gorn="0.3.0.11"
+         id="line1071"
+         stroke="#787878"
+         stroke-width="0.699998"
+         style="stroke-linecap:round;stroke-linejoin:round"
+         x1="0.34999901"
+         x2="14.4"
+         y1="21.6"
+         y2="21.6" />
+      <rect
+         connectorName="3"
+         fill="none"
+         gorn="0.3.0.12"
+         height="0.69999802"
+         id="connector2pin"
+         stroke-width="0"
+         width="14.4"
+         x="0"
+         y="21.25" />
+      <text
+         fill="#8c8c8c"
+         font-size="2.8px"
+         gorn="0.3.0.14"
+         id="label2"
+         stroke="none"
+         style="font-family:'Droid Sans';text-anchor:start"
+         x="15.8"
+         y="22.299999">RX</text>
+      <text
+         class="text"
+         fill="#8c8c8c"
+         font-size="2px"
+         gorn="0.3.0.15"
+         id="text1076"
+         stroke="none"
+         stroke-width="0"
+         style="font-family:'Droid Sans';text-anchor:middle"
+         x="7.1999998"
+         y="20.549999">3</text>
+      <line
+         fill="none"
+         gorn="0.3.0.16"
+         id="line1078"
+         stroke="#787878"
+         stroke-width="0.699998"
+         style="stroke-linecap:round;stroke-linejoin:round"
+         x1="0.34999901"
+         x2="14.4"
+         y1="28.799999"
+         y2="28.799999" />
+      <rect
+         connectorName="4"
+         fill="none"
+         gorn="0.3.0.17"
+         height="0.69999802"
+         id="connector3pin"
+         stroke-width="0"
+         width="14.4"
+         x="0"
+         y="28.450001" />
+      <text
+         class="text"
+         fill="#8c8c8c"
+         font-size="2px"
+         gorn="0.3.0.20"
+         id="text1083"
+         stroke="none"
+         stroke-width="0"
+         style="font-family:'Droid Sans';text-anchor:middle"
+         x="7.1999998"
+         y="27.75">4</text>
+      <text
+         fill="#8c8c8c"
+         font-size="2.8px"
+         gorn="0.3.0.39"
+         id="label7"
+         stroke="none"
+         style="font-family:'Droid Sans';text-anchor:start"
+         x="15.8"
+         y="29.799999">GND</text>
+    </g>
+  </g>
+</svg>

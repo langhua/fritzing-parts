@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<module moduleId="UART1.9inIPS_12995d91bab047f974a18a45997d36b9_1">
+ <version>1</version>
+ <author>Shi Jinghai</author>
+ <title>1.9 inch TFT LCD</title>
+ <label>U</label>
+ <date>Wed Jan 1 2025</date>
+ <tags>
+  <tag>SIP</tag>
+  <tag>LCD</tag>
+ </tags>
+ <properties>
+  <property name="family">LCD</property>
+  <property name="editable pin labels">false</property>
+  <property name="hole size"></property>
+  <property name="package">SIP (Single Inline) [THT]</property>
+  <property name="chip label">LCD</property>
+  <property name="part number"></property>
+  <property name="layer"></property>
+  <property name="mpn"></property>
+  <property name="mn"></property>
+ </properties>
+ <views>
+  <iconView>
+   <layers image="icon/UART1.9inIPS_12995d91bab047f974a18a45997d36b9_1_icon.svg">
+    <layer layerId="icon"/>
+   </layers>
+  </iconView>
+  <breadboardView>
+   <layers image="breadboard/UART1.9inIPS_12995d91bab047f974a18a45997d36b9_1_breadboard.svg">
+    <layer layerId="breadboard"/>
+   </layers>
+  </breadboardView>
+  <schematicView>
+   <layers image="schematic/UART1.9inIPS_12995d91bab047f974a18a45997d36b9_1_schematic.svg">
+    <layer layerId="schematic"/>
+   </layers>
+  </schematicView>
+  <pcbView>
+   <layers image="pcb/UART1.9inIPS_12995d91bab047f974a18a45997d36b9_1_pcb.svg">
+    <layer layerId="silkscreen"/>
+    <layer layerId="copper0"/>
+    <layer layerId="copper1"/>
+   </layers>
+  </pcbView>
+ </views>
+ <connectors>
+  <connector id="connector0" name="VDD" type="male">
+   <description>VDD</description>
+   <views>
+    <breadboardView>
+     <p layer="breadboard" svgId="connector0pin" terminalId="connector0terminal"/>
+    </breadboardView>
+    <schematicView>
+     <p layer="schematic" svgId="connector0pin" terminalId="connector0terminal"/>
+    </schematicView>
+    <pcbView>
+     <p layer="copper0" svgId="connector0pin"/>
+     <p layer="copper1" svgId="connector0pin"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector1" name="TX" type="male">
+   <description>TX</description>
+   <views>
+    <breadboardView>
+     <p layer="breadboard" svgId="connector1pin" terminalId="connector1terminal"/>
+    </breadboardView>
+    <schematicView>
+     <p layer="schematic" svgId="connector1pin" terminalId="connector1terminal"/>
+    </schematicView>
+    <pcbView>
+     <p layer="copper0" svgId="connector1pin"/>
+     <p layer="copper1" svgId="connector1pin"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector2" name="RX" type="male">
+   <description>RX</description>
+   <views>
+    <breadboardView>
+     <p layer="breadboard" svgId="connector2pin" terminalId="connector2terminal"/>
+    </breadboardView>
+    <schematicView>
+     <p layer="schematic" svgId="connector2pin" terminalId="connector2terminal"/>
+    </schematicView>
+    <pcbView>
+     <p layer="copper0" svgId="connector2pin"/>
+     <p layer="copper1" svgId="connector2pin"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector3" name="GND" type="male">
+   <description>GND</description>
+   <views>
+    <breadboardView>
+     <p layer="breadboard" svgId="connector3pin" terminalId="connector3terminal"/>
+    </breadboardView>
+    <schematicView>
+     <p layer="schematic" svgId="connector3pin" terminalId="connector3terminal"/>
+    </schematicView>
+    <pcbView>
+     <p layer="copper0" svgId="connector3pin"/>
+     <p layer="copper1" svgId="connector3pin"/>
+    </pcbView>
+   </views>
+  </connector>
+ </connectors>
+</module>
