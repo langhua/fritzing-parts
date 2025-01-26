@@ -1,0 +1,574 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="0.97304934in"
+   gorn="0"
+   width="0.20448959in"
+   version="1.2"
+   viewBox="0 0 204.48965 973.04966"
+   id="svg2"
+   x="0in"
+   y="0in"
+   sodipodi:docname="svg.schematic.FPC05-2H10PX_4b81c89bf0504214bf75f6b0611da965_1_schematic.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview107"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="in"
+     showgrid="false"
+     inkscape:zoom="5.4276185"
+     inkscape:cx="-58.036503"
+     inkscape:cy="94.885077"
+     inkscape:window-width="3840"
+     inkscape:window-height="2036"
+     inkscape:window-x="-12"
+     inkscape:window-y="-12"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="text9" />
+  <metadata
+     id="metadata169">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs167" />
+  <desc
+     id="desc2">
+    <referenceFile>FH12-20S-0.5SH_1_schematic.svg</referenceFile>
+  </desc>
+  <g
+     id="schematic"
+     transform="translate(0,2.0514941)">
+    <line
+       gorn="0.0.0"
+       stroke="#000000"
+       id="connector0pin"
+       stroke-width="9.72223"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       y2="38.954388"
+       x1="8.6529312"
+       y1="38.954388"
+       fill="none"
+       x2="107.55747" />
+    <rect
+       height="2.8889401"
+       gorn="0.0.1"
+       width="7.5834675"
+       id="connector0terminal"
+       x="0"
+       y="37.621033"
+       fill="none"
+       stroke-width="13.8889" />
+    <polyline
+       stroke="#000000"
+       points="9.898,1.643 14.1,3.6 9.898,5.556"
+       stroke-width="0.699988"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       fill="none"
+       id="polyline6"
+       transform="matrix(13.889135,0,0,13.889129,3.7917338,-11.046493)" />
+    <line
+       gorn="0.0.3"
+       stroke="#000000"
+       id="line"
+       stroke-width="9.72223"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       y2="38.954388"
+       x1="199.62854"
+       y1="38.954388"
+       fill="none"
+       x2="70.195686" />
+    <g
+       aria-label="1"
+       id="text9"
+       class="text"
+       style="font-size:34.7228px;font-family:'Droid Sans';text-anchor:middle;fill:#8c8c8c;stroke-width:0">
+      <path
+         d="M 73.414757,24.787468 V 2.322765 q -0.779906,0.7799067 -2.6449,1.7463128 -1.84804,0.9664061 -3.424808,1.3563594 V 2.1701746 q 2.085403,-0.5764528 4.459032,-1.83108523 2.373629,-1.27158696 3.645216,-2.39058347 h 1.254632 V 24.787468 Z"
+         id="path339" />
+    </g>
+    <line
+       gorn="0.0.5"
+       stroke="#000000"
+       id="connector1pin"
+       stroke-width="9.72223"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       y2="138.95616"
+       x1="8.6529312"
+       y1="138.95616"
+       fill="none"
+       x2="107.55747" />
+    <rect
+       height="2.8889401"
+       gorn="0.0.6"
+       width="7.5834675"
+       id="connector1terminal"
+       x="0"
+       y="137.6228"
+       fill="none"
+       stroke-width="13.8889" />
+    <polyline
+       stroke="#000000"
+       points="9.898,8.843 14.1,10.8 9.898,12.756"
+       stroke-width="0.699988"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       fill="none"
+       id="polyline13"
+       transform="matrix(13.889135,0,0,13.889129,3.7917338,-11.046493)" />
+    <line
+       gorn="0.0.8"
+       stroke="#000000"
+       id="line15"
+       stroke-width="9.72223"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       y2="138.95616"
+       x1="199.62854"
+       y1="138.95616"
+       fill="none"
+       x2="70.195686" />
+    <g
+       aria-label="2"
+       id="text17"
+       class="text"
+       style="font-size:34.7228px;font-family:'Droid Sans';text-anchor:middle;fill:#8c8c8c;stroke-width:0">
+      <path
+         d="m 78.212879,105.41025 q 0,-2.11931 -1.339405,-3.32308 -1.339405,-1.22072 -3.645216,-1.22072 -1.627631,0 -3.289172,0.83077 -1.66154,0.83077 -3.102672,2.37363 v -3.22136 q 1.288542,-1.339401 2.916173,-2.051489 1.644586,-0.712089 3.84867,-0.712089 3.560443,0 5.730618,1.915858 2.170176,1.8989 2.170176,5.15417 0,2.89921 -1.339405,5.01853 -1.322451,2.11931 -4.543804,4.34035 -3.289172,2.2719 -4.408169,3.25526 -1.102042,0.98336 -1.542858,1.88195 -0.440817,0.89858 -0.440817,2.18713 h 13.054959 v 2.95008 H 65.768281 v -1.3055 q 0,-2.2719 0.610362,-3.84867 0.627316,-1.59372 2.051494,-3.08572 1.424177,-1.50895 4.442077,-3.6113 3.085717,-2.17018 4.204714,-3.79781 1.135951,-1.64458 1.135951,-3.72999 z"
+         id="path342" />
+    </g>
+    <line
+       gorn="0.0.10"
+       stroke="#000000"
+       id="connector2pin"
+       stroke-width="9.72223"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       y2="238.95793"
+       x1="8.6529312"
+       y1="238.95793"
+       fill="none"
+       x2="107.55747" />
+    <rect
+       height="2.8889401"
+       gorn="0.0.11"
+       width="7.5834675"
+       id="connector2terminal"
+       x="0"
+       y="237.62456"
+       fill="none"
+       stroke-width="13.8889" />
+    <polyline
+       stroke="#000000"
+       points="9.898,16.043 14.1,18 9.898,19.956"
+       stroke-width="0.699988"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       fill="none"
+       id="polyline21"
+       transform="matrix(13.889135,0,0,13.889129,3.7917338,-11.046493)" />
+    <line
+       gorn="0.0.13"
+       stroke="#000000"
+       id="line23"
+       stroke-width="9.72223"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       y2="238.95793"
+       x1="199.62854"
+       y1="238.95793"
+       fill="none"
+       x2="70.195686" />
+    <g
+       aria-label="3"
+       id="text25"
+       class="text"
+       style="font-size:34.7228px;font-family:'Droid Sans';text-anchor:middle;fill:#8c8c8c;stroke-width:0">
+      <path
+         d="m 66.175189,220.3998 q 2.695764,2.0854 6.086663,2.0854 2.712719,0 4.289487,-1.32245 1.593722,-1.3394 1.593722,-3.57739 0,-4.98462 -7.137841,-4.98462 h -2.18713 v -2.74663 h 2.085403 q 6.324025,0 6.324025,-4.67944 0,-4.3234 -4.83203,-4.3234 -2.763582,0 -5.205029,1.865 v -3.13659 q 2.577083,-1.49199 6.018845,-1.49199 3.356989,0 5.391528,1.76327 2.034539,1.74631 2.034539,4.5438 0,5.15417 -5.255892,6.62921 v 0.0678 q 2.848354,0.30518 4.49294,2.01758 1.661541,1.69545 1.661541,4.23862 0,3.54349 -2.560129,5.71367 -2.543174,2.17017 -6.781797,2.17017 -3.729988,0 -6.018845,-1.39027 z"
+         id="path345" />
+    </g>
+    <line
+       gorn="0.0.15"
+       stroke="#000000"
+       id="connector3pin"
+       stroke-width="9.72223"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       y2="338.95972"
+       x1="8.6529312"
+       y1="338.95972"
+       fill="none"
+       x2="107.55747" />
+    <rect
+       height="2.8889401"
+       gorn="0.0.16"
+       width="7.5834675"
+       id="connector3terminal"
+       x="0"
+       y="337.62634"
+       fill="none"
+       stroke-width="13.8889" />
+    <polyline
+       stroke="#000000"
+       points="9.898,23.243 14.1,25.2 9.898,27.156"
+       stroke-width="0.699988"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       fill="none"
+       id="polyline29"
+       transform="matrix(13.889135,0,0,13.889129,3.7917338,-11.046493)" />
+    <line
+       gorn="0.0.18"
+       stroke="#000000"
+       id="line31"
+       stroke-width="9.72223"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       y2="338.95972"
+       x1="199.62854"
+       y1="338.95972"
+       fill="none"
+       x2="70.195686" />
+    <g
+       aria-label="4"
+       id="text33"
+       class="text"
+       style="font-size:34.7228px;font-family:'Droid Sans';text-anchor:middle;fill:#8c8c8c;stroke-width:0">
+      <path
+         d="m 79.518375,298.53028 v 17.34444 h 3.933442 v 2.74663 h -3.933442 v 6.17144 h -3.221354 v -6.17144 H 64.038923 v -2.59404 q 3.272217,-3.67912 6.578343,-8.47724 3.306126,-4.79812 5.459347,-9.01979 z m -11.749464,17.34444 h 8.52811 v -12.51241 q -1.763267,3.17049 -3.780852,6.15448 -2.017584,2.96703 -4.747258,6.35793 z"
+         id="path348" />
+    </g>
+    <line
+       gorn="0.0.20"
+       stroke="#000000"
+       id="connector4pin"
+       stroke-width="9.72223"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       y2="438.96149"
+       x1="8.6529312"
+       y1="438.96149"
+       fill="none"
+       x2="107.55747" />
+    <rect
+       height="2.8889401"
+       gorn="0.0.21"
+       width="7.5834675"
+       id="connector4terminal"
+       x="0"
+       y="437.62811"
+       fill="none"
+       stroke-width="13.8889" />
+    <polyline
+       stroke="#000000"
+       points="9.898,30.443 14.1,32.4 9.898,34.356"
+       stroke-width="0.699988"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       fill="none"
+       id="polyline37"
+       transform="matrix(13.889135,0,0,13.889129,3.7917338,-11.046493)" />
+    <line
+       gorn="0.0.23"
+       stroke="#000000"
+       id="line39"
+       stroke-width="9.72223"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       y2="438.96149"
+       x1="199.62854"
+       y1="438.96149"
+       fill="none"
+       x2="70.195686" />
+    <g
+       aria-label="5"
+       id="text41"
+       class="text"
+       style="font-size:34.7228px;font-family:'Droid Sans';text-anchor:middle;fill:#8c8c8c;stroke-width:0">
+      <path
+         d="m 81.620732,416.69028 q 0,3.84867 -2.560128,6.20534 -2.543174,2.35668 -6.849616,2.35668 -3.696079,0 -5.51021,-1.10205 v -3.39089 q 2.661856,1.72935 5.425438,1.72935 2.746628,0 4.425123,-1.50895 1.695449,-1.5259 1.695449,-4.03517 0,-2.50926 -1.763267,-3.89953 -1.746313,-1.40722 -4.950712,-1.40722 -2.475356,0 -4.459032,0.22041 l 0.966406,-13.32623 h 12.275053 v 2.91617 h -9.477561 l -0.542544,7.44302 2.390583,-0.10173 q 4.170806,0 6.544434,2.08541 2.390584,2.06844 2.390584,5.81539 z"
+         id="path351" />
+    </g>
+    <line
+       gorn="0.0.25"
+       stroke="#000000"
+       id="connector5pin"
+       stroke-width="9.72223"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       y2="538.96326"
+       x1="8.6529312"
+       y1="538.96326"
+       fill="none"
+       x2="107.55747" />
+    <rect
+       height="2.8889401"
+       gorn="0.0.26"
+       width="7.5834675"
+       id="connector5terminal"
+       x="0"
+       y="537.62994"
+       fill="none"
+       stroke-width="13.8889" />
+    <polyline
+       stroke="#000000"
+       points="9.898,37.643 14.1,39.6 9.898,41.556"
+       stroke-width="0.699988"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       fill="none"
+       id="polyline45"
+       transform="matrix(13.889135,0,0,13.889129,3.7917338,-11.046493)" />
+    <line
+       gorn="0.0.28"
+       stroke="#000000"
+       id="line47"
+       stroke-width="9.72223"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       y2="538.96326"
+       x1="199.62854"
+       y1="538.96326"
+       fill="none"
+       x2="70.195686" />
+    <g
+       aria-label="6"
+       id="text49"
+       class="text"
+       style="font-size:34.7228px;font-family:'Droid Sans';text-anchor:middle;fill:#8c8c8c;stroke-width:0">
+      <path
+         d="m 81.01037,501.90776 q -2.051493,-1.05118 -4.289486,-1.05118 -3.407853,0 -5.476302,2.96704 -2.068448,2.96703 -2.102357,8.10425 h 0.08477 q 1.864994,-3.61131 5.951027,-3.61131 3.407853,0 5.442392,2.22104 2.034539,2.22104 2.034539,5.90016 0,3.84867 -2.356674,6.32403 -2.33972,2.47535 -5.984936,2.47535 -4.001261,0 -6.290117,-3.11962 -2.271902,-3.13659 -2.271902,-8.88416 0,-6.95134 2.98399,-11.03737 3.000946,-4.10299 7.88384,-4.10299 2.797491,0 4.391213,0.76295 z M 69.345679,516.2004 q 0,2.59404 1.373314,4.44207 1.390269,1.84804 3.679125,1.84804 2.170175,0 3.526535,-1.59372 1.356359,-1.59372 1.356359,-4.10298 0,-2.71272 -1.288541,-4.22167 -1.271587,-1.50895 -3.628262,-1.50895 -2.237993,0 -3.628261,1.5259 -1.390269,1.52591 -1.390269,3.61131 z"
+         id="path354" />
+    </g>
+    <line
+       gorn="0.0.30"
+       stroke="#000000"
+       id="connector6pin"
+       stroke-width="9.72223"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       y2="638.96503"
+       x1="8.6529312"
+       y1="638.96503"
+       fill="none"
+       x2="107.55747" />
+    <rect
+       height="2.8889401"
+       gorn="0.0.31"
+       width="7.5834675"
+       id="connector6terminal"
+       x="0"
+       y="637.63165"
+       fill="none"
+       stroke-width="13.8889" />
+    <polyline
+       stroke="#000000"
+       points="9.898,44.843 14.1,46.8 9.898,48.756"
+       stroke-width="0.699988"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       fill="none"
+       id="polyline53"
+       transform="matrix(13.889135,0,0,13.889129,3.7917338,-11.046493)" />
+    <line
+       gorn="0.0.33"
+       stroke="#000000"
+       id="line55"
+       stroke-width="9.72223"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       y2="638.96503"
+       x1="199.62854"
+       y1="638.96503"
+       fill="none"
+       x2="70.195686" />
+    <g
+       aria-label="7"
+       id="text57"
+       class="text"
+       style="font-size:34.7228px;font-family:'Droid Sans';text-anchor:middle;fill:#8c8c8c;stroke-width:0">
+      <path
+         d="m 82.315866,600.58708 q -4.136896,7.22261 -6.510525,13.37709 -2.356675,6.13753 -2.916173,10.83393 h -3.458716 q 0.627316,-4.62858 2.967036,-10.56265 2.33972,-5.93408 6.256208,-12.76674 H 65.632645 v -2.93312 h 16.683221 z"
+         id="path357" />
+    </g>
+    <line
+       gorn="0.0.35"
+       stroke="#000000"
+       id="connector7pin"
+       stroke-width="9.72223"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       y2="738.9668"
+       x1="8.6529312"
+       y1="738.9668"
+       fill="none"
+       x2="107.55747" />
+    <rect
+       height="2.8889401"
+       gorn="0.0.36"
+       width="7.5834675"
+       id="connector7terminal"
+       x="0"
+       y="737.63342"
+       fill="none"
+       stroke-width="13.8889" />
+    <polyline
+       stroke="#000000"
+       points="9.898,52.043 14.1,54 9.898,55.956"
+       stroke-width="0.699988"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       fill="none"
+       id="polyline61"
+       transform="matrix(13.889135,0,0,13.889129,3.7917338,-11.046493)" />
+    <line
+       gorn="0.0.38"
+       stroke="#000000"
+       id="line63"
+       stroke-width="9.72223"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       y2="738.9668"
+       x1="199.62854"
+       y1="738.9668"
+       fill="none"
+       x2="70.195686" />
+    <g
+       aria-label="8"
+       id="text65"
+       class="text"
+       style="font-size:34.7228px;font-family:'Droid Sans';text-anchor:middle;fill:#8c8c8c;stroke-width:0">
+      <path
+         d="m 65.412237,717.47552 q 0,-2.2719 1.356359,-4.18775 1.35636,-1.91586 3.492626,-2.72968 -1.712404,-0.9664 -2.712719,-2.47535 -1.000315,-1.50895 -1.000315,-3.27222 0,-1.865 0.949451,-3.40785 0.966407,-1.54286 2.661856,-2.4245 1.712404,-0.88163 3.763897,-0.88163 2.068448,0 3.780852,0.88163 1.712404,0.86468 2.661856,2.40754 0.949451,1.54286 0.949451,3.42481 0,1.72936 -0.98336,3.25526 -0.966407,1.50895 -2.695765,2.49231 2.136266,0.83077 3.475671,2.74663 1.339405,1.91586 1.339405,4.1708 0,2.238 -1.068133,4.01822 -1.068133,1.76327 -3.034854,2.74663 -1.966721,0.98336 -4.425123,0.98336 -2.441447,0 -4.391213,-0.98336 -1.949767,-0.98336 -3.034855,-2.76358 -1.085087,-1.78023 -1.085087,-4.00127 z m 3.255262,-0.15259 q 0,2.33972 1.441132,3.74695 1.441132,1.40722 3.831716,1.40722 2.33972,0 3.814761,-1.42418 1.491995,-1.44113 1.491995,-3.72999 0,-2.17017 -1.50895,-3.64521 -1.491995,-1.492 -3.797806,-1.492 -2.288857,0 -3.780852,1.45809 -1.491996,1.44113 -1.491996,3.67912 z m 0.949452,-12.24114 q 0,1.76327 1.254633,3.03485 1.254632,1.25464 3.068763,1.25464 1.780221,0 3.068763,-1.27159 1.305496,-1.27159 1.305496,-3.0179 0,-1.78022 -1.254633,-3.0179 -1.237678,-1.23768 -3.119626,-1.23768 -1.864994,0 -3.102672,1.22073 -1.220724,1.20377 -1.220724,3.03485 z"
+         id="path360" />
+    </g>
+    <line
+       gorn="0.0.40"
+       stroke="#000000"
+       id="connector8pin"
+       stroke-width="9.72223"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       y2="838.96863"
+       x1="8.6529312"
+       y1="838.96863"
+       fill="none"
+       x2="107.55747" />
+    <rect
+       height="2.8889401"
+       gorn="0.0.41"
+       width="7.5834675"
+       id="connector8terminal"
+       x="0"
+       y="837.63519"
+       fill="none"
+       stroke-width="13.8889" />
+    <polyline
+       stroke="#000000"
+       points="9.898,59.243 14.1,61.2 9.898,63.156"
+       stroke-width="0.699988"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       fill="none"
+       id="polyline69"
+       transform="matrix(13.889135,0,0,13.889129,3.7917338,-11.046493)" />
+    <line
+       gorn="0.0.43"
+       stroke="#000000"
+       id="line71"
+       stroke-width="9.72223"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       y2="838.96863"
+       x1="199.62854"
+       y1="838.96863"
+       fill="none"
+       x2="70.195686" />
+    <g
+       aria-label="9"
+       id="text73"
+       class="text"
+       style="font-size:34.7228px;font-family:'Droid Sans';text-anchor:middle;fill:#8c8c8c;stroke-width:0">
+      <path
+         d="m 66.887278,821.24125 q 2.170175,1.25464 4.67944,1.25464 3.526534,0 5.459346,-2.78054 1.949767,-2.78054 1.949767,-7.90079 -0.03391,0.0339 -0.06782,0 -1.729358,3.28917 -5.815391,3.28917 -3.306126,0 -5.476301,-2.27191 -2.170175,-2.2719 -2.170175,-5.90016 0,-3.86562 2.373629,-6.34098 2.373629,-2.49231 6.154481,-2.49231 3.916488,0 6.120572,3.08572 2.204084,3.06876 2.204084,8.95197 0,7.27348 -2.848355,11.18997 -2.848355,3.91648 -7.883839,3.91648 -2.763583,0 -4.67944,-0.89858 z m 1.915857,-14.73345 q 0,2.6449 1.35636,4.20471 1.356359,1.54286 3.746943,1.54286 2.068448,0 3.475671,-1.40722 1.407223,-1.42418 1.407223,-3.44176 0,-2.8314 -1.407223,-4.67944 -1.390269,-1.865 -3.679125,-1.865 -2.119312,0 -3.50958,1.61068 -1.390269,1.61068 -1.390269,4.03517 z"
+         id="path363" />
+    </g>
+    <line
+       gorn="0.0.45"
+       stroke="#000000"
+       id="connector9pin"
+       stroke-width="9.72223"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       y2="938.97028"
+       x1="8.6529312"
+       y1="938.97028"
+       fill="none"
+       x2="107.55747" />
+    <rect
+       height="2.8889401"
+       gorn="0.0.46"
+       width="7.5834675"
+       id="connector9terminal"
+       x="0"
+       y="937.63696"
+       fill="none"
+       stroke-width="13.8889" />
+    <polyline
+       stroke="#000000"
+       points="9.898,66.443 14.1,68.4 9.898,70.356"
+       stroke-width="0.699988"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       fill="none"
+       id="polyline77"
+       transform="matrix(13.889135,0,0,13.889129,3.7917338,-11.046493)" />
+    <line
+       gorn="0.0.48"
+       stroke="#000000"
+       id="line79"
+       stroke-width="9.72223"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       y2="938.97028"
+       x1="199.62854"
+       y1="938.97028"
+       fill="none"
+       x2="70.195686" />
+    <g
+       aria-label="10"
+       id="text81"
+       class="text"
+       style="font-size:34.7228px;font-family:'Droid Sans';text-anchor:middle;fill:#8c8c8c;stroke-width:0">
+      <path
+         d="m 63.233585,924.80334 v -22.4647 q -0.779907,0.77991 -2.644901,1.74631 -1.84804,0.96641 -3.424808,1.35636 v -3.25526 q 2.085403,-0.57645 4.459032,-1.83108 2.373629,-1.27159 3.645216,-2.39059 h 1.254632 v 26.83896 z"
+         id="path366" />
+      <path
+         d="m 75.474729,912.1892 q 0,-6.95134 2.305811,-10.51178 2.305811,-3.5774 6.68007,-3.5774 8.341611,0 8.341611,13.46187 0,6.64616 -2.356675,10.17269 -2.33972,3.50958 -6.578343,3.50958 -4.00126,0 -6.205344,-3.34003 -2.18713,-3.34004 -2.18713,-9.71493 z m 3.390899,-0.15259 q 0,10.46092 5.306756,10.46092 5.221984,0 5.221984,-10.63046 0,-11.00347 -5.120257,-11.00347 -5.408483,0 -5.408483,11.17301 z"
+         id="path368" />
+    </g>
+  </g>
+</svg>
