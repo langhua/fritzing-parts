@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+
+<svg
+   height="12.7mm"
+   version="1.2"
+   viewBox="0 0 10.849981 12.699985"
+   width="10.85mm"
+   x="0in"
+   y="0in"
+   id="svg37"
+   sodipodi:docname="svg.pcb.TM1637_65e4ff26e0f8f17028c66fb6f3211ec1_1_pcb.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs41" />
+  <sodipodi:namedview
+     id="namedview39"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="in"
+     showgrid="false"
+     inkscape:zoom="32.556044"
+     inkscape:cx="8.0169446"
+     inkscape:cy="24.419429"
+     inkscape:window-width="3840"
+     inkscape:window-height="2036"
+     inkscape:window-x="-12"
+     inkscape:window-y="-12"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="copper1" />
+  <desc
+     id="desc2">
+    <referenceFile>sparkfun-analogic_tssop20_pcb.svg</referenceFile>
+  </desc>
+  <g
+     gorn="0.0"
+     id="copper1">
+    <rect
+       connectorname="10"
+       fill="#f7bd13"
+       gorn="0.0.0"
+       height="0.59999913"
+       id="connector9pad"
+       stroke="none"
+       stroke-linecap="round"
+       stroke-width="0"
+       width="1.1999983"
+       x="0.0060000001"
+       y="11.799983" />
+    <rect
+       connectorname="9"
+       fill="#f7bd13"
+       gorn="0.0.1"
+       height="0.59999913"
+       id="connector8pad"
+       stroke="none"
+       stroke-linecap="round"
+       stroke-width="0"
+       width="1.1999983"
+       x="0.0060000001"
+       y="10.522207" />
+    <rect
+       connectorname="8"
+       fill="#f7bd13"
+       gorn="0.0.2"
+       height="0.59999913"
+       id="connector7pad"
+       stroke="none"
+       stroke-linecap="round"
+       stroke-width="0"
+       width="1.1999983"
+       x="0"
+       y="9.2444315" />
+    <rect
+       connectorname="7"
+       fill="#f7bd13"
+       gorn="0.0.3"
+       height="0.59999913"
+       id="connector6pad"
+       stroke="none"
+       stroke-linecap="round"
+       stroke-width="0"
+       width="1.1999983"
+       x="0.0060000001"
+       y="7.9666553" />
+    <rect
+       connectorname="6"
+       fill="#f7bd13"
+       gorn="0.0.4"
+       height="0.59999913"
+       id="connector5pad"
+       stroke="none"
+       stroke-linecap="round"
+       stroke-width="0"
+       width="1.1999983"
+       x="0.0060000001"
+       y="6.6888795" />
+    <rect
+       connectorname="5"
+       fill="#f7bd13"
+       gorn="0.0.5"
+       height="0.59999913"
+       id="connector4pad"
+       stroke="none"
+       stroke-linecap="round"
+       stroke-width="0"
+       width="1.1999983"
+       x="0.0060000001"
+       y="5.4111032" />
+    <rect
+       connectorname="4"
+       fill="#f7bd13"
+       gorn="0.0.6"
+       height="0.59999913"
+       id="connector3pad"
+       stroke="none"
+       stroke-linecap="round"
+       stroke-width="0"
+       width="1.1999983"
+       x="0.0060000001"
+       y="4.1333275" />
+    <rect
+       connectorname="3"
+       fill="#f7bd13"
+       gorn="0.0.7"
+       height="0.59999913"
+       id="connector2pad"
+       stroke="none"
+       stroke-linecap="round"
+       stroke-width="0"
+       width="1.1999983"
+       x="0.0060000001"
+       y="2.8555515" />
+    <rect
+       connectorname="2"
+       fill="#f7bd13"
+       gorn="0.0.8"
+       height="0.59999913"
+       id="connector1pad"
+       stroke="none"
+       stroke-linecap="round"
+       stroke-width="0"
+       width="1.1999983"
+       x="0.0060000001"
+       y="1.5777755" />
+    <rect
+       connectorname="1"
+       fill="#f7bd13"
+       gorn="0.0.9"
+       height="0.59999913"
+       id="connector0pad"
+       stroke="none"
+       stroke-linecap="round"
+       stroke-width="0"
+       width="1.1999983"
+       x="0.014126999"
+       y="0.29999956" />
+    <rect
+       connectorname="20"
+       fill="#f7bd13"
+       gorn="0.0.10"
+       height="0.59999913"
+       id="connector19pad"
+       stroke="none"
+       stroke-linecap="round"
+       stroke-width="0"
+       width="1.1999983"
+       x="9.6541128"
+       y="0.29999956" />
+    <rect
+       connectorname="19"
+       fill="#f7bd13"
+       gorn="0.0.11"
+       height="0.59999913"
+       id="connector18pad"
+       stroke="none"
+       stroke-linecap="round"
+       stroke-width="0"
+       width="1.1999983"
+       x="9.6459856"
+       y="1.5777755" />
+    <rect
+       connectorname="18"
+       fill="#f7bd13"
+       gorn="0.0.12"
+       height="0.59999913"
+       id="connector17pad"
+       stroke="none"
+       stroke-linecap="round"
+       stroke-width="0"
+       width="1.1999983"
+       x="9.6459856"
+       y="2.8555515" />
+    <rect
+       connectorname="17"
+       fill="#f7bd13"
+       gorn="0.0.13"
+       height="0.59999913"
+       id="connector16pad"
+       stroke="none"
+       stroke-linecap="round"
+       stroke-width="0"
+       width="1.1999983"
+       x="9.6459856"
+       y="4.1333275" />
+    <rect
+       connectorname="16"
+       fill="#f7bd13"
+       gorn="0.0.14"
+       height="0.59999913"
+       id="connector15pad"
+       stroke="none"
+       stroke-linecap="round"
+       stroke-width="0"
+       width="1.1999983"
+       x="9.6459856"
+       y="5.4111032" />
+    <rect
+       connectorname="15"
+       fill="#f7bd13"
+       gorn="0.0.15"
+       height="0.59999913"
+       id="connector14pad"
+       stroke="none"
+       stroke-linecap="round"
+       stroke-width="0"
+       width="1.1999983"
+       x="9.6459856"
+       y="6.6888795" />
+    <rect
+       connectorname="14"
+       fill="#f7bd13"
+       gorn="0.0.16"
+       height="0.59999913"
+       id="connector13pad"
+       stroke="none"
+       stroke-linecap="round"
+       stroke-width="0"
+       width="1.1999983"
+       x="9.6459856"
+       y="7.9666553" />
+    <rect
+       connectorname="13"
+       fill="#f7bd13"
+       gorn="0.0.17"
+       height="0.59999913"
+       id="connector12pad"
+       stroke="none"
+       stroke-linecap="round"
+       stroke-width="0"
+       width="1.1999983"
+       x="9.6519861"
+       y="9.2444315" />
+    <rect
+       connectorname="12"
+       fill="#f7bd13"
+       gorn="0.0.18"
+       height="0.59999913"
+       id="connector11pad"
+       stroke="none"
+       stroke-linecap="round"
+       stroke-width="0"
+       width="1.1999983"
+       x="9.6459856"
+       y="10.522207" />
+    <rect
+       connectorname="11"
+       fill="#f7bd13"
+       gorn="0.0.19"
+       height="0.59999913"
+       id="connector10pad"
+       stroke="none"
+       stroke-linecap="round"
+       stroke-width="0"
+       width="1.1999983"
+       x="9.6459856"
+       y="11.799983" />
+    <g
+       gorn="0.0.20"
+       id="copper0" />
+  </g>
+  <g
+     gorn="0.1"
+     id="silkscreen"
+     transform="matrix(1.6346845,0,0,1.7479185,-0.13162802,0.01221821)">
+    <line
+       class="other"
+       stroke="#f0f0f0"
+       stroke-linecap="round"
+       stroke-width="0.127"
+       x1="1.1508"
+       x2="5.7031999"
+       y1="0.063500002"
+       y2="0.063500002"
+       id="line26" />
+    <line
+       class="other"
+       stroke="#f0f0f0"
+       stroke-linecap="round"
+       stroke-width="0.127"
+       x1="5.7031999"
+       x2="5.7031999"
+       y1="0.063500002"
+       y2="7.2030001"
+       id="line28" />
+    <line
+       class="other"
+       stroke="#f0f0f0"
+       stroke-linecap="round"
+       stroke-width="0.127"
+       x1="5.7031999"
+       x2="1.1508"
+       y1="7.2030001"
+       y2="7.2030001"
+       id="line30" />
+    <line
+       class="other"
+       stroke="#f0f0f0"
+       stroke-linecap="round"
+       stroke-width="0.127"
+       x1="1.1508"
+       x2="1.1508"
+       y1="7.2030001"
+       y2="0.063500002"
+       id="line32" />
+    <circle
+       class="other"
+       cx="1.727"
+       cy="0.56349999"
+       fill="none"
+       r="0.14139999"
+       stroke="#f0f0f0"
+       stroke-width="0.05"
+       id="circle34" />
+  </g>
+</svg>
