@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+
+<svg
+   gorn="0"
+   height="20.694mm"
+   id="svg26"
+   version="1.2"
+   viewBox="0 0 110 814.72436"
+   width="2.7939999mm"
+   x="0in"
+   y="0in"
+   sodipodi:docname="svg.pcb.TFTSPI1.9in_27347880dd6cf106f04d9a1fdcbc32e8_1_pcb.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1939"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="26.092476"
+     inkscape:cx="-1.7629603"
+     inkscape:cy="25.60125"
+     inkscape:window-width="3840"
+     inkscape:window-height="2036"
+     inkscape:window-x="-12"
+     inkscape:window-y="-12"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="copper0" />
+  <desc
+     id="desc1918">
+    <referenceFile>UART1.9inIPS_12995d91bab047f974a18a45997d36b9_1_pcb.svg</referenceFile>
+  </desc>
+  <defs
+     id="defs30" />
+  <g
+     transform="translate(-15,-15)"
+     id="g1928">
+    <g
+       gorn="0.1.0"
+       id="copper1">
+      <g
+         gorn="0.1.0.0"
+         id="copper0">
+        <rect
+           fill="none"
+           gorn="0.1.0.0.0"
+           height="58"
+           id="square"
+           stroke="#ffbf00"
+           stroke-width="20"
+           width="58"
+           x="41"
+           y="41" />
+        <circle
+           cx="70"
+           cy="70"
+           fill="none"
+           gorn="0.1.0.0.1"
+           id="connector0pin"
+           r="29"
+           stroke="#ffbf00"
+           stroke-width="20" />
+        <circle
+           cx="70"
+           cy="170"
+           fill="none"
+           gorn="0.1.0.0.2"
+           id="connector1pin"
+           r="29"
+           stroke="#ffbf00"
+           stroke-width="20" />
+        <circle
+           cx="70"
+           cy="270"
+           fill="none"
+           gorn="0.1.0.0.3"
+           id="connector2pin"
+           r="29"
+           stroke="#ffbf00"
+           stroke-width="20" />
+        <circle
+           cx="70"
+           cy="370"
+           fill="none"
+           gorn="0.1.0.0.4"
+           id="connector3pin"
+           r="29"
+           stroke="#ffbf00"
+           stroke-width="20" />
+        <ellipse
+           cx="69.984253"
+           cy="473.05356"
+           fill="none"
+           gorn="0.1.0.0.2"
+           id="connector4pin"
+           stroke="#ffbf00"
+           stroke-width="19.9996"
+           rx="29.000198"
+           ry="28.998636" />
+        <ellipse
+           cx="69.984253"
+           cy="573.04889"
+           fill="none"
+           gorn="0.1.0.0.3"
+           id="connector5pin"
+           stroke="#ffbf00"
+           stroke-width="19.9996"
+           rx="29.000198"
+           ry="28.998636" />
+        <ellipse
+           cx="69.984253"
+           cy="673.04419"
+           fill="none"
+           gorn="0.1.0.0.4"
+           id="connector6pin"
+           stroke="#ffbf00"
+           stroke-width="19.9996"
+           rx="29.000198"
+           ry="28.998636" />
+        <ellipse
+           cx="69.984253"
+           cy="773.05353"
+           fill="none"
+           gorn="0.1.0.0.3"
+           id="connector7pin"
+           stroke="#ffbf00"
+           stroke-width="19.9996"
+           rx="29.000198"
+           ry="28.998636" />
+      </g>
+    </g>
+  </g>
+  <g
+     transform="matrix(0.05900568,0,0,0.90949375,50.869602,-9923.1609)"
+     id="g1936">
+    <g
+       gorn="0.2.0"
+       id="silkscreen">
+      <line
+         gorn="0.2.0.0"
+         id="line15"
+         stroke="#ffffff"
+         stroke-width="10"
+         x1="20"
+         x2="20"
+         y1="20"
+         y2="420" />
+      <line
+         gorn="0.2.0.1"
+         id="line17"
+         stroke="#ffffff"
+         stroke-width="10"
+         x1="20"
+         x2="120"
+         y1="420.00003"
+         y2="420.00003" />
+      <line
+         gorn="0.2.0.2"
+         id="line19"
+         stroke="#ffffff"
+         stroke-width="10"
+         x1="120"
+         x2="120"
+         y1="420"
+         y2="20" />
+      <line
+         gorn="0.2.0.3"
+         id="line21"
+         stroke="#ffffff"
+         stroke-width="10"
+         x1="120"
+         x2="20"
+         y1="20"
+         y2="20" />
+      <line
+         gorn="0.2.0.4"
+         id="line23"
+         stroke="#ffffff"
+         stroke-width="5"
+         x1="20"
+         x2="55"
+         y1="55"
+         y2="20" />
+    </g>
+  </g>
+</svg>
