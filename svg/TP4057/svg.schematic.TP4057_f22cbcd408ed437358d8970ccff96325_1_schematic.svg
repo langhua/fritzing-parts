@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+
+<svg
+   gorn="0"
+   height="0.41in"
+   id="svg52"
+   version="1.2"
+   viewBox="0 0 25.6469 10.414"
+   width="1.00972in"
+   x="0in"
+   y="0in"
+   sodipodi:docname="svg.schematic.TP4057_f22cbcd408ed437358d8970ccff96325_1_schematic.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview36"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="in"
+     showgrid="false"
+     inkscape:zoom="19.312285"
+     inkscape:cx="38.938944"
+     inkscape:cy="19.676594"
+     inkscape:window-width="3840"
+     inkscape:window-height="2036"
+     inkscape:window-x="-12"
+     inkscape:window-y="-12"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="schematic" />
+  <defs
+     id="defs56" />
+  <desc
+     id="desc2">
+    <referenceFile>sparkfun-analogic_mcp4725_schematic.svg</referenceFile>
+  </desc>
+  <g
+     gorn="0.2"
+     id="schematic">
+    <rect
+       class="interior rect"
+       fill="#ffffff"
+       gorn="0.2.0"
+       height="10.16"
+       id="rect4"
+       stroke="none"
+       stroke-width="0"
+       width="15.24"
+       x="5.20347"
+       y="0.127" />
+    <line
+       class="other"
+       gorn="0.2.2"
+       id="line7"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-width="0.3175"
+       x1="5.20347"
+       x2="20.4435"
+       y1="10.287"
+       y2="10.287" />
+    <line
+       class="other"
+       gorn="0.2.3"
+       id="line9"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-width="0.3175"
+       x1="20.4435"
+       x2="20.4435"
+       y1="10.287"
+       y2="0.127" />
+    <line
+       class="other"
+       gorn="0.2.4"
+       id="line11"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-width="0.3175"
+       x1="20.4435"
+       x2="5.20347"
+       y1="0.127"
+       y2="0.127" />
+    <line
+       class="other"
+       gorn="0.2.5"
+       id="line13"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-width="0.3175"
+       x1="5.20347"
+       x2="5.20347"
+       y1="0.127"
+       y2="10.287" />
+    <line
+       class="pin"
+       connectorname="VOUT"
+       gorn="0.2.6"
+       id="connector0pin"
+       stroke="#787878"
+       stroke-linecap="round"
+       stroke-width="0.246944"
+       x1="0.123472"
+       x2="5.20347"
+       y1="2.667"
+       y2="2.667" />
+    <rect
+       class="terminal"
+       fill="none"
+       gorn="0.2.7"
+       height="0.0001"
+       id="connector0terminal"
+       stroke="none"
+       stroke-width="0"
+       width="0.0001"
+       x="0.123472"
+       y="2.667" />
+    <text
+       class="text"
+       fill="#8c8c8c"
+       font-family="'Droid Sans'"
+       font-size="0.881944"
+       gorn="0.2.8"
+       id="text17"
+       stroke="none"
+       stroke-width="0"
+       text-anchor="middle"
+       x="2.66347"
+       y="2.29658">1</text>
+    <text
+       class="text"
+       fill="#787878"
+       font-family="'Droid Sans'"
+       font-size="1.23472px"
+       gorn="0.2.9"
+       id="text19"
+       stroke="none"
+       stroke-width="0"
+       text-anchor="start"
+       x="5.9443002"
+       y="2.91394">CHRG</text>
+    <line
+       class="pin"
+       connectorname="VSS"
+       gorn="0.2.10"
+       id="connector1pin"
+       stroke="#787878"
+       stroke-linecap="round"
+       stroke-width="0.246944"
+       x1="0.123472"
+       x2="5.20347"
+       y1="5.207"
+       y2="5.207" />
+    <rect
+       class="terminal"
+       fill="none"
+       gorn="0.2.11"
+       height="0.0001"
+       id="connector1terminal"
+       stroke="none"
+       stroke-width="0"
+       width="0.0001"
+       x="0.123472"
+       y="5.207" />
+    <text
+       class="text"
+       fill="#8c8c8c"
+       font-family="'Droid Sans'"
+       font-size="0.881944"
+       gorn="0.2.12"
+       id="text23"
+       stroke="none"
+       stroke-width="0"
+       text-anchor="middle"
+       x="2.66347"
+       y="4.83658">2</text>
+    <text
+       class="text"
+       fill="#787878"
+       font-family="'Droid Sans'"
+       font-size="1.23472px"
+       gorn="0.2.13"
+       id="text25"
+       stroke="none"
+       stroke-width="0"
+       text-anchor="start"
+       x="5.9443002"
+       y="5.4539399">GND</text>
+    <line
+       class="pin"
+       connectorname="VDD"
+       gorn="0.2.14"
+       id="connector2pin"
+       stroke="#787878"
+       stroke-linecap="round"
+       stroke-width="0.246944"
+       x1="0.123472"
+       x2="5.20347"
+       y1="7.747"
+       y2="7.747" />
+    <rect
+       class="terminal"
+       fill="none"
+       gorn="0.2.15"
+       height="0.0001"
+       id="connector2terminal"
+       stroke="none"
+       stroke-width="0"
+       width="0.0001"
+       x="0.123472"
+       y="7.747" />
+    <text
+       class="text"
+       fill="#8c8c8c"
+       font-family="'Droid Sans'"
+       font-size="0.881944"
+       gorn="0.2.16"
+       id="text29"
+       stroke="none"
+       stroke-width="0"
+       text-anchor="middle"
+       x="2.66347"
+       y="7.37658">3</text>
+    <text
+       class="text"
+       fill="#787878"
+       font-family="'Droid Sans'"
+       font-size="1.23472px"
+       gorn="0.2.17"
+       id="text31"
+       stroke="none"
+       stroke-width="0"
+       text-anchor="start"
+       x="5.9443002"
+       y="7.9939399">BAT</text>
+    <line
+       class="pin"
+       connectorname="AO"
+       gorn="0.2.18"
+       id="connector5pin"
+       stroke="#787878"
+       stroke-linecap="round"
+       stroke-width="0.246944"
+       x1="25.5235"
+       x2="20.4435"
+       y1="2.667"
+       y2="2.667" />
+    <rect
+       class="terminal"
+       fill="none"
+       gorn="0.2.19"
+       height="0.0001"
+       id="connector5terminal"
+       stroke="none"
+       stroke-width="0"
+       width="0.0001"
+       x="25.5235"
+       y="2.667" />
+    <text
+       class="text"
+       fill="#8c8c8c"
+       font-family="'Droid Sans'"
+       font-size="0.881944"
+       gorn="0.2.20"
+       id="text35"
+       stroke="none"
+       stroke-width="0"
+       text-anchor="middle"
+       x="22.9835"
+       y="2.29658">6</text>
+    <text
+       class="text"
+       fill="#787878"
+       font-family="'Droid Sans'"
+       font-size="1.23472px"
+       gorn="0.2.21"
+       id="text37"
+       stroke="none"
+       stroke-width="0"
+       text-anchor="end"
+       x="19.7026"
+       y="2.91394">PROG</text>
+    <line
+       class="pin"
+       connectorname="SCL"
+       gorn="0.2.22"
+       id="connector4pin"
+       stroke="#787878"
+       stroke-linecap="round"
+       stroke-width="0.246944"
+       x1="25.5235"
+       x2="20.4435"
+       y1="5.207"
+       y2="5.207" />
+    <rect
+       class="terminal"
+       fill="none"
+       gorn="0.2.23"
+       height="0.0001"
+       id="connector4terminal"
+       stroke="none"
+       stroke-width="0"
+       width="0.0001"
+       x="25.5235"
+       y="5.207" />
+    <text
+       class="text"
+       fill="#8c8c8c"
+       font-family="'Droid Sans'"
+       font-size="0.881944"
+       gorn="0.2.24"
+       id="text41"
+       stroke="none"
+       stroke-width="0"
+       text-anchor="middle"
+       x="22.9835"
+       y="4.83658">5</text>
+    <text
+       class="text"
+       fill="#787878"
+       font-family="'Droid Sans'"
+       font-size="1.23472px"
+       gorn="0.2.25"
+       id="text43"
+       stroke="none"
+       stroke-width="0"
+       text-anchor="end"
+       x="19.7026"
+       y="5.4539399">STDBY</text>
+    <line
+       class="pin"
+       connectorname="SDA"
+       gorn="0.2.26"
+       id="connector3pin"
+       stroke="#787878"
+       stroke-linecap="round"
+       stroke-width="0.246944"
+       x1="25.5235"
+       x2="20.4435"
+       y1="7.747"
+       y2="7.747" />
+    <rect
+       class="terminal"
+       fill="none"
+       gorn="0.2.27"
+       height="0.0001"
+       id="connector3terminal"
+       stroke="none"
+       stroke-width="0"
+       width="0.0001"
+       x="25.5235"
+       y="7.747" />
+    <text
+       class="text"
+       fill="#8c8c8c"
+       font-family="'Droid Sans'"
+       font-size="0.881944"
+       gorn="0.2.28"
+       id="text47"
+       stroke="none"
+       stroke-width="0"
+       text-anchor="middle"
+       x="22.9835"
+       y="7.37658">4</text>
+    <text
+       class="text"
+       fill="#787878"
+       font-family="'Droid Sans'"
+       font-size="1.23472px"
+       gorn="0.2.29"
+       id="text49"
+       stroke="none"
+       stroke-width="0"
+       text-anchor="end"
+       x="19.7026"
+       y="7.9939399">VCC</text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.76389px;font-family:sans-serif;-inkscape-font-specification:sans-serif;opacity:1;fill:#000000;fill-rule:evenodd;stroke-width:0.176;stroke-linejoin:round;stroke-miterlimit:3.9"
+       x="9.5627842"
+       y="4.4525857"
+       id="text373"><tspan
+         sodipodi:role="line"
+         id="tspan371"
+         style="fill:#000000;stroke-width:0.176"
+         x="9.5627842"
+         y="4.4525857">TP4057</tspan></text>
+  </g>
+</svg>
