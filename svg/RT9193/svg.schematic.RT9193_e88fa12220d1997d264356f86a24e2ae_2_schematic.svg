@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+
+<svg
+   gorn="0"
+   height="0.86115265in"
+   id="svg68"
+   version="1.2"
+   viewBox="0 0 16.864597 21.873277"
+   width="0.66396028in"
+   x="0in"
+   y="0in"
+   sodipodi:docname="svg.schematic.RT9193_e88fa12220d1997d264356f86a24e2ae_2_schematic.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview56"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="in"
+     showgrid="false"
+     inkscape:zoom="12.422788"
+     inkscape:cx="17.065413"
+     inkscape:cy="41.295079"
+     inkscape:window-width="3840"
+     inkscape:window-height="2036"
+     inkscape:window-x="-12"
+     inkscape:window-y="-12"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g10137" />
+  <desc
+     id="desc2">
+    <referenceFile>RT9013_df443f1d4b1ebaf1099c5628e2dae19b_1_schematic.svg</referenceFile>
+  </desc>
+  <defs
+     id="defs72" />
+  <g
+     transform="translate(0.03175012,21.871423)"
+     id="g53">
+    <g
+       gorn="0.1.0"
+       id="schematic">
+      <g
+         transform="rotate(-90)"
+         id="g50">
+        <g
+           gorn="0.1.0.0.0"
+           id="g10137">
+          <line
+             class="other"
+             gorn="0.1.0.0.0.1"
+             id="line7"
+             stroke="#000000"
+             stroke-linecap="round"
+             stroke-width="0.244705"
+             x1="5.1670728"
+             x2="5.1670728"
+             y1="0.090602383"
+             y2="16.628134" />
+          <line
+             class="other"
+             gorn="0.1.0.0.0.2"
+             id="line9"
+             stroke="#000000"
+             stroke-linecap="round"
+             stroke-width="0.238325"
+             x1="5.1638827"
+             x2="16.558575"
+             y1="16.713682"
+             y2="16.713682" />
+          <line
+             class="other"
+             gorn="0.1.0.0.0.3"
+             id="line11"
+             stroke="#000000"
+             stroke-linecap="round"
+             stroke-width="0.244705"
+             x1="16.564056"
+             x2="16.564056"
+             y1="16.628134"
+             y2="0.090602383" />
+          <line
+             class="other"
+             gorn="0.1.0.0.0.4"
+             id="line13"
+             stroke="#000000"
+             stroke-linecap="round"
+             stroke-width="0.238325"
+             x1="16.558575"
+             x2="5.1638827"
+             y1="0.087412447"
+             y2="0.087412447" />
+          <line
+             class="pin"
+             connectorname="VDD"
+             gorn="0.1.0.0.0.5"
+             id="connector0pin"
+             stroke="#787878"
+             stroke-linecap="round"
+             stroke-width="0.243167"
+             x1="0.11972353"
+             x2="5.0454988"
+             y1="2.6670001"
+             y2="2.6670001" />
+          <rect
+             class="terminal"
+             fill="none"
+             gorn="0.1.0.0.0.6"
+             height="9.9999997e-05"
+             id="connector0terminal"
+             stroke="none"
+             stroke-width="0"
+             width="9.9999997e-05"
+             x="0.123472"
+             y="2.6670001" />
+          <line
+             class="pin"
+             connectorname="VDD"
+             gorn="0.1.0.0.0.7"
+             id="line284"
+             stroke="#787878"
+             stroke-linecap="round"
+             stroke-width="0"
+             x1="0.12347195"
+             x2="4.7624164"
+             y1="2.6670001"
+             y2="2.6670001" />
+          <rect
+             class="terminal"
+             fill="none"
+             gorn="0.1.0.0.0.8"
+             height="9.9999997e-05"
+             id="connector1terminal"
+             stroke="none"
+             stroke-width="0"
+             width="9.9999997e-05"
+             x="0.029193219"
+             y="8.4057894" />
+          <line
+             class="pin"
+             connectorname="STAT1"
+             gorn="0.1.0.0.0.9"
+             id="connector1pin"
+             stroke="#787878"
+             stroke-linecap="round"
+             stroke-width="0.243858"
+             x1="0.099612042"
+             x2="5.0534282"
+             y1="8.4650822"
+             y2="8.4650822" />
+          <line
+             class="pin"
+             connectorname="STAT2"
+             gorn="0.1.0.0.0.10"
+             id="connector2pin"
+             stroke="#787878"
+             stroke-linecap="round"
+             stroke-width="0.243858"
+             x1="0.12040507"
+             x2="5.0742211"
+             y1="14.035265"
+             y2="14.035265" />
+          <rect
+             class="terminal"
+             fill="none"
+             gorn="0.1.0.0.0.11"
+             height="9.9999997e-05"
+             id="connector2terminal"
+             stroke="none"
+             stroke-width="0"
+             width="9.9999997e-05"
+             x="0.12347201"
+             y="14.042097" />
+          <line
+             class="pin"
+             connectorname="VDD"
+             gorn="0.1.0.0.0.12"
+             id="connector4pin"
+             stroke="#787878"
+             stroke-linecap="round"
+             stroke-width="0.246944"
+             x1="16.550909"
+             x2="21.630907"
+             y1="2.6736126"
+             y2="2.6736126" />
+          <rect
+             class="terminal"
+             fill="none"
+             gorn="0.1.0.0.0.13"
+             height="9.9999997e-05"
+             id="connector4terminal"
+             stroke="none"
+             stroke-width="0"
+             width="9.9999997e-05"
+             x="21.871323"
+             y="2.6736126" />
+          <line
+             class="pin"
+             connectorname="STAT2"
+             gorn="0.1.0.0.0.14"
+             id="connector3pin"
+             stroke="#787878"
+             stroke-linecap="round"
+             stroke-width="0.246944"
+             x1="16.605814"
+             x2="21.685812"
+             y1="14.041878"
+             y2="14.041878" />
+          <rect
+             class="terminal"
+             fill="none"
+             gorn="0.1.0.0.0.15"
+             height="9.9999997e-05"
+             id="connector3terminal"
+             stroke="none"
+             stroke-width="0"
+             width="9.9999997e-05"
+             x="21.871323"
+             y="14.016698" />
+          <g
+             transform="rotate(90)"
+             id="g31">
+            <g
+               gorn="0.1.0.0.0.16.0"
+               id="text10340"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.05833px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;opacity:1;fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.254;stroke-linejoin:round;stroke-miterlimit:3.9"
+               xml:space="preserve">
+                            <text
+   gorn="0.1.0.0.0.16.0.0"
+   id="tspan10338"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.05833px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:none;stroke-width:0.254"
+   x="1.5693134"
+   y="-5.7152414">VIN</text>
+                        </g>
+          </g>
+          <g
+             transform="rotate(90)"
+             id="g35">
+            <g
+               gorn="0.1.0.0.0.17.0"
+               id="text10340-3"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.05833px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.254;stroke-linejoin:round;stroke-miterlimit:3.9"
+               xml:space="preserve">
+                            <text
+   gorn="0.1.0.0.0.17.0.0"
+   id="tspan10338-5"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.05833px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:none;stroke-width:0.254"
+   x="0.98277998"
+   y="-15.265743">VOUT</text>
+                        </g>
+          </g>
+          <g
+             transform="rotate(90)"
+             id="g39">
+            <g
+               gorn="0.1.0.0.0.18.0"
+               id="text10340-6"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.05833px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.254;stroke-linejoin:round;stroke-miterlimit:3.9"
+               xml:space="preserve">
+                            <text
+   gorn="0.1.0.0.0.18.0.0"
+   id="tspan10338-3"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.05833px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:none;stroke-width:0.254"
+   x="7.1052709"
+   y="-5.7002554">GND</text>
+                        </g>
+          </g>
+          <g
+             transform="rotate(90)"
+             id="g43">
+            <g
+               gorn="0.1.0.0.0.19.0"
+               id="text10340-6-0"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.05833px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.254;stroke-linejoin:round;stroke-miterlimit:3.9"
+               xml:space="preserve">
+                            <text
+   gorn="0.1.0.0.0.19.0.0"
+   id="tspan10338-3-8"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.05833px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:none;stroke-width:0.254"
+   x="13.292248"
+   y="-5.6736555">EN</text>
+                        </g>
+          </g>
+          <g
+             transform="rotate(90,0.44918342,0.44918342)"
+             id="g47">
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.11459px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;opacity:1;fill:#000000;fill-rule:evenodd;stroke-width:0.185354;stroke-linejoin:round;stroke-miterlimit:3.9"
+               x="12.78556"
+               y="-14.829725"
+               id="text499"
+               transform="scale(1.0313149,0.96963596)"><tspan
+                 sodipodi:role="line"
+                 id="tspan497"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.11459px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.185354"
+                 x="12.78556"
+                 y="-14.829725">BP</tspan></text>
+          </g>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;opacity:1;fill:#000000;fill-rule:evenodd;stroke-width:0.176;stroke-linejoin:round;stroke-miterlimit:3.9"
+             x="3.1842823"
+             y="-9.9657135"
+             id="text393"
+             transform="rotate(90)"><tspan
+               sodipodi:role="line"
+               id="tspan391"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.176"
+               x="3.1842823"
+               y="-9.9657135">RT9193</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
