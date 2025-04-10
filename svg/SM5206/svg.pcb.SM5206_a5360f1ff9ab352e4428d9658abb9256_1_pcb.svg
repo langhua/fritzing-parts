@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+
+<svg
+   gorn="0"
+   height="6.75mm"
+   id="svg6558"
+   version="1.2"
+   viewBox="0 0 4.9000174 6.7500137"
+   width="4.9000001mm"
+   x="0in"
+   y="0in"
+   sodipodi:docname="svg.pcb.SM5206_a5360f1ff9ab352e4428d9658abb9256_1_pcb.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview30"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="40.255864"
+     inkscape:cx="4.3347722"
+     inkscape:cy="12.755906"
+     inkscape:window-width="2560"
+     inkscape:window-height="1351"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6558" />
+  <defs
+     id="defs6562" />
+  <g
+     transform="matrix(1,0,0,1.2053614,-0.05119883,0)"
+     id="g15">
+    <g
+       gorn="0.2.0"
+       id="copper1">
+      <rect
+         connectorname="1"
+         fill="#f7bd13"
+         gorn="0.2.0.0"
+         height="0.8296296"
+         id="connector0pad"
+         stroke="none"
+         stroke-linecap="round"
+         stroke-width="0"
+         width="0.60000211"
+         x="0.31119969"
+         y="4.7703662" />
+      <rect
+         connectorname="2"
+         fill="#f7bd13"
+         gorn="0.2.0.1"
+         height="0.8296296"
+         id="connector1pad"
+         stroke="none"
+         stroke-linecap="round"
+         stroke-width="0"
+         width="0.60000211"
+         x="1.5812042"
+         y="4.7703662" />
+      <rect
+         connectorname="3"
+         fill="#f7bd13"
+         gorn="0.2.0.2"
+         height="0.8296296"
+         id="connector2pad"
+         stroke="none"
+         stroke-linecap="round"
+         stroke-width="0"
+         width="0.60000211"
+         x="2.8512084"
+         y="4.7703662" />
+      <rect
+         connectorname="4"
+         fill="#f7bd13"
+         gorn="0.2.0.3"
+         height="0.8296296"
+         id="connector3pad"
+         stroke="none"
+         stroke-linecap="round"
+         stroke-width="0"
+         width="0.60000211"
+         x="4.0912132"
+         y="4.7703662" />
+      <rect
+         connectorname="5"
+         fill="#f7bd13"
+         gorn="0.2.0.4"
+         height="0.8296296"
+         id="connector4pad"
+         stroke="none"
+         stroke-linecap="round"
+         stroke-width="0"
+         width="0.60000211"
+         x="4.0912132"
+         y="0" />
+      <rect
+         connectorname="6"
+         fill="#f7bd13"
+         gorn="0.2.0.5"
+         height="0.8296296"
+         id="connector5pad"
+         stroke="none"
+         stroke-linecap="round"
+         stroke-width="0"
+         width="0.60000211"
+         x="2.8512087"
+         y="0" />
+      <rect
+         connectorname="7"
+         fill="#f7bd13"
+         gorn="0.2.0.6"
+         height="0.8296296"
+         id="connector6pad"
+         stroke="none"
+         stroke-linecap="round"
+         stroke-width="0"
+         width="0.60000211"
+         x="1.5812042"
+         y="0" />
+      <rect
+         connectorname="8"
+         fill="#f7bd13"
+         gorn="0.2.0.7"
+         height="0.8296296"
+         id="connector7pad"
+         stroke="none"
+         stroke-linecap="round"
+         stroke-width="0"
+         width="0.60000211"
+         x="0.31119964"
+         y="0" />
+      <rect
+         connectorname="8"
+         fill="#f7bd13"
+         gorn="0.2.0.8"
+         height="2.24"
+         id="connector8pad"
+         stroke="none"
+         stroke-linecap="round"
+         stroke-width="0"
+         width="3.6000125"
+         x="0.70120114"
+         y="1.6799959" />
+      <g
+         gorn="0.2.0.9"
+         id="copper0" />
+    </g>
+  </g>
+  <g
+     transform="translate(0,0.53437275)"
+     id="g27">
+    <g
+       gorn="0.3.0"
+       id="silkscreen">
+      <path
+         class="other"
+         d="M 0.09044708,1.2949961 A 0.24907293,0.31219301 0 0 1 0.33952001,0.98280303"
+         fill="none"
+         gorn="0.3.0.0"
+         id="path6539"
+         stroke="#f0f0f0"
+         stroke-width="0.169989" />
+      <path
+         class="other"
+         d="M 4.5668457,0.98280303 A 0.24907293,0.31219301 0 0 1 4.8159186,1.2949961"
+         fill="none"
+         gorn="0.3.0.1"
+         id="path6541"
+         stroke="#f0f0f0"
+         stroke-width="0.169989" />
+      <path
+         class="other"
+         d="M 4.5668457,4.6916561 A 0.24907293,0.31219301 0 0 0 4.8159186,4.3794631"
+         fill="none"
+         gorn="0.3.0.2"
+         id="path6543"
+         stroke="#f0f0f0"
+         stroke-width="0.169989" />
+      <path
+         class="other"
+         d="m 0.09044708,4.3794631 a 0.24907293,0.31219301 0 0 0 0.24907293,0.312193"
+         fill="none"
+         gorn="0.3.0.3"
+         id="path6545"
+         stroke="#f0f0f0"
+         stroke-width="0.169989" />
+      <line
+         class="other"
+         gorn="0.3.0.4"
+         id="line6547"
+         stroke="#f0f0f0"
+         stroke-linecap="round"
+         stroke-width="0.169989"
+         x1="4.5558476"
+         x2="0.37313849"
+         y1="4.705647"
+         y2="4.705647" />
+      <line
+         class="other"
+         gorn="0.3.0.5"
+         id="line6549"
+         stroke="#f0f0f0"
+         stroke-linecap="round"
+         stroke-width="0.169989"
+         x1="0.37300968"
+         x2="4.5505438"
+         y1="0.97562182"
+         y2="0.97562182" />
+      <line
+         class="other"
+         gorn="0.3.0.6"
+         id="line6551"
+         stroke="#f0f0f0"
+         stroke-linecap="round"
+         stroke-width="0.169989"
+         x1="0.090447083"
+         x2="0.090447083"
+         y1="1.2949963"
+         y2="4.3669758" />
+      <line
+         class="other"
+         gorn="0.3.0.7"
+         id="line6553"
+         stroke="#f0f0f0"
+         stroke-linecap="round"
+         stroke-width="0.169989"
+         x1="4.8159184"
+         x2="4.8159184"
+         y1="4.3794632"
+         y2="1.2949963" />
+      <circle
+         class="other"
+         cx="0.8216818"
+         cy="4.4015107"
+         fill="none"
+         gorn="0.3.0.8"
+         id="circle6555"
+         r="0.14660834"
+         stroke="#f0f0f0"
+         stroke-width="0.11458" />
+    </g>
+  </g>
+</svg>
