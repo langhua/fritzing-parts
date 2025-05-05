@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="1.1in"
+   version="1.1"
+   viewBox="0 0 33.02 27.94"
+   width="1.3in"
+   x="0in"
+   y="0in"
+   id="svg84"
+   sodipodi:docname="svg.schematic.ESP12F_943e8077003283b6a894b0ad59b7ddc6_1_schematic.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs88" />
+  <sodipodi:namedview
+     id="namedview86"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="in"
+     showgrid="false"
+     inkscape:zoom="9.7253786"
+     inkscape:cx="43.494451"
+     inkscape:cy="52.748589"
+     inkscape:window-width="3840"
+     inkscape:window-height="2036"
+     inkscape:window-x="-12"
+     inkscape:window-y="-12"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg84" />
+  <g
+     gorn="0.0"
+     id="schematic">
+    <rect
+       class="interior rect"
+       fill="#FFFFFF"
+       height="27.6225"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-width="0.3175"
+       width="22.5425"
+       x="5.23875"
+       y="0.15875"
+       id="rect4" />
+    <g
+       font-family="'Droid Sans'"
+       stroke="none"
+       stroke-linecap="round"
+       stroke-width="0"
+       id="g81">
+      <g
+         fill="none"
+         font-size="1.23472"
+         gorn="0.0.1.0"
+         id="pins">
+        <g
+           gorn="0.0.1.0.0"
+           id="pins-left"
+           text-anchor="start">
+          <line
+             gorn="0.0.1.0.0.0"
+             id="connector0pin"
+             stroke="#787878"
+             stroke-width="0.246944"
+             x1="0.123472"
+             x2="5.20347"
+             y1="5.08"
+             y2="5.08" />
+          <text
+             fill="#8c8c8c"
+             x="5.69736"
+             y="5.3269"
+             id="text7">REST</text>
+          <rect
+             gorn="0.0.1.0.0.2"
+             height="0.246944"
+             id="connector0terminal"
+             width="0.246944"
+             x="-0.123472"
+             y="4.9565" />
+          <line
+             gorn="0.0.1.0.0.3"
+             id="connector1pin"
+             stroke="#787878"
+             stroke-width="0.246944"
+             x1="0.123472"
+             x2="5.20347"
+             y1="7.62"
+             y2="7.62" />
+          <text
+             fill="#8c8c8c"
+             x="5.69736"
+             y="7.8669"
+             id="text11">ADC</text>
+          <rect
+             gorn="0.0.1.0.0.5"
+             height="0.246944"
+             id="connector1terminal"
+             width="0.246944"
+             x="-0.123472"
+             y="7.4965" />
+          <line
+             gorn="0.0.1.0.0.6"
+             id="connector2pin"
+             stroke="#787878"
+             stroke-width="0.246944"
+             x1="0.123472"
+             x2="5.20347"
+             y1="10.16"
+             y2="10.16" />
+          <text
+             fill="#8c8c8c"
+             x="5.69736"
+             y="10.4069"
+             id="text15">CH_PD</text>
+          <rect
+             gorn="0.0.1.0.0.8"
+             height="0.246944"
+             id="connector2terminal"
+             width="0.246944"
+             x="-0.123472"
+             y="10.0365" />
+          <line
+             gorn="0.0.1.0.0.9"
+             id="connector3pin"
+             stroke="#787878"
+             stroke-width="0.246944"
+             x1="0.123472"
+             x2="5.20347"
+             y1="12.7"
+             y2="12.7" />
+          <text
+             fill="#8c8c8c"
+             x="5.69736"
+             y="12.9469"
+             id="text19">GPIO16</text>
+          <rect
+             gorn="0.0.1.0.0.11"
+             height="0.246944"
+             id="connector3terminal"
+             width="0.246944"
+             x="-0.123472"
+             y="12.5765" />
+          <line
+             gorn="0.0.1.0.0.12"
+             id="connector4pin"
+             stroke="#787878"
+             stroke-width="0.246944"
+             x1="0.123472"
+             x2="5.20347"
+             y1="15.24"
+             y2="15.24" />
+          <text
+             fill="#8c8c8c"
+             x="5.69736"
+             y="15.4869"
+             id="text23">GPIO14</text>
+          <rect
+             gorn="0.0.1.0.0.14"
+             height="0.246944"
+             id="connector4terminal"
+             width="0.246944"
+             x="-0.123472"
+             y="15.1165" />
+          <line
+             gorn="0.0.1.0.0.15"
+             id="connector5pin"
+             stroke="#787878"
+             stroke-width="0.246944"
+             x1="0.123472"
+             x2="5.20347"
+             y1="17.78"
+             y2="17.78" />
+          <text
+             fill="#8c8c8c"
+             x="5.69736"
+             y="18.0269"
+             id="text27">GPIO12</text>
+          <rect
+             gorn="0.0.1.0.0.17"
+             height="0.246944"
+             id="connector5terminal"
+             width="0.246944"
+             x="-0.123472"
+             y="17.6565" />
+          <line
+             gorn="0.0.1.0.0.18"
+             id="connector6pin"
+             stroke="#787878"
+             stroke-width="0.246944"
+             x1="0.123472"
+             x2="5.20347"
+             y1="20.32"
+             y2="20.32" />
+          <text
+             fill="#8c8c8c"
+             x="5.69736"
+             y="20.5669"
+             id="text31">GPIO13</text>
+          <rect
+             gorn="0.0.1.0.0.20"
+             height="0.246944"
+             id="connector6terminal"
+             width="0.246944"
+             x="-0.123472"
+             y="20.1965" />
+          <line
+             gorn="0.0.1.0.0.21"
+             id="connector7pin"
+             stroke="#787878"
+             stroke-width="0.246944"
+             x1="0.123472"
+             x2="5.20347"
+             y1="22.86"
+             y2="22.86" />
+          <text
+             fill="#8c8c8c"
+             x="5.69736"
+             y="23.1069"
+             id="text35">VCC</text>
+          <rect
+             gorn="0.0.1.0.0.23"
+             height="0.246944"
+             id="connector7terminal"
+             width="0.246944"
+             x="-0.123472"
+             y="22.7365" />
+        </g>
+        <g
+           gorn="0.0.1.0.1"
+           id="right"
+           text-anchor="end">
+          <line
+             gorn="0.0.1.0.1.0"
+             id="connector15pin"
+             stroke="#787878"
+             stroke-width="0.246944"
+             x1="27.8165"
+             x2="32.8965"
+             y1="5.08"
+             y2="5.08" />
+          <text
+             fill="#8c8c8c"
+             x="27.3226"
+             y="5.3269"
+             id="text40">TXD</text>
+          <rect
+             gorn="0.0.1.0.1.2"
+             height="0.246944"
+             id="connector15terminal"
+             width="0.246944"
+             x="32.8965"
+             y="4.9565" />
+          <line
+             gorn="0.0.1.0.1.3"
+             id="connector14pin"
+             stroke="#787878"
+             stroke-width="0.246944"
+             x1="27.8165"
+             x2="32.8965"
+             y1="7.62"
+             y2="7.62" />
+          <text
+             fill="#8c8c8c"
+             x="27.3226"
+             y="7.8669"
+             id="text44">RXD</text>
+          <rect
+             gorn="0.0.1.0.1.5"
+             height="0.246944"
+             id="connector14terminal"
+             width="0.246944"
+             x="32.8965"
+             y="7.4965" />
+          <line
+             gorn="0.0.1.0.1.6"
+             id="connector13pin"
+             stroke="#787878"
+             stroke-width="0.246944"
+             x1="27.8165"
+             x2="32.8965"
+             y1="10.16"
+             y2="10.16" />
+          <text
+             fill="#8c8c8c"
+             x="27.3226"
+             y="10.4069"
+             id="text48">GPIO5</text>
+          <rect
+             gorn="0.0.1.0.1.8"
+             height="0.246944"
+             id="connector13terminal"
+             width="0.246944"
+             x="32.8965"
+             y="10.0365" />
+          <line
+             gorn="0.0.1.0.1.9"
+             id="connector12pin"
+             stroke="#787878"
+             stroke-width="0.246944"
+             x1="27.8165"
+             x2="32.8965"
+             y1="12.7"
+             y2="12.7" />
+          <text
+             fill="#8c8c8c"
+             x="27.3226"
+             y="12.9469"
+             id="text52">GPIO4</text>
+          <rect
+             gorn="0.0.1.0.1.11"
+             height="0.246944"
+             id="connector12terminal"
+             width="0.246944"
+             x="32.8965"
+             y="12.5765" />
+          <line
+             gorn="0.0.1.0.1.12"
+             id="connector11pin"
+             stroke="#787878"
+             stroke-width="0.246944"
+             x1="27.8165"
+             x2="32.8965"
+             y1="15.24"
+             y2="15.24" />
+          <text
+             fill="#8c8c8c"
+             x="27.3226"
+             y="15.4869"
+             id="text56">GPIO0</text>
+          <rect
+             gorn="0.0.1.0.1.14"
+             height="0.246944"
+             id="connector11terminal"
+             width="0.246944"
+             x="32.8965"
+             y="15.1165" />
+          <line
+             gorn="0.0.1.0.1.15"
+             id="connector10pin"
+             stroke="#787878"
+             stroke-width="0.246944"
+             x1="27.8165"
+             x2="32.8965"
+             y1="17.78"
+             y2="17.78" />
+          <text
+             fill="#8c8c8c"
+             x="27.3226"
+             y="18.0269"
+             id="text60">GPIO2</text>
+          <rect
+             gorn="0.0.1.0.1.17"
+             height="0.246944"
+             id="connector10terminal"
+             width="0.246944"
+             x="32.8965"
+             y="17.6565" />
+          <line
+             gorn="0.0.1.0.1.18"
+             id="connector9pin"
+             stroke="#787878"
+             stroke-width="0.246944"
+             x1="27.8165"
+             x2="32.8965"
+             y1="20.32"
+             y2="20.32" />
+          <text
+             fill="#8c8c8c"
+             x="27.3226"
+             y="20.5669"
+             id="text64">GPIO15</text>
+          <rect
+             gorn="0.0.1.0.1.20"
+             height="0.246944"
+             id="connector9terminal"
+             width="0.246944"
+             x="32.8965"
+             y="20.1965" />
+          <line
+             gorn="0.0.1.0.1.21"
+             id="connector8pin"
+             stroke="#787878"
+             stroke-width="0.246944"
+             x1="27.8165"
+             x2="32.8965"
+             y1="22.86"
+             y2="22.86" />
+          <text
+             fill="#8c8c8c"
+             x="27.3226"
+             y="23.1069"
+             id="text68">GND</text>
+          <rect
+             gorn="0.0.1.0.1.23"
+             height="0.246944"
+             id="connector8terminal"
+             width="0.246944"
+             x="32.8965"
+             y="22.7365" />
+        </g>
+      </g>
+      <g
+         class="label"
+         fill="#000000"
+         font-size="1.49931"
+         text-anchor="middle"
+         id="g79">
+        <text
+           x="16.52"
+           y="14.313262"
+           id="text77">ESP-12F</text>
+      </g>
+    </g>
+  </g>
+</svg>

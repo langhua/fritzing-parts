@@ -1,0 +1,724 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16mm"
+   viewBox="0 0 56.692913 85.03937"
+   height="24mm"
+   id="svg2"
+   version="1.1"
+   gorn="0"
+   sodipodi:docname="svg.pcb.ESP12F_943e8077003283b6a894b0ad59b7ddc6_1_pcb.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview81"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="11.321962"
+     inkscape:cx="-2.2964218"
+     inkscape:cy="45.486816"
+     inkscape:window-width="3840"
+     inkscape:window-height="2036"
+     inkscape:window-x="-12"
+     inkscape:window-y="-12"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="copper0" />
+  <defs
+     id="defs7530" />
+  <g
+     transform="matrix(1,0,0,0.99992161,0,-967.24521)"
+     id="g76">
+    <g
+       id="g74">
+      <g
+         id="g72">
+        <g
+           id="copper1"
+           gorn="0.3.0.0.0">
+          <g
+             id="copper0"
+             gorn="0.3.0.0.0.0">
+            <path
+               fill="#f7bd13"
+               style="display:inline;opacity:1;stroke-miterlimit:4;stroke-dasharray:none;"
+               d="m 51.732283,994.60664 v 3.543 h 4.960937 v -3.543 z m 1.771484,0.5313 c 0.687047,0 1.240235,0.5531 1.240235,1.2402 0,0.687 -0.553188,1.2402 -1.240235,1.2402 -0.687047,0 -1.240234,-0.5532 -1.240234,-1.2402 0,-0.6871 0.553187,-1.2402 1.240234,-1.2402 z"
+               stroke-opacity="1"
+               stroke-width="0.17716534"
+               id="connector0pin"
+               stroke="none"
+               fill-opacity="1"
+               gorn="0.3.0.0.0.0.0" />
+            <rect
+               x="53.499001"
+               width="0.0099218702"
+               fill="none"
+               height="0.0070859999"
+               y="996.375"
+               stroke-width="0"
+               id="connector0terminal"
+               stroke="none"
+               gorn="0.3.0.0.0.0.1" />
+            <path
+               fill="#f7bd13"
+               style="display:inline;opacity:1;stroke-miterlimit:4;stroke-dasharray:none;"
+               d="m 51.732283,1001.6932 v 3.543 h 4.960937 v -3.543 z m 1.771484,0.5313 c 0.687047,0 1.240235,0.5531 1.240235,1.2402 0,0.687 -0.553188,1.2402 -1.240235,1.2402 -0.687047,0 -1.240234,-0.5532 -1.240234,-1.2402 0,-0.6871 0.553187,-1.2402 1.240234,-1.2402 z"
+               stroke-opacity="1"
+               stroke-width="0.17716534"
+               id="connector1pin"
+               stroke="none"
+               fill-opacity="1"
+               gorn="0.3.0.0.0.0.2" />
+            <rect
+               x="53.499001"
+               width="0.0099218702"
+               fill="none"
+               height="0.0070859999"
+               y="1003.46"
+               stroke-width="0"
+               id="connector1terminal"
+               stroke="none"
+               gorn="0.3.0.0.0.0.3" />
+            <path
+               fill="#f7bd13"
+               style="display:inline;opacity:1;stroke-miterlimit:4;stroke-dasharray:none;"
+               d="m 51.732283,1008.7798 v 3.543 h 4.960937 v -3.543 z m 1.771484,0.5313 c 0.687047,0 1.240235,0.5531 1.240235,1.2402 0,0.687 -0.553188,1.2402 -1.240235,1.2402 -0.687047,0 -1.240234,-0.5532 -1.240234,-1.2402 0,-0.6871 0.553187,-1.2402 1.240234,-1.2402 z"
+               stroke-opacity="1"
+               stroke-width="0.17716534"
+               id="connector2pin"
+               stroke="none"
+               fill-opacity="1"
+               gorn="0.3.0.0.0.0.4" />
+            <rect
+               x="53.499001"
+               width="0.0099218702"
+               fill="none"
+               height="0.0070859999"
+               y="1010.55"
+               stroke-width="0"
+               id="connector2terminal"
+               stroke="none"
+               gorn="0.3.0.0.0.0.5" />
+            <path
+               fill="#f7bd13"
+               style="display:inline;opacity:1;stroke-miterlimit:4;stroke-dasharray:none;"
+               d="m 51.732283,1015.8664 v 3.543 h 4.960937 v -3.543 z m 1.771484,0.5313 c 0.687047,0 1.240235,0.5531 1.240235,1.2402 0,0.687 -0.553188,1.2402 -1.240235,1.2402 -0.687047,0 -1.240234,-0.5532 -1.240234,-1.2402 0,-0.6871 0.553187,-1.2402 1.240234,-1.2402 z"
+               stroke-opacity="1"
+               stroke-width="0.17716534"
+               id="connector3pin"
+               stroke="none"
+               fill-opacity="1"
+               gorn="0.3.0.0.0.0.6" />
+            <path
+               fill="#f7bd13"
+               style="display:inline;opacity:1;stroke-miterlimit:4;stroke-dasharray:none;"
+               d="m 51.732283,1022.9531 v 3.543 h 4.960937 v -3.543 z m 1.771484,0.5313 c 0.687047,0 1.240235,0.5531 1.240235,1.2402 0,0.687 -0.553188,1.2402 -1.240235,1.2402 -0.687047,0 -1.240234,-0.5532 -1.240234,-1.2402 0,-0.6871 0.553187,-1.2402 1.240234,-1.2402 z"
+               stroke-opacity="1"
+               stroke-width="0.17716534"
+               id="connector4pin"
+               stroke="none"
+               fill-opacity="1"
+               gorn="0.3.0.0.0.0.7" />
+            <rect
+               x="53.499001"
+               width="0.0099218702"
+               fill="none"
+               height="0.0070859999"
+               y="1024.72"
+               stroke-width="0"
+               id="connector4terminal"
+               stroke="none"
+               gorn="0.3.0.0.0.0.8" />
+            <path
+               fill="#f7bd13"
+               style="display:inline;opacity:1;stroke-miterlimit:4;stroke-dasharray:none;"
+               d="m 51.732283,1030.0397 v 3.543 h 4.960937 v -3.543 z m 1.771484,0.5312 c 0.687047,0 1.240235,0.5532 1.240235,1.2403 0,0.687 -0.553188,1.2402 -1.240235,1.2402 -0.687047,0 -1.240234,-0.5532 -1.240234,-1.2402 0,-0.6871 0.553187,-1.2403 1.240234,-1.2403 z"
+               stroke-opacity="1"
+               stroke-width="0.17716534"
+               id="connector5pin"
+               stroke="none"
+               fill-opacity="1"
+               gorn="0.3.0.0.0.0.9" />
+            <rect
+               x="53.499001"
+               width="0.0099218702"
+               fill="none"
+               height="0.0070859999"
+               y="1031.8101"
+               stroke-width="0"
+               id="connector5terminal"
+               stroke="none"
+               gorn="0.3.0.0.0.0.10" />
+            <path
+               fill="#f7bd13"
+               style="display:inline;opacity:1;stroke-miterlimit:4;stroke-dasharray:none;"
+               d="m 51.732283,1037.1264 v 3.5429 h 4.960937 v -3.5429 z m 1.771484,0.5312 c 0.687047,0 1.240235,0.5532 1.240235,1.2402 0,0.6871 -0.553188,1.2403 -1.240235,1.2403 -0.687047,0 -1.240234,-0.5532 -1.240234,-1.2403 0,-0.687 0.553187,-1.2402 1.240234,-1.2402 z"
+               stroke-opacity="1"
+               stroke-width="0.17716534"
+               id="connector6pin"
+               stroke="none"
+               fill-opacity="1"
+               gorn="0.3.0.0.0.0.11" />
+            <rect
+               x="53.499001"
+               width="0.0099218702"
+               fill="none"
+               height="0.0070858002"
+               y="1038.79"
+               stroke-width="0"
+               id="connector6terminal"
+               stroke="none"
+               gorn="0.3.0.0.0.0.12" />
+            <path
+               fill="#f7bd13"
+               style="display:inline;opacity:1;stroke-miterlimit:4;stroke-dasharray:none;"
+               d="m 51.732422,1044.2135 v 3.543 h 4.960937 v -3.543 z m 1.771484,0.5312 c 0.687047,0 1.240235,0.5532 1.240235,1.2403 0,0.687 -0.553188,1.2402 -1.240235,1.2402 -0.687047,0 -1.240234,-0.5532 -1.240234,-1.2402 0,-0.6871 0.553187,-1.2403 1.240234,-1.2403 z"
+               stroke-opacity="1"
+               stroke-width="0.17716534"
+               id="connector7pin"
+               stroke="none"
+               fill-opacity="1"
+               gorn="0.3.0.0.0.0.13" />
+            <rect
+               x="53.4991"
+               width="0.0099218702"
+               fill="none"
+               height="0.0070859999"
+               y="1045.98"
+               stroke-width="0"
+               id="connector7terminal"
+               stroke="none"
+               gorn="0.3.0.0.0.0.14" />
+            <path
+               fill="#f7bd13"
+               style="display:inline;opacity:1;stroke-miterlimit:4;stroke-dasharray:none;"
+               d="m 44.291339,1048.8192 v 3.543 h 0.53125 c 0,-0.6871 0.553188,-1.2403 1.240235,-1.2403 0.687047,0 1.240234,0.5532 1.240234,1.2403 h 0.53125 v -3.543 z"
+               stroke-opacity="1"
+               stroke-width="0.17716534"
+               id="connector16pin"
+               stroke="none"
+               fill-opacity="1"
+               gorn="0.3.0.0.0.0.15" />
+            <rect
+               x="46.059299"
+               width="0.0070859399"
+               fill="none"
+               height="0.0070859999"
+               y="1052.36"
+               stroke-width="0"
+               id="connector16terminal"
+               stroke="none"
+               gorn="0.3.0.0.0.0.16" />
+            <path
+               fill="#f7bd13"
+               style="display:inline;opacity:1;stroke-miterlimit:4;stroke-dasharray:none;"
+               d="m 37.204724,1048.8192 v 3.543 h 0.53125 c 0,-0.6871 0.553188,-1.2403 1.240235,-1.2403 0.687047,0 1.240234,0.5532 1.240234,1.2403 h 0.53125 v -3.543 z"
+               stroke-opacity="1"
+               stroke-width="0.17716534"
+               id="connector17pin"
+               stroke="none"
+               fill-opacity="1"
+               gorn="0.3.0.0.0.0.17" />
+            <rect
+               x="38.972698"
+               width="0.0070859399"
+               fill="none"
+               height="0.0070859999"
+               y="1052.36"
+               stroke-width="0"
+               id="connector17terminal"
+               stroke="none"
+               gorn="0.3.0.0.0.0.18" />
+            <path
+               fill="#f7bd13"
+               style="display:inline;opacity:1;stroke-miterlimit:4;stroke-dasharray:none;"
+               d="m 30.11811,1048.8193 v 3.5429 h 0.53125 c 0,-0.687 0.553188,-1.2402 1.240235,-1.2402 0.687047,0 1.240234,0.5532 1.240234,1.2402 h 0.53125 v -3.5429 z"
+               stroke-opacity="1"
+               stroke-width="0.17716534"
+               id="connector18pin"
+               stroke="none"
+               fill-opacity="1"
+               gorn="0.3.0.0.0.0.19" />
+            <rect
+               x="31.886101"
+               width="0.0070859399"
+               fill="none"
+               height="0.0070858002"
+               y="1052.36"
+               stroke-width="0"
+               id="connector18terminal"
+               stroke="none"
+               gorn="0.3.0.0.0.0.20" />
+            <path
+               fill="#f7bd13"
+               style="display:inline;opacity:1;stroke-miterlimit:4;stroke-dasharray:none;"
+               d="m 23.031496,1048.8193 v 3.5429 h 0.53125 c 0,-0.687 0.553188,-1.2402 1.240235,-1.2402 0.687047,0 1.240234,0.5532 1.240234,1.2402 h 0.53125 v -3.5429 z"
+               stroke-opacity="1"
+               stroke-width="0.17716534"
+               id="connector19pin"
+               stroke="none"
+               fill-opacity="1"
+               gorn="0.3.0.0.0.0.21" />
+            <rect
+               x="24.7994"
+               width="0.0070859399"
+               fill="none"
+               height="0.0070858002"
+               y="1052.36"
+               stroke-width="0"
+               id="connector19terminal"
+               stroke="none"
+               gorn="0.3.0.0.0.0.22" />
+            <path
+               fill="#f7bd13"
+               style="display:inline;opacity:1;stroke-miterlimit:4;stroke-dasharray:none;"
+               d="m 15.945312,1048.819 v 3.5429 h 0.53125 c 0,-0.687 0.553188,-1.2402 1.240235,-1.2402 0.687047,0 1.240234,0.5532 1.240234,1.2402 h 0.53125 v -3.5429 z"
+               stroke-opacity="1"
+               stroke-width="0.17716534"
+               id="connector20pin"
+               stroke="none"
+               fill-opacity="1"
+               gorn="0.3.0.0.0.0.23" />
+            <rect
+               x="17.713301"
+               width="0.0070859399"
+               fill="none"
+               height="0.0070858002"
+               y="1052.36"
+               stroke-width="0"
+               id="connector20terminal"
+               stroke="none"
+               gorn="0.3.0.0.0.0.24" />
+            <path
+               fill="#f7bd13"
+               style="display:inline;opacity:1;stroke-miterlimit:4;stroke-dasharray:none;"
+               d="m 8.8582677,1048.8193 v 3.5429 h 0.5312499 c 0,-0.687 0.553188,-1.2402 1.2402354,-1.2402 0.687047,0 1.240234,0.5532 1.240234,1.2402 h 0.53125 v -3.5429 z"
+               stroke-opacity="1"
+               stroke-width="0.17716534"
+               id="connector21pin"
+               stroke="none"
+               fill-opacity="1"
+               gorn="0.3.0.0.0.0.25" />
+            <rect
+               x="10.6262"
+               width="0.0070859399"
+               fill="none"
+               height="0.0070858002"
+               y="1052.36"
+               stroke-width="0"
+               id="connector21terminal"
+               stroke="none"
+               gorn="0.3.0.0.0.0.26" />
+            <path
+               fill="#f7bd13"
+               style="display:inline;opacity:1;stroke-miterlimit:4;stroke-dasharray:none;"
+               d="m 0,1044.2135 v 3.543 h 4.9609375 v -3.543 z m 3.1894531,0.5312 c 0.6870473,0 1.2402344,0.5532 1.2402344,1.2403 0,0.687 -0.5531871,1.2402 -1.2402344,1.2402 -0.6870472,0 -1.2402343,-0.5532 -1.2402343,-1.2402 0,-0.6871 0.5531871,-1.2403 1.2402343,-1.2403 z"
+               stroke-opacity="1"
+               stroke-width="0.17716534"
+               id="connector8pin"
+               stroke="none"
+               fill-opacity="1"
+               gorn="0.3.0.0.0.0.27" />
+            <rect
+               x="3.18402"
+               width="0.0099218804"
+               fill="none"
+               height="0.0070859999"
+               y="1045.98"
+               stroke-width="0"
+               id="connector8terminal"
+               stroke="none"
+               gorn="0.3.0.0.0.0.28" />
+            <path
+               fill="#f7bd13"
+               style="display:inline;opacity:1;stroke-miterlimit:4;stroke-dasharray:none;"
+               d="m 0,1037.1263 v 3.543 h 4.960938 v -3.543 z m 3.189453,0.5313 c 0.687048,0 1.240235,0.5532 1.240235,1.2402 0,0.687 -0.553187,1.2402 -1.240235,1.2402 -0.687047,0 -1.240234,-0.5532 -1.240234,-1.2402 0,-0.687 0.553187,-1.2402 1.240234,-1.2402 z"
+               stroke-opacity="1"
+               stroke-width="0.17716534"
+               id="connector9pin"
+               stroke="none"
+               fill-opacity="1"
+               gorn="0.3.0.0.0.0.29" />
+            <rect
+               x="3.18402"
+               width="0.0099218804"
+               fill="none"
+               height="0.0070859999"
+               y="1038.89"
+               stroke-width="0"
+               id="connector9terminal"
+               stroke="none"
+               gorn="0.3.0.0.0.0.30" />
+            <path
+               fill="#f7bd13"
+               style="display:inline;opacity:1;stroke-miterlimit:4;stroke-dasharray:none;"
+               d="m 0,1030.0397 v 3.543 h 4.9609375 v -3.543 z m 3.1894531,0.5312 c 0.6870473,0 1.2402344,0.5532 1.2402344,1.2403 0,0.687 -0.5531871,1.2402 -1.2402344,1.2402 -0.6870472,0 -1.2402343,-0.5532 -1.2402343,-1.2402 0,-0.6871 0.5531871,-1.2403 1.2402343,-1.2403 z"
+               stroke-opacity="1"
+               stroke-width="0.17716534"
+               id="connector10pin"
+               stroke="none"
+               fill-opacity="1"
+               gorn="0.3.0.0.0.0.31" />
+            <rect
+               x="3.18402"
+               width="0.0099218804"
+               fill="none"
+               height="0.0070859999"
+               y="1031.8101"
+               stroke-width="0"
+               id="connector10terminal"
+               stroke="none"
+               gorn="0.3.0.0.0.0.32" />
+            <path
+               fill="#f7bd13"
+               style="display:inline;opacity:1;stroke-miterlimit:4;stroke-dasharray:none;"
+               d="m 0,1022.9531 v 3.543 h 4.9609375 v -3.543 z m 3.1894531,0.5313 c 0.6870473,0 1.2402344,0.5532 1.2402344,1.2402 0,0.6871 -0.5531871,1.2403 -1.2402344,1.2403 -0.6870472,0 -1.2402343,-0.5532 -1.2402343,-1.2403 0,-0.687 0.5531871,-1.2402 1.2402343,-1.2402 z"
+               stroke-opacity="1"
+               stroke-width="0.17716534"
+               id="connector11pin"
+               stroke="none"
+               fill-opacity="1"
+               gorn="0.3.0.0.0.0.33" />
+            <rect
+               x="3.18402"
+               width="0.0099218804"
+               fill="none"
+               height="0.0070859999"
+               y="1024.72"
+               stroke-width="0"
+               id="connector11terminal"
+               stroke="none"
+               gorn="0.3.0.0.0.0.34" />
+            <path
+               fill="#f7bd13"
+               style="display:inline;opacity:1;stroke-miterlimit:4;stroke-dasharray:none;"
+               d="m 0,1015.8664 v 3.543 h 4.9609375 v -3.543 z m 3.1894531,0.5313 c 0.6870473,0 1.2402344,0.5532 1.2402344,1.2402 0,0.6871 -0.5531871,1.2403 -1.2402344,1.2403 -0.6870472,0 -1.2402343,-0.5532 -1.2402343,-1.2403 0,-0.687 0.5531871,-1.2402 1.2402343,-1.2402 z"
+               stroke-opacity="1"
+               stroke-width="0.17716534"
+               id="connector12pin"
+               stroke="none"
+               fill-opacity="1"
+               gorn="0.3.0.0.0.0.35" />
+            <rect
+               x="3.18402"
+               width="0.0099218804"
+               fill="none"
+               height="0.0070859999"
+               y="1017.63"
+               stroke-width="0"
+               id="connector12terminal"
+               stroke="none"
+               gorn="0.3.0.0.0.0.36" />
+            <path
+               fill="#f7bd13"
+               style="display:inline;opacity:1;stroke-miterlimit:4;stroke-dasharray:none;"
+               d="m 0,1008.7798 v 3.543 h 4.9609375 v -3.543 z m 3.1894531,0.5313 c 0.6870473,0 1.2402344,0.5532 1.2402344,1.2402 0,0.6871 -0.5531871,1.2403 -1.2402344,1.2403 -0.6870472,0 -1.2402343,-0.5532 -1.2402343,-1.2403 0,-0.687 0.5531871,-1.2402 1.2402343,-1.2402 z"
+               stroke-opacity="1"
+               stroke-width="0.17716534"
+               id="connector13pin"
+               stroke="none"
+               fill-opacity="1"
+               gorn="0.3.0.0.0.0.37" />
+            <rect
+               x="3.18402"
+               width="0.0099218804"
+               fill="none"
+               height="0.0070859999"
+               y="1010.55"
+               stroke-width="0"
+               id="connector13terminal"
+               stroke="none"
+               gorn="0.3.0.0.0.0.38" />
+            <path
+               fill="#f7bd13"
+               style="display:inline;opacity:1;stroke-miterlimit:4;stroke-dasharray:none;"
+               d="m 0,1001.6932 v 3.543 h 4.960938 v -3.543 z m 3.189453,0.5313 c 0.687047,0 1.240235,0.5532 1.240235,1.2402 0,0.6871 -0.553188,1.2403 -1.240235,1.2403 -0.687047,0 -1.240234,-0.5532 -1.240234,-1.2403 0,-0.687 0.553187,-1.2402 1.240234,-1.2402 z"
+               stroke-opacity="1"
+               stroke-width="0.17716534"
+               id="connector14pin"
+               stroke="none"
+               fill-opacity="1"
+               gorn="0.3.0.0.0.0.39" />
+            <rect
+               x="3.18402"
+               width="0.0099218804"
+               fill="none"
+               height="0.0070859999"
+               y="1003.46"
+               stroke-width="0"
+               id="connector14terminal"
+               stroke="none"
+               gorn="0.3.0.0.0.0.40" />
+            <path
+               fill="#f7bd13"
+               style="display:inline;opacity:1;stroke-miterlimit:4;stroke-dasharray:none;"
+               d="m 0,994.60664 v 3.543 h 4.9609375 v -3.543 z m 3.1894531,0.5313 c 0.6870473,0 1.2402344,0.5532 1.2402344,1.2402 0,0.6871 -0.5531871,1.2403 -1.2402344,1.2403 -0.6870472,0 -1.2402343,-0.5532 -1.2402343,-1.2403 0,-0.687 0.5531871,-1.2402 1.2402343,-1.2402 z"
+               stroke-opacity="1"
+               stroke-width="0.17716534"
+               id="connector15pin"
+               stroke="none"
+               fill-opacity="1"
+               gorn="0.3.0.0.0.0.41" />
+            <rect
+               x="3.18402"
+               width="0.0099218804"
+               fill="none"
+               height="0.0070859999"
+               y="996.375"
+               stroke-width="0"
+               id="connector15terminal"
+               stroke="none"
+               gorn="0.3.0.0.0.0.42" />
+            <rect
+               x="31.886101"
+               width="0.0070859399"
+               fill="none"
+               height="0.0070858002"
+               y="1052.36"
+               stroke-width="0"
+               id="rect4627-6"
+               stroke="none"
+               gorn="0.3.0.0.0.0.43" />
+            <rect
+               x="10.6262"
+               width="0.0070859399"
+               fill="none"
+               height="0.0070858002"
+               y="1052.36"
+               stroke-width="0"
+               id="rect4621-5"
+               stroke="none"
+               gorn="0.3.0.0.0.0.44" />
+            <rect
+               x="24.7994"
+               width="0.0070859399"
+               fill="none"
+               height="0.0070858002"
+               y="1052.36"
+               stroke-width="0"
+               id="rect4624-2"
+               stroke="none"
+               gorn="0.3.0.0.0.0.45" />
+            <rect
+               x="17.713301"
+               width="0.0070859399"
+               fill="none"
+               height="0.0070858002"
+               y="1052.36"
+               stroke-width="0"
+               id="rect4618-2"
+               stroke="none"
+               gorn="0.3.0.0.0.0.46" />
+            <rect
+               x="3.18402"
+               width="0.0099218804"
+               fill="none"
+               height="0.0070859999"
+               y="1045.98"
+               stroke-width="0"
+               id="rect4636-0"
+               stroke="none"
+               gorn="0.3.0.0.0.0.47" />
+            <rect
+               x="38.972698"
+               width="0.0070859399"
+               fill="none"
+               height="0.0070859999"
+               y="1052.36"
+               stroke-width="0"
+               id="rect4630-9"
+               stroke="none"
+               gorn="0.3.0.0.0.0.48" />
+            <rect
+               x="46.059299"
+               width="0.0070859399"
+               fill="none"
+               height="0.0070859999"
+               y="1052.36"
+               stroke-width="0"
+               id="rect4633-2"
+               stroke="none"
+               gorn="0.3.0.0.0.0.49" />
+            <rect
+               x="3.18402"
+               width="0.0099218804"
+               fill="none"
+               height="0.0070859999"
+               y="1038.89"
+               stroke-width="0"
+               id="rect4639-2"
+               stroke="none"
+               gorn="0.3.0.0.0.0.50" />
+            <rect
+               x="3.18402"
+               width="0.0099218804"
+               fill="none"
+               height="0.0070859999"
+               y="1031.8101"
+               stroke-width="0"
+               id="rect4642-8"
+               stroke="none"
+               gorn="0.3.0.0.0.0.51" />
+            <rect
+               x="3.18402"
+               width="0.0099218804"
+               fill="none"
+               height="0.0070859999"
+               y="1024.72"
+               stroke-width="0"
+               id="rect4645-6"
+               stroke="none"
+               gorn="0.3.0.0.0.0.52" />
+            <rect
+               x="3.18402"
+               width="0.0099218804"
+               fill="none"
+               height="0.0070859999"
+               y="1017.63"
+               stroke-width="0"
+               id="rect4648-6"
+               stroke="none"
+               gorn="0.3.0.0.0.0.53" />
+            <rect
+               x="3.18402"
+               width="0.0099218804"
+               fill="none"
+               height="0.0070859999"
+               y="1010.55"
+               stroke-width="0"
+               id="rect4651-9"
+               stroke="none"
+               gorn="0.3.0.0.0.0.54" />
+            <rect
+               x="3.18402"
+               width="0.0099218804"
+               fill="none"
+               height="0.0070859999"
+               y="1003.46"
+               stroke-width="0"
+               id="rect4654-5"
+               stroke="none"
+               gorn="0.3.0.0.0.0.55" />
+            <rect
+               x="3.18402"
+               width="0.0099218804"
+               fill="none"
+               height="0.0070859999"
+               y="996.375"
+               stroke-width="0"
+               id="rect4657-8"
+               stroke="none"
+               gorn="0.3.0.0.0.0.56" />
+            <rect
+               x="53.4991"
+               width="0.0099218702"
+               fill="none"
+               height="0.0070859999"
+               y="1045.98"
+               stroke-width="0"
+               id="rect4660-3"
+               stroke="none"
+               gorn="0.3.0.0.0.0.57" />
+            <rect
+               x="53.499001"
+               width="0.0099218702"
+               fill="none"
+               height="0.0070858002"
+               y="1038.89"
+               stroke-width="0"
+               id="rect4663-3"
+               stroke="none"
+               gorn="0.3.0.0.0.0.58" />
+            <rect
+               x="53.499001"
+               width="0.0099218702"
+               fill="none"
+               height="0.0070859999"
+               y="1031.8101"
+               stroke-width="0"
+               id="rect4666-9"
+               stroke="none"
+               gorn="0.3.0.0.0.0.59" />
+            <rect
+               x="53.499001"
+               width="0.0099218702"
+               fill="none"
+               height="0.0070859999"
+               y="1024.72"
+               stroke-width="0"
+               id="rect4669-1"
+               stroke="none"
+               gorn="0.3.0.0.0.0.60" />
+            <rect
+               x="53.499001"
+               width="0.0099218702"
+               fill="none"
+               height="0.0070859999"
+               y="1017.63"
+               stroke-width="0"
+               id="rect4672-2"
+               stroke="none"
+               gorn="0.3.0.0.0.0.61" />
+            <rect
+               x="53.499001"
+               width="0.0099218702"
+               fill="none"
+               height="0.0070859999"
+               y="1010.55"
+               stroke-width="0"
+               id="rect4675-9"
+               stroke="none"
+               gorn="0.3.0.0.0.0.62" />
+            <rect
+               x="53.499001"
+               width="0.0099218702"
+               fill="none"
+               height="0.0070859999"
+               y="1003.46"
+               stroke-width="0"
+               id="rect4678-3"
+               stroke="none"
+               gorn="0.3.0.0.0.0.63" />
+            <rect
+               x="53.499001"
+               width="0.0099218702"
+               fill="none"
+               height="0.0070859999"
+               y="996.375"
+               stroke-width="0"
+               id="rect4681-2"
+               stroke="none"
+               gorn="0.3.0.0.0.0.64" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     id="silkscreen"
+     gorn="0.4">
+    <rect
+       x="0.17847568"
+       width="56.33596"
+       fill="#010101"
+       style="opacity:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;"
+       height="84.682411"
+       stroke-opacity="1"
+       y="0.17848051"
+       stroke-width="0.35695136"
+       id="rect956"
+       stroke="#000000"
+       fill-opacity="0"
+       gorn="0.4.0" />
+  </g>
+</svg>
