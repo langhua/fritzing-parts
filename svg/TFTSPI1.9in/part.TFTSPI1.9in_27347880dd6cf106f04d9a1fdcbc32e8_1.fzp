@@ -2,25 +2,25 @@
 <module moduleId="TFTSPI1.9in_27347880dd6cf106f04d9a1fdcbc32e8_1">
  <version>1</version>
  <author>Shi Jinghai</author>
- <title>1.9 inch TFT LCD</title>
+ <title>8Pin 1.9inch TFT LCD</title>
  <label>U</label>
  <date>Sat Mar 1 2025</date>
  <tags>
-  <tag>SPI</tag>
   <tag>LCD</tag>
   <tag>ST7789</tag>
+  <tag>8pin</tag>
+  <tag>1.9inch</tag>
  </tags>
  <properties>
   <property name="family">LCD</property>
   <property name="editable pin labels">false</property>
   <property name="hole size"></property>
-  <property name="package">SPI</property>
+  <property name="package">SandFlower</property>
   <property name="chip label">LCD</property>
   <property name="part number"></property>
   <property name="layer"></property>
   <property name="mpn"></property>
   <property name="mn"></property>
-  <property name="variant">variant 1</property>
  </properties>
  <views>
   <iconView>
