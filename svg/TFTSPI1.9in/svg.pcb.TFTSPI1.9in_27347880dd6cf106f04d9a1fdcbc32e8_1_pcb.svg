@@ -28,8 +28,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="26.092476"
-     inkscape:cx="-1.7629603"
-     inkscape:cy="25.60125"
+     inkscape:cx="-8.8531269"
+     inkscape:cy="45.492041"
      inkscape:window-width="3840"
      inkscape:window-height="2036"
      inkscape:window-x="-12"
@@ -97,46 +97,42 @@
            r="29"
            stroke="#ffbf00"
            stroke-width="20" />
-        <ellipse
-           cx="69.984253"
-           cy="473.05356"
-           fill="none"
-           gorn="0.1.0.0.2"
-           id="connector4pin"
-           stroke="#ffbf00"
-           stroke-width="19.9996"
-           rx="29.000198"
-           ry="28.998636" />
-        <ellipse
-           cx="69.984253"
-           cy="573.04889"
+        <circle
+           cx="70.300278"
+           cy="471.47766"
            fill="none"
            gorn="0.1.0.0.3"
-           id="connector5pin"
+           id="connector4pin"
+           r="29"
            stroke="#ffbf00"
-           stroke-width="19.9996"
-           rx="29.000198"
-           ry="28.998636" />
-        <ellipse
-           cx="69.984253"
-           cy="673.04419"
+           stroke-width="20" />
+        <circle
+           cx="70.300278"
+           cy="571.47766"
            fill="none"
            gorn="0.1.0.0.4"
-           id="connector6pin"
+           id="connector5pin"
+           r="29"
            stroke="#ffbf00"
-           stroke-width="19.9996"
-           rx="29.000198"
-           ry="28.998636" />
-        <ellipse
-           cx="69.984253"
-           cy="773.05353"
+           stroke-width="20" />
+        <circle
+           cx="70.491722"
+           cy="672.81897"
            fill="none"
            gorn="0.1.0.0.3"
-           id="connector7pin"
+           id="connector6pin"
+           r="29"
            stroke="#ffbf00"
-           stroke-width="19.9996"
-           rx="29.000198"
-           ry="28.998636" />
+           stroke-width="20" />
+        <circle
+           cx="70.491722"
+           cy="772.81897"
+           fill="none"
+           gorn="0.1.0.0.4"
+           id="connector7pin"
+           r="29"
+           stroke="#ffbf00"
+           stroke-width="20" />
       </g>
     </g>
   </g>
