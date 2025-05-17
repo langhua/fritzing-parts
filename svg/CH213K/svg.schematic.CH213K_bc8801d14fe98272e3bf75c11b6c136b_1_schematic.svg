@@ -3,11 +3,11 @@
 
 <svg
    gorn="0"
-   height="0.41in"
+   height="0.255739in"
    id="svg52"
    version="1.2"
-   viewBox="0 0 25.6469 10.414"
-   width="1.00972in"
+   viewBox="0 0 15.900447 6.4957707"
+   width="0.62600154in"
    x="0in"
    y="0in"
    sodipodi:docname="svg.schematic.CH213K_bc8801d14fe98272e3bf75c11b6c136b_1_schematic.svg"
@@ -28,12 +28,12 @@
      inkscape:document-units="in"
      showgrid="false"
      inkscape:zoom="14.876237"
-     inkscape:cx="62.54942"
-     inkscape:cy="19.796673"
-     inkscape:window-width="2560"
-     inkscape:window-height="1351"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
+     inkscape:cx="50.14709"
+     inkscape:cy="19.964726"
+     inkscape:window-width="3840"
+     inkscape:window-height="2036"
+     inkscape:window-x="-12"
+     inkscape:window-y="-12"
      inkscape:window-maximized="1"
      inkscape:current-layer="schematic" />
   <defs
@@ -44,62 +44,63 @@
   </desc>
   <g
      gorn="0.2"
-     id="schematic">
+     id="schematic"
+     transform="translate(1.4156103e-7,0.03175021)">
     <rect
        class="interior rect"
        fill="#ffffff"
        gorn="0.2.0"
-       height="10.16"
+       height="6.2989302"
        id="rect4"
        stroke="none"
        stroke-width="0"
-       width="15.24"
-       x="5.20347"
-       y="0.127" />
+       width="9.4483948"
+       x="3.2260134"
+       y="0.06667079" />
     <line
        class="other"
        gorn="0.2.1"
        id="line7"
        stroke="#000000"
        stroke-linecap="round"
-       stroke-width="0.3175"
-       x1="5.20347"
-       x2="20.4435"
-       y1="10.287"
-       y2="10.287" />
+       stroke-width="0.196842"
+       x1="3.2260134"
+       x2="12.674427"
+       y1="6.3656006"
+       y2="6.3656006" />
     <line
        class="other"
        gorn="0.2.2"
        id="line9"
        stroke="#000000"
        stroke-linecap="round"
-       stroke-width="0.3175"
-       x1="20.4435"
-       x2="20.4435"
-       y1="10.287"
-       y2="0.127" />
+       stroke-width="0.196842"
+       x1="12.674427"
+       x2="12.674427"
+       y1="6.3656006"
+       y2="0.06667079" />
     <line
        class="other"
        gorn="0.2.3"
        id="line11"
        stroke="#000000"
        stroke-linecap="round"
-       stroke-width="0.3175"
-       x1="20.4435"
-       x2="5.20347"
-       y1="0.127"
-       y2="0.127" />
+       stroke-width="0.196842"
+       x1="12.674427"
+       x2="3.2260134"
+       y1="0.06667079"
+       y2="0.06667079" />
     <line
        class="other"
        gorn="0.2.4"
        id="line13"
        stroke="#000000"
        stroke-linecap="round"
-       stroke-width="0.3175"
-       x1="5.20347"
-       x2="5.20347"
-       y1="0.127"
-       y2="10.287" />
+       stroke-width="0.196842"
+       x1="3.2260134"
+       x2="3.2260134"
+       y1="0.06667079"
+       y2="6.3656006" />
     <line
        class="pin"
        connectorname="VOUT"
@@ -107,47 +108,47 @@
        id="connector0pin"
        stroke="#787878"
        stroke-linecap="round"
-       stroke-width="0.246944"
-       x1="0.123472"
-       x2="5.20347"
-       y1="2.667"
-       y2="2.667" />
+       stroke-width="0.153099"
+       x1="0.076549359"
+       x2="3.2260134"
+       y1="1.6414033"
+       y2="1.6414033" />
     <rect
        class="terminal"
        fill="none"
        gorn="0.2.6"
-       height="0.0001"
+       height="6.1997343e-05"
        id="connector0terminal"
        stroke="none"
        stroke-width="0"
-       width="0.0001"
-       x="0.123472"
-       y="2.667" />
+       width="6.1997343e-05"
+       x="0.076549359"
+       y="1.6414033" />
     <text
        class="text"
        fill="#8c8c8c"
        font-family="'Droid Sans'"
-       font-size="0.881944"
+       font-size="0.546782"
        gorn="0.2.7"
        id="text17"
        stroke="none"
        stroke-width="0"
        text-anchor="middle"
-       x="2.66347"
-       y="2.29658">1</text>
+       x="1.6512806"
+       y="1.4117528">1</text>
     <text
        class="text"
        fill="#787878"
        font-family="'Droid Sans'"
-       font-size="0.881944"
+       font-size="0.546782"
        gorn="0.2.8"
        id="text19"
        stroke="none"
        stroke-width="0"
        text-anchor="start"
-       x="6.7000604"
-       y="2.8270853"
-       transform="scale(0.88535414,1.1294915)">GND</text>
+       x="4.1538596"
+       y="1.7420353"
+       transform="scale(0.88535415,1.1294915)">GND</text>
     <line
        class="pin"
        connectorname="VDD"
@@ -155,46 +156,46 @@
        id="connector1pin"
        stroke="#787878"
        stroke-linecap="round"
-       stroke-width="0.246944"
-       x1="0.123472"
-       x2="5.20347"
-       y1="7.747"
-       y2="7.747" />
+       stroke-width="0.153099"
+       x1="0.076549359"
+       x2="3.2260134"
+       y1="4.7908688"
+       y2="4.7908688" />
     <rect
        class="terminal"
        fill="none"
        gorn="0.2.14"
-       height="0.0001"
+       height="6.1997343e-05"
        id="connector1terminal"
        stroke="none"
        stroke-width="0"
-       width="0.0001"
-       x="0.123472"
-       y="7.747" />
+       width="6.1997343e-05"
+       x="0.076549359"
+       y="4.7908688" />
     <text
        class="text"
        fill="#8c8c8c"
        font-family="'Droid Sans'"
-       font-size="0.881944"
+       font-size="0.546782"
        gorn="0.2.15"
        id="text29"
        stroke="none"
        stroke-width="0"
        text-anchor="middle"
-       x="2.66347"
-       y="7.3765802">2</text>
+       x="1.6512806"
+       y="4.5612178">2</text>
     <text
        class="text"
        fill="#787878"
        font-family="'Droid Sans'"
-       font-size="0.881944"
+       font-size="0.546782"
        gorn="0.2.16"
        id="text31"
        stroke="none"
        stroke-width="0"
        text-anchor="start"
-       x="5.9443002"
-       y="7.9939399">VO-</text>
+       x="3.6853082"
+       y="4.9439645">VO-</text>
     <line
        class="pin"
        connectorname="SCL"
@@ -202,68 +203,61 @@
        id="connector2pin"
        stroke="#787878"
        stroke-linecap="round"
-       stroke-width="0.246944"
-       x1="25.5235"
-       x2="20.4435"
-       y1="5.207"
-       y2="5.207" />
+       stroke-width="0.153099"
+       x1="15.823893"
+       x2="12.674427"
+       y1="3.2161357"
+       y2="3.2161357" />
     <rect
        class="terminal"
        fill="none"
        gorn="0.2.22"
-       height="0.0001"
+       height="6.1997343e-05"
        id="connector2terminal"
        stroke="none"
        stroke-width="0"
-       width="0.0001"
-       x="25.5235"
-       y="5.207" />
+       width="6.1997343e-05"
+       x="15.823893"
+       y="3.2161357" />
     <text
        class="text"
        fill="#8c8c8c"
        font-family="'Droid Sans'"
-       font-size="0.881944"
+       font-size="0.546782"
        gorn="0.2.23"
        id="text41"
        stroke="none"
        stroke-width="0"
        text-anchor="middle"
-       x="22.9835"
-       y="4.8365798">3</text>
+       x="14.24916"
+       y="2.9864852">3</text>
     <text
        class="text"
        fill="#787878"
        font-family="'Droid Sans'"
-       font-size="0.881944"
+       font-size="0.546782"
        gorn="0.2.24"
        id="text43"
        stroke="none"
        stroke-width="0"
        text-anchor="end"
-       x="19.7026"
-       y="5.4539399">VI+</text>
-    <g
-       gorn="0.2.29"
-       id="text373"
-       style="font-size:1.76389px;font-family:sans-serif;-inkscape-font-specification:sans-serif;opacity:1;fill:#000000;fill-rule:evenodd;stroke-width:0.176;stroke-linejoin:round;stroke-miterlimit:3.9"
-       xml:space="preserve"
-       transform="translate(-0.21342768,-2.1342768)">
-            <text
-   gorn="0.2.29.0"
-   id="tspan371"
-   style="fill:#000000;stroke-width:0.176"
-   x="9.5627842"
-   y="4.4525857">CH213K</text>
-        </g>
+       x="12.215089"
+       y="3.3692322">VI+</text>
+    <text
+       gorn="0.2.29.0"
+       id="tspan371"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.43763px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.0717229"
+       x="5.2515264"
+       y="1.6207356">CH213K</text>
     <rect
-       style="opacity:1;fill:#000000;fill-rule:evenodd;stroke-width:0.157675;stroke-linejoin:round;stroke-miterlimit:3.9"
+       style="opacity:1;fill:#000000;fill-rule:evenodd;stroke-width:0.0977543;stroke-linejoin:round;stroke-miterlimit:3.9"
        id="rect522"
-       width="0.37349841"
-       height="3.6638417"
-       x="11.560664"
-       y="3.5393422"
-       rx="0.010297595"
-       ry="0.48690838" />
+       width="0.2315591"
+       height="2.2714846"
+       x="7.167305"
+       y="2.1822324"
+       rx="0.0063842353"
+       ry="0.30187026" />
     <path
        sodipodi:type="star"
        style="opacity:1;fill:#000000;fill-rule:evenodd;stroke-width:0.176;stroke-linejoin:round;stroke-miterlimit:3.9"
@@ -279,36 +273,36 @@
        inkscape:rounded="0"
        inkscape:randomized="0"
        d="m 12.076449,4.0906969 2.919228,-1.7209882 0.0308,3.3886195 z"
-       inkscape:transform-center-x="0.48140394"
-       inkscape:transform-center-y="-0.0088928561"
-       transform="translate(-0.14228512,1.2627804)" />
+       inkscape:transform-center-x="0.29845773"
+       inkscape:transform-center-y="-0.0055133585"
+       transform="matrix(0.61997344,0,0,0.61997344,-0.088213,0.77082447)" />
     <rect
-       style="opacity:1;fill:#000000;fill-rule:evenodd;stroke-width:0.138476;stroke-linejoin:round;stroke-miterlimit:3.9"
+       style="opacity:1;fill:#000000;fill-rule:evenodd;stroke-width:0.0858514;stroke-linejoin:round;stroke-miterlimit:3.9"
        id="rect655"
-       width="3.0057733"
-       height="0.23121332"
-       x="14.815438"
-       y="5.2380013"
-       rx="0.010297595"
-       ry="0.23121332" />
+       width="1.8634996"
+       height="0.14334612"
+       x="9.1851788"
+       y="3.2353559"
+       rx="0.0063842353"
+       ry="0.14334612" />
     <rect
-       style="fill:#000000;fill-rule:evenodd;stroke-width:0.11423;stroke-linejoin:round;stroke-miterlimit:3.9"
+       style="fill:#000000;fill-rule:evenodd;stroke-width:0.0708196;stroke-linejoin:round;stroke-miterlimit:3.9"
        id="rect655-2"
-       width="2.0453486"
-       height="0.23121332"
-       x="9.559782"
-       y="5.2378707"
-       rx="0.0070072389"
-       ry="0.23121332" />
+       width="1.2680619"
+       height="0.14334612"
+       x="5.9268112"
+       y="3.2352748"
+       rx="0.0043443022"
+       ry="0.14334612" />
     <rect
-       style="fill:#000000;fill-rule:evenodd;stroke-width:0.11423;stroke-linejoin:round;stroke-miterlimit:3.9"
+       style="fill:#000000;fill-rule:evenodd;stroke-width:0.0708196;stroke-linejoin:round;stroke-miterlimit:3.9"
        id="rect655-2-0"
-       width="2.0453486"
-       height="0.23121332"
-       x="1.5400816"
-       y="10.298363"
-       rx="0.0070072389"
-       ry="0.23121332"
+       width="1.2680619"
+       height="0.14334612"
+       x="0.96286017"
+       y="6.3757238"
+       rx="0.0043443022"
+       ry="0.14334612"
        transform="rotate(-41.85233)" />
   </g>
 </svg>
