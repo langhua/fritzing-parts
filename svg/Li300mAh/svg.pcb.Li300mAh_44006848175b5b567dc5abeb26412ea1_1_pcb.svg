@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   gorn="0"
+   height="18"
+   id="svg4364"
+   version="1.1"
+   width="27"
+   sodipodi:docname="svg.pcb.Li300mAh_44006848175b5b567dc5abeb26412ea1_1_pcb.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview25"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="57.055556"
+     inkscape:cx="12.146056"
+     inkscape:cy="9.0087633"
+     inkscape:window-width="3840"
+     inkscape:window-height="2036"
+     inkscape:window-x="-12"
+     inkscape:window-y="-12"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="copper0" />
+  <defs
+     id="defs4366" />
+  <g
+     gorn="0.1"
+     id="pcb">
+    <g
+       transform="matrix(0.94815735,0,0,0.99352625,0.59290585,0.12807969)"
+       id="g8">
+      <g
+         gorn="0.1.0.0"
+         id="copper0">
+        <circle
+           style="opacity:1;fill:none;fill-rule:evenodd;stroke:#ffcc00;stroke-width:1.32413;stroke-linejoin:round;stroke-miterlimit:3.9"
+           id="connector1pin"
+           cx="8.668088"
+           cy="9.0259476"
+           r="2.4677391" />
+        <rect
+           style="opacity:1;fill:none;fill-rule:evenodd;stroke:#ffcc00;stroke-width:1.13726;stroke-linejoin:miter;stroke-miterlimit:3.9"
+           id="rect370"
+           width="5.4558859"
+           height="5.1548142"
+           x="5.8760219"
+           y="6.465497" />
+        <circle
+           style="fill:none;fill-rule:evenodd;stroke:#ffcc00;stroke-width:1.32413;stroke-linejoin:round;stroke-miterlimit:3.9"
+           id="connector2pin"
+           cx="18.792019"
+           cy="9.0786409"
+           r="2.4677391" />
+      </g>
+    </g>
+    <g
+       gorn="0.1.1"
+       id="silkscreen">
+      <g
+         transform="translate(-0.67322826,-18.028348)"
+         id="g19">
+        <g
+           gorn="0.1.1.1.0"
+           id="g330">
+          <g
+             gorn="0.1.1.1.0.0"
+             id="g328">
+            <g
+               gorn="0.1.1.1.0.0.0"
+               id="g326">
+              <g
+                 gorn="0.1.1.1.0.0.0.0"
+                 id="text8757"
+                 style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:OCRA;-inkscape-font-specification:OCRA"
+                 xml:space="preserve">
+                                <text
+   gorn="0.1.1.1.0.0.0.0.0"
+   id="tspan8759"
+   style="font-size:4;fill:#000000;fill-opacity:1"
+   x="14.173228"
+   y="34.228348">XH2.54</text>
+                            </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <rect
+         gorn="0.1.1.2"
+         height="17.1"
+         id="rect8769"
+         style="fill:none;stroke:#ffffff;stroke-width:0.38810161;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         width="26.107962"
+         x="0.44999999"
+         y="0.45001221" />
+    </g>
+  </g>
+</svg>
