@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+
+<svg
+   height="0.15065695in"
+   version="1.2"
+   viewBox="0 0 10.46071 3.8266864"
+   width="0.4118405in"
+   x="0in"
+   y="0in"
+   id="svg72479"
+   sodipodi:docname="svg.schematic.TS-D014_9a9d0fcb5ec5a6d78a3fc190c8946cc3_1_schematic..svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs72483" />
+  <sodipodi:namedview
+     id="namedview72481"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="in"
+     showgrid="false"
+     inkscape:zoom="47.593246"
+     inkscape:cx="26.201197"
+     inkscape:cy="3.2567646"
+     inkscape:window-width="3840"
+     inkscape:window-height="2036"
+     inkscape:window-x="-12"
+     inkscape:window-y="-12"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="schematic" />
+  <g
+     gorn="0.0"
+     id="schematic"
+     transform="translate(-1.9247957e-5)">
+    <line
+       class="other"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-width="0.254"
+       x1="7.10847"
+       x2="7.7434702"
+       y1="1.397"
+       y2="1.397"
+       id="line72462" />
+    <line
+       class="other"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-width="0.254"
+       x1="2.66347"
+       x2="7.10847"
+       y1="1.397"
+       y2="0.127"
+       id="line72464" />
+    <circle
+       class="other"
+       cx="2.66347"
+       cy="1.397"
+       fill="none"
+       r="0.127"
+       stroke="#000000"
+       stroke-width="0.4064"
+       id="circle72466" />
+    <circle
+       class="other"
+       cx="7.7434702"
+       cy="1.397"
+       fill="none"
+       r="0.127"
+       stroke="#000000"
+       stroke-width="0.4064"
+       id="circle72468" />
+    <line
+       class="pin"
+       connectorname="1"
+       gorn="0.0.4"
+       id="connector0pin"
+       stroke="#787878"
+       stroke-linecap="round"
+       stroke-width="0.246944"
+       x1="0.123472"
+       x2="2.66347"
+       y1="1.397"
+       y2="1.397" />
+    <rect
+       class="terminal"
+       fill="none"
+       gorn="0.0.5"
+       height="9.9999997e-05"
+       id="connector0terminal"
+       stroke="none"
+       stroke-width="0"
+       width="9.9999997e-05"
+       x="0.123472"
+       y="1.397" />
+    <text
+       class="text"
+       fill="#8c8c8c"
+       font-family="'Droid Sans'"
+       font-size="0.881944px"
+       stroke="none"
+       stroke-width="0"
+       text-anchor="middle"
+       x="1.39347"
+       y="1.02658"
+       id="text72472">1</text>
+    <line
+       class="pin"
+       connectorname="2"
+       gorn="0.0.7"
+       id="connector1pin"
+       stroke="#787878"
+       stroke-linecap="round"
+       stroke-width="0.246944"
+       x1="10.333533"
+       x2="7.7935038"
+       y1="1.3914407"
+       y2="1.3914407" />
+    <rect
+       class="terminal"
+       fill="none"
+       gorn="0.0.8"
+       height="9.9999997e-05"
+       id="connector1terminal"
+       stroke="none"
+       stroke-width="0"
+       width="9.9999997e-05"
+       x="10.2835"
+       y="1.397" />
+    <text
+       class="text"
+       fill="#8c8c8c"
+       font-family="'Droid Sans'"
+       font-size="0.881944px"
+       stroke="none"
+       stroke-width="0"
+       text-anchor="middle"
+       x="9.0134697"
+       y="1.02658"
+       id="text72476">2</text>
+    <g
+       gorn="0.0"
+       id="schematic-7"
+       transform="translate(0.04754838,2.0994866)">
+      <circle
+         class="other"
+         cx="2.66347"
+         cy="1.397"
+         fill="none"
+         r="0.127"
+         stroke="#000000"
+         stroke-width="0.4064"
+         id="circle72466-4" />
+      <circle
+         class="other"
+         cx="7.7434702"
+         cy="1.397"
+         fill="none"
+         r="0.127"
+         stroke="#000000"
+         stroke-width="0.4064"
+         id="circle72468-9" />
+      <line
+         class="pin"
+         connectorname="1"
+         gorn="0.0.4"
+         id="connector2pin"
+         stroke="#787878"
+         stroke-linecap="round"
+         stroke-width="0.238168"
+         x1="0.11485163"
+         x2="2.4775162"
+         y1="1.397"
+         y2="1.397" />
+      <line
+         class="pin"
+         connectorname="1"
+         gorn="0.0.4"
+         stroke="#787878"
+         stroke-linecap="round"
+         stroke-width="0.326492"
+         x1="2.9968433"
+         x2="7.4368567"
+         y1="1.3965132"
+         y2="1.3965132"
+         style="stroke-width:0.238;stroke-dasharray:none"
+         id="line432" />
+      <rect
+         class="terminal"
+         fill="none"
+         gorn="0.0.5"
+         height="9.9999997e-05"
+         id="connector2terminal"
+         stroke="none"
+         stroke-width="0"
+         width="9.9999997e-05"
+         x="0.123472"
+         y="1.397" />
+      <text
+         class="text"
+         fill="#8c8c8c"
+         font-family="'Droid Sans'"
+         font-size="0.881944px"
+         stroke="none"
+         stroke-width="0"
+         text-anchor="middle"
+         x="1.39347"
+         y="1.02658"
+         id="text72472-6">3</text>
+      <line
+         class="pin"
+         connectorname="2"
+         gorn="0.0.7"
+         id="connector3pin"
+         stroke="#787878"
+         stroke-linecap="round"
+         stroke-width="0.233786"
+         x1="10.296307"
+         x2="8.0197449"
+         y1="1.397"
+         y2="1.397" />
+      <rect
+         class="terminal"
+         fill="none"
+         gorn="0.0.8"
+         height="9.9999997e-05"
+         id="connector3terminal"
+         stroke="none"
+         stroke-width="0"
+         width="9.9999997e-05"
+         x="10.2835"
+         y="1.397" />
+      <text
+         class="text"
+         fill="#8c8c8c"
+         font-family="'Droid Sans'"
+         font-size="0.881944px"
+         stroke="none"
+         stroke-width="0"
+         text-anchor="middle"
+         x="9.0134697"
+         y="1.02658"
+         id="text72476-0">4</text>
+    </g>
+  </g>
+</svg>

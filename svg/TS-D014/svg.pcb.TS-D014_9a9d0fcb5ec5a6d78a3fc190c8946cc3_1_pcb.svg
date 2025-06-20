@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+
+<svg
+   height="11.225348mm"
+   version="1.2"
+   viewBox="0 0 9.3361505 11.225346"
+   width="9.3361511mm"
+   x="0in"
+   y="0in"
+   id="svg53"
+   sodipodi:docname="svg.pcb.TS-D014_9a9d0fcb5ec5a6d78a3fc190c8946cc3_1_pcb.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs57" />
+  <sodipodi:namedview
+     id="namedview55"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="in"
+     showgrid="false"
+     inkscape:zoom="22.266869"
+     inkscape:cx="24.924924"
+     inkscape:cy="36.242186"
+     inkscape:window-width="3840"
+     inkscape:window-height="2036"
+     inkscape:window-x="-12"
+     inkscape:window-y="-12"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="silkscreen" />
+  <g
+     gorn="0.0"
+     id="copper1"
+     transform="translate(1.4509999,3.4903283)">
+    <circle
+       connectorname="1"
+       cx="-0.96695113"
+       cy="-3.4669509"
+       fill="none"
+       gorn="0.0.2"
+       id="connector0pad"
+       stroke="#f7bd13"
+       stroke-width="0.418803"
+       transform="scale(-1)"
+       r="0.73345119"
+       style="stroke-width:0.467;stroke-dasharray:none" />
+    <circle
+       connectorname="1"
+       cx="-5.4669509"
+       cy="-3.4669509"
+       fill="none"
+       gorn="0.0.2"
+       id="connector1pad"
+       stroke="#f7bd13"
+       stroke-width="0.418803"
+       transform="scale(-1)"
+       r="0.73345119"
+       style="stroke-width:0.467;stroke-dasharray:none" />
+    <circle
+       connectorname="3"
+       cx="0.28292453"
+       cy="-5.9670749"
+       fill="none"
+       gorn="0.0.3"
+       id="connector2pad"
+       r="0.90907532"
+       stroke="#f7bd13"
+       stroke-width="0.519085"
+       transform="scale(-1)"
+       style="stroke-width:0.518;stroke-dasharray:none" />
+    <circle
+       connectorname="3"
+       cx="-6.7170749"
+       cy="-5.9670749"
+       fill="none"
+       gorn="0.0.3"
+       id="connector3pad"
+       r="0.90907532"
+       stroke="#f7bd13"
+       stroke-width="0.519085"
+       transform="scale(-1)"
+       style="stroke-width:0.518;stroke-dasharray:none" />
+  </g>
+  <g
+     gorn="0.1"
+     id="silkscreen"
+     transform="rotate(180,7.8470584,5.3930535)">
+    <line
+       class="other"
+       stroke="#f0f0f0"
+       stroke-linecap="round"
+       stroke-width="0.2032"
+       x1="14.674517"
+       x2="14.674517"
+       y1="2.7251248"
+       y2="4.7251248"
+       id="line24"
+       style="stroke:#cccccc" />
+    <line
+       class="other"
+       stroke="#f0f0f0"
+       stroke-linecap="round"
+       stroke-width="0.2032"
+       x1="7.3775172"
+       x2="7.3775172"
+       y1="4.7251248"
+       y2="2.7251248"
+       id="line32"
+       style="stroke-width:0.2032;stroke-dasharray:none;stroke:#cccccc" />
+    <path
+       style="opacity:1;fill:none;fill-rule:evenodd;stroke:#cccccc;stroke-width:0.217965;stroke-miterlimit:3.9;stroke-dasharray:none"
+       d="M 7.5531176,6.2771251 H 14.553117"
+       id="path34873" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#cccccc;stroke-width:0.149656;stroke-miterlimit:3.9;stroke-dasharray:none"
+       d="M 9.3761176,10.677279 H 12.676117"
+       id="path34873-92" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#cccccc;stroke-width:0.127621;stroke-miterlimit:3.9;stroke-dasharray:none"
+       d="M 12.676267,10.201801 12.748704,6.90264"
+       id="path34873-92-7" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#cccccc;stroke-width:0.1311;stroke-miterlimit:3.9;stroke-dasharray:none"
+       d="M 9.3105917,10.201759 9.2773592,8.611517 9.2416436,6.9024771"
+       id="path34873-92-0"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#cccccc;stroke-width:0.217965;stroke-miterlimit:3.9;stroke-dasharray:none"
+       d="M 7.5511177,-0.32107409 H 14.551117"
+       id="path34873-9" />
+  </g>
+</svg>

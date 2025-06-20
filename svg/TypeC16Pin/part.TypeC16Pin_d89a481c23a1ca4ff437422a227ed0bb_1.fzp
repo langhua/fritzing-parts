@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<module fritzingVersion="0.5.2b.02.18.4756" moduleId="TypeC16Pin_d89a481c23a1ca4ff437422a227ed0bb_1" referenceFile="USB_Type_C.fzp">
+<module fritzingVersion="1.0.3" moduleId="TypeC16Pin_d89a481c23a1ca4ff437422a227ed0bb_1">
  <version>4</version>
  <date>Sat Dec 21 2024</date>
  <author>Shi Jinghai</author>
- <title>USB Type C 16-Pin Breakout</title>
- <label>Type-C</label>
+ <title>USB Type C 16-Pin Connector</title>
+ <label>J</label>
  <tags/>
  <properties>
-  <property name="family">Type C Breakouts</property>
+  <property name="family">Type C Connector</property>
   <property name="part number"></property>
   <property name="layer"></property>
   <property name="mn"></property>
