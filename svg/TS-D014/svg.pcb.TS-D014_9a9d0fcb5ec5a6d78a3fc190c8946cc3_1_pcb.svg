@@ -29,66 +29,69 @@
      inkscape:document-units="in"
      showgrid="false"
      inkscape:zoom="22.266869"
-     inkscape:cx="24.924924"
-     inkscape:cy="36.242186"
+     inkscape:cx="16.661525"
+     inkscape:cy="36.287095"
      inkscape:window-width="3840"
      inkscape:window-height="2036"
      inkscape:window-x="-12"
      inkscape:window-y="-12"
      inkscape:window-maximized="1"
-     inkscape:current-layer="silkscreen" />
+     inkscape:current-layer="copper1" />
   <g
      gorn="0.0"
      id="copper1"
      transform="translate(1.4509999,3.4903283)">
-    <circle
-       connectorname="1"
-       cx="-0.96695113"
-       cy="-3.4669509"
-       fill="none"
-       gorn="0.0.2"
-       id="connector0pad"
-       stroke="#f7bd13"
-       stroke-width="0.418803"
-       transform="scale(-1)"
-       r="0.73345119"
-       style="stroke-width:0.467;stroke-dasharray:none" />
-    <circle
-       connectorname="1"
-       cx="-5.4669509"
-       cy="-3.4669509"
-       fill="none"
-       gorn="0.0.2"
-       id="connector1pad"
-       stroke="#f7bd13"
-       stroke-width="0.418803"
-       transform="scale(-1)"
-       r="0.73345119"
-       style="stroke-width:0.467;stroke-dasharray:none" />
-    <circle
-       connectorname="3"
-       cx="0.28292453"
-       cy="-5.9670749"
-       fill="none"
-       gorn="0.0.3"
-       id="connector2pad"
-       r="0.90907532"
-       stroke="#f7bd13"
-       stroke-width="0.519085"
-       transform="scale(-1)"
-       style="stroke-width:0.518;stroke-dasharray:none" />
-    <circle
-       connectorname="3"
-       cx="-6.7170749"
-       cy="-5.9670749"
-       fill="none"
-       gorn="0.0.3"
-       id="connector3pad"
-       r="0.90907532"
-       stroke="#f7bd13"
-       stroke-width="0.519085"
-       transform="scale(-1)"
-       style="stroke-width:0.518;stroke-dasharray:none" />
+    <g
+       id="copper0">
+      <circle
+         connectorname="1"
+         cx="-0.96695113"
+         cy="-3.4669509"
+         fill="none"
+         gorn="0.0.2"
+         id="connector0pad"
+         stroke="#f7bd13"
+         stroke-width="0.418803"
+         transform="scale(-1)"
+         r="0.73345119"
+         style="stroke-width:0.467;stroke-dasharray:none" />
+      <circle
+         connectorname="1"
+         cx="-5.4669509"
+         cy="-3.4669509"
+         fill="none"
+         gorn="0.0.2"
+         id="connector1pad"
+         stroke="#f7bd13"
+         stroke-width="0.418803"
+         transform="scale(-1)"
+         r="0.73345119"
+         style="stroke-width:0.467;stroke-dasharray:none" />
+      <circle
+         connectorname="3"
+         cx="0.28292453"
+         cy="-5.9670749"
+         fill="none"
+         gorn="0.0.3"
+         id="connector2pad"
+         r="0.90907532"
+         stroke="#f7bd13"
+         stroke-width="0.519085"
+         transform="scale(-1)"
+         style="stroke-width:0.518;stroke-dasharray:none" />
+      <circle
+         connectorname="3"
+         cx="-6.7170749"
+         cy="-5.9670749"
+         fill="none"
+         gorn="0.0.3"
+         id="connector3pad"
+         r="0.90907532"
+         stroke="#f7bd13"
+         stroke-width="0.519085"
+         transform="scale(-1)"
+         style="stroke-width:0.518;stroke-dasharray:none" />
+    </g>
   </g>
   <g
      gorn="0.1"
