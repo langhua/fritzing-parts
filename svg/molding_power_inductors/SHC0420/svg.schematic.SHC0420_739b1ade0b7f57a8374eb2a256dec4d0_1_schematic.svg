@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+
+<svg
+   gorn="0"
+   height="0.10713699in"
+   id="svg8111"
+   version="1.2"
+   viewBox="0 0 15.486971 2.7212725"
+   width="0.60972327in"
+   x="0in"
+   y="0in"
+   sodipodi:docname="svg.schematic.SHC0420_739b1ade0b7f57a8374eb2a256dec4d0_1_schematic.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview43"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="in"
+     showgrid="false"
+     inkscape:zoom="31.981722"
+     inkscape:cx="23.513431"
+     inkscape:cy="5.127929"
+     inkscape:window-width="3840"
+     inkscape:window-height="2036"
+     inkscape:window-x="-12"
+     inkscape:window-y="-12"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8111" />
+  <defs
+     id="defs8115" />
+  <g
+     transform="rotate(-90,1.3624014,1.3624014)"
+     id="g40">
+    <g
+       gorn="0.2.0"
+       id="schematic">
+      <g
+         transform="translate(0,0.00353008)"
+         id="g13">
+        <g
+           gorn="0.2.0.0.0"
+           id="g8431">
+          <path
+             class="other"
+             d="m 0.127,2.66347 a 1.27,1.27 0 0 1 1.27,1.27"
+             fill="none"
+             gorn="0.2.0.0.0.0"
+             id="path8070"
+             stroke="#000000"
+             stroke-width="0.254" />
+          <path
+             class="other"
+             d="m 0.127,5.20347 a 1.27,1.27 0 0 0 1.27,-1.27"
+             fill="none"
+             gorn="0.2.0.0.0.1"
+             id="path8072"
+             stroke="#000000"
+             stroke-width="0.254" />
+          <path
+             class="other"
+             d="m 0.127,5.20347 a 1.27,1.27 0 0 1 1.27,1.27"
+             fill="none"
+             gorn="0.2.0.0.0.2"
+             id="path8074"
+             stroke="#000000"
+             stroke-width="0.254" />
+          <path
+             class="other"
+             d="m 0.127,7.74347 a 1.27,1.27 0 0 0 1.27,-1.27"
+             fill="none"
+             gorn="0.2.0.0.0.3"
+             id="path8076"
+             stroke="#000000"
+             stroke-width="0.254" />
+          <path
+             class="other"
+             d="m 0.127,7.74347 a 1.27,1.27 0 0 1 1.27,1.27"
+             fill="none"
+             gorn="0.2.0.0.0.4"
+             id="path8078"
+             stroke="#000000"
+             stroke-width="0.254" />
+          <path
+             class="other"
+             d="M 0.127,10.2835 A 1.27,1.27 0 0 0 1.397,9.01347"
+             fill="none"
+             gorn="0.2.0.0.0.5"
+             id="path8080"
+             stroke="#000000"
+             stroke-width="0.254" />
+          <path
+             class="other"
+             d="m 0.127,10.2835 a 1.27,1.27 0 0 1 1.27,1.27"
+             fill="none"
+             gorn="0.2.0.0.0.6"
+             id="path8082"
+             stroke="#000000"
+             stroke-width="0.254" />
+          <path
+             class="other"
+             d="m 0.127,12.8235 a 1.27,1.27 0 0 0 1.27,-1.27"
+             fill="none"
+             gorn="0.2.0.0.0.7"
+             id="path8084"
+             stroke="#000000"
+             stroke-width="0.254" />
+        </g>
+      </g>
+      <line
+         class="pin"
+         connectorname="1"
+         gorn="0.2.0.1"
+         id="connector0pin"
+         stroke="#787878"
+         stroke-linecap="round"
+         stroke-width="0.246944"
+         x1="0.127"
+         x2="0.127"
+         y1="0.123472"
+         y2="2.66347" />
+      <rect
+         class="terminal"
+         fill="none"
+         gorn="0.2.0.2"
+         height="9.9999997e-05"
+         id="connector0terminal"
+         stroke="none"
+         stroke-width="0"
+         width="9.9999997e-05"
+         x="0.127"
+         y="0.123472" />
+      <g
+         transform="rotate(180,0.24328428,0.74518163)"
+         id="g24">
+        <g
+           gorn="0.2.0.3.0"
+           id="g8096">
+          <g
+             gorn="0.2.0.3.0.0"
+             id="g8094">
+            <g
+               transform="rotate(-90)"
+               id="g20">
+              <g
+                 gorn="0.2.0.3.0.0.0.0"
+                 id="g8092">
+                <g
+                   gorn="0.2.0.3.0.0.0.0.0"
+                   id="g8090">
+                  <text
+                     class="text"
+                     fill="#8c8c8c"
+                     font-family="'Droid Sans'"
+                     font-size="0.248904"
+                     gorn="0.2.0.3.0.0.0.0.0.0"
+                     id="text8088"
+                     stroke="none"
+                     stroke-width="0"
+                     text-anchor="middle"
+                     x="0"
+                     y="0">1</text>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <line
+         class="pin"
+         connectorname="2"
+         gorn="0.2.0.4"
+         id="connector1pin"
+         stroke="#787878"
+         stroke-linecap="round"
+         stroke-width="0.246944"
+         x1="0.127"
+         x2="0.127"
+         y1="15.3635"
+         y2="12.8235" />
+      <rect
+         class="terminal"
+         fill="none"
+         gorn="0.2.0.5"
+         height="9.9999997e-05"
+         id="connector1terminal"
+         stroke="none"
+         stroke-width="0"
+         width="9.9999997e-05"
+         x="0.127"
+         y="15.3635" />
+      <g
+         transform="rotate(180,-0.45706447,7.0443815)"
+         id="g35">
+        <g
+           gorn="0.2.0.6.0"
+           id="g8108">
+          <g
+             gorn="0.2.0.6.0.0"
+             id="g8106">
+            <g
+               transform="rotate(-90)"
+               id="g31">
+              <g
+                 gorn="0.2.0.6.0.0.0.0"
+                 id="g8104">
+                <g
+                   gorn="0.2.0.6.0.0.0.0.0"
+                   id="g8102">
+                  <text
+                     class="text"
+                     fill="#8c8c8c"
+                     font-family="'Droid Sans'"
+                     font-size="0.248904"
+                     gorn="0.2.0.6.0.0.0.0.0.0"
+                     id="text8100"
+                     stroke="none"
+                     stroke-width="0"
+                     text-anchor="middle"
+                     x="0"
+                     y="-1.40242">2</text>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <path
+         d="M 1.9763768,2.5520292 V 12.942001"
+         gorn="0.2.0.7"
+         id="path8324"
+         style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.2;stroke-linejoin:round;stroke-miterlimit:2" />
+      <path
+         d="M 2.6248076,2.5520293 V 12.942001"
+         gorn="0.2.0.8"
+         id="path8324-2"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.2;stroke-linejoin:round;stroke-miterlimit:2" />
+    </g>
+  </g>
+</svg>

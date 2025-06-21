@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+
+<svg
+   height="0.10713699in"
+   version="1.2"
+   viewBox="0 0 15.486971 2.7212725"
+   width="0.60972327in"
+   x="0in"
+   y="0in"
+   id="svg8111"
+   sodipodi:docname="svg.schematic.SHC0630_e89dce18f675f06fed385c33ab4c6dfc_1_schematic.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8115">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect8328"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect8326"
+       is_visible="true"
+       lpeversion="1"
+       steps="1"
+       threshold="0.00172414"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect8326-7"
+       is_visible="true"
+       lpeversion="1"
+       steps="1"
+       threshold="0.00172414"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect8328-4"
+       is_visible="true"
+       lpeversion="1" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview8113"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="in"
+     showgrid="false"
+     inkscape:zoom="17.545564"
+     inkscape:cx="20.802979"
+     inkscape:cy="9.4040864"
+     inkscape:window-width="3840"
+     inkscape:window-height="2036"
+     inkscape:window-x="-12"
+     inkscape:window-y="-12"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="schematic" />
+  <desc
+     id="desc8068">
+    <referenceFile>sparkfun-passives_inductor_schematic.svg</referenceFile>
+  </desc>
+  <g
+     gorn="0.0"
+     id="schematic"
+     transform="rotate(-90,1.3624014,1.3624014)">
+    <g
+       id="g8431"
+       transform="translate(0,0.00353008)">
+      <path
+         class="other"
+         d="m 0.127,2.66347 a 1.27,1.27 0 0 1 1.27,1.27"
+         fill="none"
+         stroke="#000000"
+         stroke-width="0.254"
+         id="path8070" />
+      <path
+         class="other"
+         d="m 0.127,5.20347 a 1.27,1.27 0 0 0 1.27,-1.27"
+         fill="none"
+         stroke="#000000"
+         stroke-width="0.254"
+         id="path8072" />
+      <path
+         class="other"
+         d="m 0.127,5.20347 a 1.27,1.27 0 0 1 1.27,1.27"
+         fill="none"
+         stroke="#000000"
+         stroke-width="0.254"
+         id="path8074" />
+      <path
+         class="other"
+         d="m 0.127,7.74347 a 1.27,1.27 0 0 0 1.27,-1.27"
+         fill="none"
+         stroke="#000000"
+         stroke-width="0.254"
+         id="path8076" />
+      <path
+         class="other"
+         d="m 0.127,7.74347 a 1.27,1.27 0 0 1 1.27,1.27"
+         fill="none"
+         stroke="#000000"
+         stroke-width="0.254"
+         id="path8078" />
+      <path
+         class="other"
+         d="M 0.127,10.2835 A 1.27,1.27 0 0 0 1.397,9.01347"
+         fill="none"
+         stroke="#000000"
+         stroke-width="0.254"
+         id="path8080" />
+      <path
+         class="other"
+         d="m 0.127,10.2835 a 1.27,1.27 0 0 1 1.27,1.27"
+         fill="none"
+         stroke="#000000"
+         stroke-width="0.254"
+         id="path8082" />
+      <path
+         class="other"
+         d="m 0.127,12.8235 a 1.27,1.27 0 0 0 1.27,-1.27"
+         fill="none"
+         stroke="#000000"
+         stroke-width="0.254"
+         id="path8084" />
+    </g>
+    <line
+       class="pin"
+       connectorname="1"
+       gorn="0.0.8"
+       id="connector0pin"
+       stroke="#787878"
+       stroke-linecap="round"
+       stroke-width="0.246944"
+       x1="0.127"
+       x2="0.127"
+       y1="0.123472"
+       y2="2.66347" />
+    <rect
+       class="terminal"
+       fill="none"
+       gorn="0.0.9"
+       height="9.9999997e-05"
+       id="connector0terminal"
+       stroke="none"
+       stroke-width="0"
+       width="9.9999997e-05"
+       x="0.127"
+       y="0.123472" />
+    <g
+       transform="rotate(180,0.24328428,0.74518163)"
+       id="g8096">
+      <g
+         id="g8094">
+        <g
+           transform="rotate(-90)"
+           id="g8092">
+          <g
+             id="g8090">
+            <text
+               class="text"
+               fill="#8c8c8c"
+               font-family="'Droid Sans'"
+               font-size="0.881944px"
+               stroke="none"
+               stroke-width="0"
+               text-anchor="middle"
+               x="0"
+               y="0"
+               id="text8088">1</text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <line
+       class="pin"
+       connectorname="2"
+       gorn="0.0.11"
+       id="connector1pin"
+       stroke="#787878"
+       stroke-linecap="round"
+       stroke-width="0.246944"
+       x1="0.127"
+       x2="0.127"
+       y1="15.3635"
+       y2="12.8235" />
+    <rect
+       class="terminal"
+       fill="none"
+       gorn="0.0.12"
+       height="9.9999997e-05"
+       id="connector1terminal"
+       stroke="none"
+       stroke-width="0"
+       width="9.9999997e-05"
+       x="0.127"
+       y="15.3635" />
+    <g
+       transform="rotate(180,-0.45706447,7.0443815)"
+       id="g8108">
+      <g
+         id="g8106">
+        <g
+           transform="rotate(-90)"
+           id="g8104">
+          <g
+             id="g8102">
+            <text
+               class="text"
+               fill="#8c8c8c"
+               font-family="'Droid Sans'"
+               font-size="0.881944px"
+               stroke="none"
+               stroke-width="0"
+               text-anchor="middle"
+               x="0"
+               y="-1.40242"
+               id="text8100">2</text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <path
+       style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.2;stroke-linejoin:round;stroke-miterlimit:2"
+       d="M 1.9763768,2.5520292 V 12.942001"
+       id="path8324"
+       inkscape:path-effect="#path-effect8326;#path-effect8328"
+       inkscape:original-d="M 1.9763768,2.5520292 V 12.942001" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.2;stroke-linejoin:round;stroke-miterlimit:2"
+       d="M 2.6248076,2.5520293 V 12.942001"
+       id="path8324-2"
+       inkscape:path-effect="#path-effect8326-7;#path-effect8328-4"
+       inkscape:original-d="M 2.6248076,2.5520293 V 12.942001" />
+  </g>
+</svg>

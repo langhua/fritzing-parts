@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" gorn="0" height="0.80000001in" id="svg80" version="1.2" viewBox="0 0 622.04725 799.99999" width="0.62204725in" x="0in"  y="0in">
+    <desc>
+        <referenceFile>SHC1250_f2629ba0eba9f419a3d075f9c8ec26b7_1_icon.svg</referenceFile>
+    </desc>
+    <defs id="defs84" />
+    <g gorn="0.1" id="breadboard" >
+        <g gorn="0.1.0" id="icon" >
+            <path d="m 0,0 v 339.99999 a 49.998976,60.000001 0 0 1 0,120 V 799.99998 H 622.04723 V 0 Z" fill="#1f7a34" gorn="0.1.0.0" id="path6" stroke="none" stroke-width="0" />
+            <g transform="translate(134.07985,209.06916)" >
+                <g gorn="0.1.0.1.0" id="g24" >
+                    <g gorn="0.1.0.1.0.0" id="g20" >
+                        <g gorn="0.1.0.1.0.0.0" id="g46" >
+                            <g gorn="0.1.0.1.0.0.0.0" id="g44" >
+                                <g gorn="0.1.0.1.0.0.0.0.0" id="g42" >
+                                    <g gorn="0.1.0.1.0.0.0.0.0.0" id="g18" >
+                                        <g transform="translate(261.34372)" >
+                                            <g gorn="0.1.0.1.0.0.0.0.0.0.0.0" id="g16" >
+                                                <g gorn="0.1.0.1.0.0.0.0.0.0.0.0.0" id="g14" >
+                                                    <g gorn="0.1.0.1.0.0.0.0.0.0.0.0.0.0" id="g7970" >
+                                                        <g transform="matrix(2.657573,0,0,2.6576007,658.45232,-321.62017)" >
+                                                            <g gorn="0.1.0.1.0.0.0.0.0.0.0.0.0.0.0.0" id="g10" >
+                                                                <g gorn="0.1.0.1.0.0.0.0.0.0.0.0.0.0.0.0.0" id="g9" >
+                                                                    <g gorn="0.1.0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0" id="rect1358" >
+                                                                        <path d="m -311.48978,158.588 h 68.54917 v 68.54917 h -68.54917 z" gorn="0.1.0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0" id="path1362" style="color:#000000;fill:#b3b3b3;fill-rule:evenodd;stroke-width:118.11;stroke-linejoin:round;stroke-miterlimit:2;-inkscape-stroke:none" />
+                                                                        <path d="m -337.19617,99.533203 c -32.61358,0.0034 -33.34532,2.293097 -33.34875,34.906687 v 118.79225 c 0.003,32.61359 -0.0438,32.95584 32.56978,32.95927 h 121.51864 c 32.61434,-0.002 32.5683,0.0446 32.57173,-32.56978 V 132.10298 c -0.003,-32.614341 -0.34687,-32.567421 -32.96122,-32.569777 z" gorn="0.1.0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1" id="path1364" style="color:#000000;fill:#b3b3b3;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;-inkscape-stroke:none" />
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                        <path d="M -176.69156,-65.153034 H 20.158824" gorn="0.1.0.1.0.0.0.0.0.0.0.0.0.0.1" id="path3158" style="opacity:1;fill:none;fill-rule:evenodd;stroke:#dcdcdc;stroke-width:16.7323;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:2;stroke-dasharray:none;stroke-opacity:1" />
+                                                        <path d="M -176.69156,446.84882 H 20.158829" gorn="0.1.0.1.0.0.0.0.0.0.0.0.0.0.2" id="path3158-0" style="fill:none;fill-rule:evenodd;stroke:#dcdcdc;stroke-width:16.7323;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:2;stroke-dasharray:none;stroke-opacity:1" />
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g transform="translate(295.27558,734.0551)" >
+            <g gorn="0.1.1.0" id="g36" >
+                <g gorn="0.1.1.0.0" id="g31" >
+                    <g gorn="0.1.1.0.0.0" id="g62" >
+                        <g gorn="0.1.1.0.0.0.0" id="g60" >
+                            <rect fill="#8d8c8c" gorn="0.1.1.0.0.0.0.0" height="31.9" id="connector0pin" width="31.93" x="0"  y="0"/>
+                            <rect fill="#8c8663" gorn="0.1.1.0.0.0.0.1" height="16.415199" id="rect50" width="16.444201" x="7.7915301"  y="7.7354398"/>
+                            <polygon fill="#b8af82" gorn="0.1.1.0.0.0.0.2" id="polygon52" points="0,31.9 7.79153,24.1368 7.79153,6.97162 0,0 " />
+                            <polygon fill="#80795b" gorn="0.1.1.0.0.0.0.3" id="polygon54" points="24.2079,7.76321 7.90264,7.76321 0,0 31.93,0 " />
+                            <polygon fill="#5e5b43" gorn="0.1.1.0.0.0.0.4" id="polygon56" points="24.2079,24.1368 24.2079,7.76321 31.93,0 31.93,31.9 " />
+                            <polygon fill="#9a916c" gorn="0.1.1.0.0.0.0.5" id="polygon58" points="0,31.9 7.87486,24.1368 24.2079,24.1368 31.93,31.9 " />
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g transform="translate(295.27558,34.05)" >
+            <g gorn="0.1.2.0" id="g47" >
+                <g gorn="0.1.2.0.0" id="g41" >
+                    <g gorn="0.1.2.0.0.0" id="g77" >
+                        <g gorn="0.1.2.0.0.0.0" id="g75" >
+                            <rect fill="#8d8c8c" gorn="0.1.2.0.0.0.0.0" height="31.9" id="connector1pin" width="31.93" x="0"  y="0"/>
+                            <rect fill="#8c8663" gorn="0.1.2.0.0.0.0.1" height="16.415199" id="rect65" width="16.444201" x="7.7915301"  y="7.7354398"/>
+                            <polygon fill="#b8af82" gorn="0.1.2.0.0.0.0.2" id="polygon67" points="0,31.9 7.79153,24.1368 7.79153,6.97162 0,0 " />
+                            <polygon fill="#80795b" gorn="0.1.2.0.0.0.0.3" id="polygon69" points="24.2079,7.76321 7.90264,7.76321 0,0 31.93,0 " />
+                            <polygon fill="#5e5b43" gorn="0.1.2.0.0.0.0.4" id="polygon71" points="24.2079,24.1368 24.2079,7.76321 31.93,0 31.93,31.9 " />
+                            <polygon fill="#9a916c" gorn="0.1.2.0.0.0.0.5" id="polygon73" points="0,31.9 7.87486,24.1368 24.2079,24.1368 31.93,31.9 " />
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

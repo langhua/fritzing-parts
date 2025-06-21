@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+
+<svg
+   gorn="0"
+   height="0.40000001in"
+   id="svg80"
+   version="1.2"
+   viewBox="0 0 373.236 400"
+   width="0.373236in"
+   x="0in"
+   y="0in"
+   sodipodi:docname="svg.breadboard.SHC0520_b75f63a4f1165cd13d1be47f6e630415_1_breadboard.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview45"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="in"
+     showgrid="false"
+     inkscape:zoom="21.395833"
+     inkscape:cx="9.3008763"
+     inkscape:cy="23.976631"
+     inkscape:window-width="3840"
+     inkscape:window-height="2036"
+     inkscape:window-x="-12"
+     inkscape:window-y="-12"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="icon" />
+  <desc
+     id="desc2">
+    <referenceFile>SHC0630_fbc90cbcf06838b2bd3345bffc5c1d5a_1_breadboard.svg</referenceFile>
+  </desc>
+  <defs
+     id="defs84" />
+  <g
+     gorn="0.1"
+     id="breadboard">
+    <g
+       gorn="0.1.0"
+       id="icon">
+      <path
+         d="m 0,0 v 170 a 30.000002,30.000001 0 0 1 0,60 V 400 H 373.236 V 0 Z"
+         fill="#1f7a34"
+         gorn="0.1.0.0"
+         id="path6"
+         stroke="none"
+         stroke-width="0" />
+      <g
+         gorn="0.1.0.1.0.0.0.0.0.0"
+         id="g7970"
+         transform="translate(364.16747,116.84518)">
+        <path
+           d="m -211.89079,-21.606339 h 78.74016"
+           gorn="0.1.0.1.0.0.0.0.0.0.1"
+           id="path3158"
+           style="opacity:1;fill:none;fill-rule:evenodd;stroke:#dcdcdc;stroke-width:8.61205;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:2;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           d="m -211.89079,189.8862 h 78.74016"
+           gorn="0.1.0.1.0.0.0.0.0.0.2"
+           id="path3158-0"
+           style="fill:none;fill-rule:evenodd;stroke:#dcdcdc;stroke-width:8.61205;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:2;stroke-dasharray:none;stroke-opacity:1" />
+        <g
+           transform="matrix(1.0967762,0,0,1.0967876,129.76619,-127.93931)"
+           id="g9">
+          <g
+             gorn="0.1.0.1.0.0.0.0.0.0.0.0"
+             id="rect1358">
+            <path
+               d="m -311.48978,158.588 h 68.54917 v 68.54917 h -68.54917 z"
+               gorn="0.1.0.1.0.0.0.0.0.0.0.0.0"
+               id="path1362"
+               style="color:#000000;fill:#b3b3b3;fill-rule:evenodd;stroke-width:118.11;stroke-linejoin:round;stroke-miterlimit:2;-inkscape-stroke:none" />
+            <path
+               d="m -337.19617,99.533203 c -32.61358,0.0034 -33.34532,2.293097 -33.34875,34.906687 v 118.79225 c 0.003,32.61359 -0.0438,32.95584 32.56978,32.95927 h 121.51864 c 32.61434,-0.002 32.5683,0.0446 32.57173,-32.56978 V 132.10298 c -0.003,-32.614341 -0.34687,-32.567421 -32.96122,-32.569777 z"
+               gorn="0.1.0.1.0.0.0.0.0.0.0.0.1"
+               id="path1364"
+               style="color:#000000;fill:#b3b3b3;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;-inkscape-stroke:none" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       transform="translate(170.653,334.05512)"
+       id="g31">
+      <g
+         gorn="0.1.1.0"
+         id="g62">
+        <g
+           gorn="0.1.1.0.0"
+           id="g60">
+          <rect
+             fill="#8d8c8c"
+             gorn="0.1.1.0.0.0"
+             height="31.9"
+             id="connector0pin"
+             width="31.93"
+             x="0"
+             y="0" />
+          <rect
+             fill="#8c8663"
+             gorn="0.1.1.0.0.1"
+             height="16.415199"
+             id="rect50"
+             width="16.444201"
+             x="7.7915301"
+             y="7.7354398" />
+          <polygon
+             fill="#b8af82"
+             gorn="0.1.1.0.0.2"
+             id="polygon52"
+             points="7.79153,6.97162 0,0 0,31.9 7.79153,24.1368 " />
+          <polygon
+             fill="#80795b"
+             gorn="0.1.1.0.0.3"
+             id="polygon54"
+             points="0,0 31.93,0 24.2079,7.76321 7.90264,7.76321 " />
+          <polygon
+             fill="#5e5b43"
+             gorn="0.1.1.0.0.4"
+             id="polygon56"
+             points="31.93,0 31.93,31.9 24.2079,24.1368 24.2079,7.76321 " />
+          <polygon
+             fill="#9a916c"
+             gorn="0.1.1.0.0.5"
+             id="polygon58"
+             points="24.2079,24.1368 31.93,31.9 0,31.9 7.87486,24.1368 " />
+        </g>
+      </g>
+    </g>
+    <g
+       transform="translate(170.653,34.05)"
+       id="g41">
+      <g
+         gorn="0.1.2.0"
+         id="g77">
+        <g
+           gorn="0.1.2.0.0"
+           id="g75">
+          <rect
+             fill="#8d8c8c"
+             gorn="0.1.2.0.0.0"
+             height="31.9"
+             id="connector1pin"
+             width="31.93"
+             x="0"
+             y="0" />
+          <rect
+             fill="#8c8663"
+             gorn="0.1.2.0.0.1"
+             height="16.415199"
+             id="rect65"
+             width="16.444201"
+             x="7.7915301"
+             y="7.7354398" />
+          <polygon
+             fill="#b8af82"
+             gorn="0.1.2.0.0.2"
+             id="polygon67"
+             points="0,31.9 7.79153,24.1368 7.79153,6.97162 0,0 " />
+          <polygon
+             fill="#80795b"
+             gorn="0.1.2.0.0.3"
+             id="polygon69"
+             points="24.2079,7.76321 7.90264,7.76321 0,0 31.93,0 " />
+          <polygon
+             fill="#5e5b43"
+             gorn="0.1.2.0.0.4"
+             id="polygon71"
+             points="24.2079,24.1368 24.2079,7.76321 31.93,0 31.93,31.9 " />
+          <polygon
+             fill="#9a916c"
+             gorn="0.1.2.0.0.5"
+             id="polygon73"
+             points="0,31.9 7.87486,24.1368 24.2079,24.1368 31.93,31.9 " />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

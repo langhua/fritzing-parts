@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+
+<svg
+   gorn="0"
+   height="12.641031mm"
+   id="svg8886"
+   version="1.2"
+   viewBox="0 0 14.500029 12.641054"
+   width="14.5mm"
+   x="0in"
+   y="0in"
+   sodipodi:docname="svg.pcb.SHC1265_55f22b93be09cd9313fc73f38dc7b9ff_1_pcb.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2044"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="21.495642"
+     inkscape:cx="18.841028"
+     inkscape:cy="23.865302"
+     inkscape:window-width="3840"
+     inkscape:window-height="2036"
+     inkscape:window-x="-12"
+     inkscape:window-y="-12"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8886" />
+  <desc
+     id="desc2022">
+    <referenceFile>SHC1250_f2629ba0eba9f419a3d075f9c8ec26b7_1_pcb.svg</referenceFile>
+  </desc>
+  <defs
+     id="defs8890" />
+  <g
+     transform="matrix(2.7462177,0,0,2.3475654,0,2.6072244)"
+     id="g2030">
+    <g
+       gorn="0.1.0"
+       id="g1191">
+      <g
+         gorn="0.1.0.0"
+         id="g8">
+        <g
+           gorn="0.1.0.0.0"
+           id="copper1">
+          <rect
+             connectorname="1"
+             fill="#f7bd13"
+             gorn="0.1.0.0.0.0"
+             height="2.3428571"
+             id="connector0pad"
+             stroke="none"
+             stroke-linecap="round"
+             stroke-width="0"
+             width="1.1834482"
+             x="0"
+             y="0.4016" />
+          <rect
+             connectorname="2"
+             fill="#f7bd13"
+             gorn="0.1.0.0.0.1"
+             height="2.3428571"
+             id="connector1pad"
+             stroke="none"
+             stroke-linecap="round"
+             stroke-width="0"
+             width="1.1834482"
+             x="4.0965514"
+             y="0.4016" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     transform="matrix(1.9076579,0,0,1.9144357,0.57554745,0.00612543)"
+     id="g2041">
+    <g
+       gorn="0.2.0"
+       id="g1201">
+      <g
+         gorn="0.2.0.0"
+         id="g17">
+        <g
+           gorn="0.2.0.0.0"
+           id="silkscreen">
+          <line
+             class="other"
+             gorn="0.2.0.0.0.0"
+             id="line8881"
+             stroke="#f0f0f0"
+             stroke-linecap="round"
+             stroke-width="0.285571"
+             style="stroke:#999999;stroke-width:0.20124;stroke-dasharray:none"
+             x1="0.30062038"
+             x2="6.6993747"
+             y1="0.097420402"
+             y2="0.097420402" />
+          <line
+             class="other"
+             gorn="0.2.0.0.0.1"
+             id="line8883"
+             stroke="#f0f0f0"
+             stroke-linecap="round"
+             stroke-width="0.282978"
+             style="stroke:#999999;stroke-width:0.203007;stroke-dasharray:none"
+             x1="0.3015039"
+             x2="6.695457"
+             y1="6.4983163"
+             y2="6.4983163" />
+          <path
+             d="M 0.3079331,0.0876368 V 1.7947387"
+             gorn="0.2.0.0.0.2"
+             id="path17523"
+             style="opacity:1;fill:none;fill-rule:evenodd;stroke:#999999;stroke-width:0.220849;stroke-linejoin:round;stroke-miterlimit:2;stroke-dasharray:none" />
+          <path
+             d="M 0.30850605,4.7898171 V 6.4969189"
+             gorn="0.2.0.0.0.3"
+             id="path17523-7"
+             style="fill:none;fill-rule:evenodd;stroke:#999999;stroke-width:0.220849;stroke-linejoin:round;stroke-miterlimit:2;stroke-dasharray:none" />
+          <path
+             d="M 6.6887457,0.10010575 V 1.8072076"
+             gorn="0.2.0.0.0.4"
+             id="path17523-77"
+             style="fill:none;fill-rule:evenodd;stroke:#999999;stroke-width:0.220849;stroke-linejoin:round;stroke-miterlimit:2;stroke-dasharray:none" />
+          <path
+             d="M 6.6887457,4.7898171 V 6.4969189"
+             gorn="0.2.0.0.0.5"
+             id="path17523-7-2"
+             style="fill:none;fill-rule:evenodd;stroke:#999999;stroke-width:0.220849;stroke-linejoin:round;stroke-miterlimit:2;stroke-dasharray:none" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
