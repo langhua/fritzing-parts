@@ -2,9 +2,9 @@
 <!-- Created with Fritzing (http://www.fritzing.org/) -->
 
 <svg
-   height="11.225348mm"
+   height="10.216165mm"
    version="1.2"
-   viewBox="0 0 9.3361505 11.225346"
+   viewBox="0 0 9.3361505 10.216162"
    width="9.3361511mm"
    x="0in"
    y="0in"
@@ -29,18 +29,18 @@
      inkscape:document-units="in"
      showgrid="false"
      inkscape:zoom="22.266869"
-     inkscape:cx="16.661525"
-     inkscape:cy="36.287095"
+     inkscape:cx="8.3981273"
+     inkscape:cy="32.514675"
      inkscape:window-width="3840"
      inkscape:window-height="2036"
      inkscape:window-x="-12"
      inkscape:window-y="-12"
      inkscape:window-maximized="1"
-     inkscape:current-layer="copper1" />
+     inkscape:current-layer="silkscreen" />
   <g
      gorn="0.0"
      id="copper1"
-     transform="translate(1.4509999,3.4903283)">
+     transform="translate(1.4509999,2.4903284)">
     <g
        id="copper0">
       <circle
@@ -96,7 +96,7 @@
   <g
      gorn="0.1"
      id="silkscreen"
-     transform="rotate(180,7.8470584,5.3930535)">
+     transform="rotate(180,7.8470584,4.8930535)">
     <line
        class="other"
        stroke="#f0f0f0"
@@ -118,22 +118,22 @@
        y1="4.7251248"
        y2="2.7251248"
        id="line32"
-       style="stroke-width:0.2032;stroke-dasharray:none;stroke:#cccccc" />
+       style="stroke:#cccccc;stroke-width:0.2032;stroke-dasharray:none" />
     <path
        style="opacity:1;fill:none;fill-rule:evenodd;stroke:#cccccc;stroke-width:0.217965;stroke-miterlimit:3.9;stroke-dasharray:none"
        d="M 7.5531176,6.2771251 H 14.553117"
        id="path34873" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#cccccc;stroke-width:0.149656;stroke-miterlimit:3.9;stroke-dasharray:none"
-       d="M 9.3761176,10.677279 H 12.676117"
+       d="M 9.3761176,9.7112791 H 12.676117"
        id="path34873-92" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#cccccc;stroke-width:0.127621;stroke-miterlimit:3.9;stroke-dasharray:none"
-       d="M 12.676267,10.201801 12.748704,6.90264"
+       d="m 12.676267,9.6847064 0.07244,-3.299161"
        id="path34873-92-7" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#cccccc;stroke-width:0.1311;stroke-miterlimit:3.9;stroke-dasharray:none"
-       d="M 9.3105917,10.201759 9.2773592,8.611517 9.2416436,6.9024771"
+       d="M 9.3105917,9.6846644 9.2773592,8.0944224 9.2416436,6.3853825"
        id="path34873-92-0"
        sodipodi:nodetypes="ccc" />
     <path
