@@ -24,16 +24,49 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="35.115234"
-     inkscape:cx="-9.710885"
-     inkscape:cy="14.665999"
+     inkscape:cx="4.9266367"
+     inkscape:cy="11.277157"
      inkscape:window-width="3840"
      inkscape:window-height="2036"
      inkscape:window-x="-12"
      inkscape:window-y="-12"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g395" />
+     inkscape:current-layer="silkscreen" />
   <defs
-     id="defs4366" />
+     id="defs4366">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect13087"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect13085"
+       is_visible="true"
+       lpeversion="1"
+       steps="1"
+       threshold="0.00172414"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect13085-1"
+       is_visible="true"
+       lpeversion="1"
+       steps="1"
+       threshold="0.00172414"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect13087-9"
+       is_visible="true"
+       lpeversion="1" />
+  </defs>
   <g
      gorn="0.1"
      id="pcb"
@@ -203,6 +236,21 @@
             </g>
           </g>
         </g>
+      </g>
+      <g
+         id="g13151">
+        <path
+           style="opacity:1;fill:none;fill-rule:evenodd;stroke:#333333;stroke-width:0.755906;stroke-miterlimit:3.9"
+           d="m 11.062365,-2.1292637 h 3.274932"
+           id="path13083"
+           inkscape:path-effect="#path-effect13085;#path-effect13087"
+           inkscape:original-d="m 11.062365,-2.1292637 h 3.274932" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#333333;stroke-width:0.755906;stroke-miterlimit:3.9"
+           d="m 12.771025,-3.7382525 v 3.27493247"
+           id="path13083-3"
+           inkscape:path-effect="#path-effect13085-1;#path-effect13087-9"
+           inkscape:original-d="m 12.771025,-3.7382525 v 3.27493247" />
       </g>
     </g>
   </g>
